@@ -271,6 +271,16 @@ npm start            # http://localhost:3000
   çıkarıldı — yıllık birikim için şart). GitHub Pages yalnız public repo'da ücretsiz.
   Git bu makineye winget ile kuruldu; yerel repo init + seed commit tamamlandı.
   Wix tarafında iframe sabit yükseklikte olduğundan yükseklik bol tutulur.
+- **Dağıtım CANLI (2026-08-01):** `https://alicaneren-ll.github.io/books/` (GitHub
+  Actions ile haftalık deploy doğrulandı). Pipeline'daki iki hata düzeltildi:
+  (a) Node 18'de `File` global'i yok (undici) → workflow `node-version: 22`;
+  (b) `upload-pages-artifact` dizin ister → `_site/` klasörü hazırlanıp yüklenir.
+  Bulut runner kaynak kapsamı (log'dan doğrulandı): idefix, iletisim, ithaki, iskultur,
+  kirmizikedi, dogan, ketebe, metis ÇALIŞIYOR; kitapyurdu, can, yky, everest, ayrinti
+  bulut IP'sinden **403** (scraper atlıyor); jaguar 0 kitap; Google Books 429 → Open
+  Library yedeği. Yerel makinede kitapyurdu dahil daha geniş kapsam var — ilk seed
+  (kitapyurdu kitapları) repo'da olduğundan listede duruyor; ilerleyen haftalarda
+  bulut runner yeni kitapyurdu kitabı ekleyemez (kapsam farkı kabul edildi).
 
 ## Review Bulguları (2026-08-01)
 - [x] Tek kaynak hatası tüm scrape'i durduruyor → **DÜZELTİLDİ (2026-08-01):** `runScraper`
