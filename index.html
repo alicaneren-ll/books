@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026'da Yeni Çıkan Kitaplar</title>
+  <style>:root {
+  --bg: #0d1713;
+  --bg-soft: #12201b;
+  --surface: #162620;
+  --surface-2: #1d322a;
+  --border: #24423a;
+  --text: #e8f2ee;
+  --text-dim: #9db8af;
+  --accent: #ff5a7c;
+  --accent-strong: #e8436b;
+  --accent-soft: rgba(255, 90, 124, 0.12);
+  --accent-border: rgba(255, 90, 124, 0.3);
+  --accent-glow: rgba(232, 67, 107, 0.2);
+  --danger: #e06c6c;
+  --radius: 14px;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  --bg-glow: #1a3a2e;
+  --glass-bg: rgba(13, 23, 19, 0.82);
+  --glass-bg-soft: rgba(13, 23, 19, 0.6);
+  --overlay-bg: rgba(6, 12, 10, 0.78);
+  --cover-fallback: #2a4a3e;
+  --cover-fallback-2: #173028;
+  --on-cover: rgba(255, 255, 255, 0.92);
+  --badge-border: rgba(255, 255, 255, 0.18);
+  --badge-text: #fff;
+  color-scheme: dark;
+}
+
+[data-theme="light"] {
+  --bg: #f5f3ee;
+  --bg-soft: #ede9e0;
+  --surface: #ffffff;
+  --surface-2: #e8e3d7;
+  --border: #d9d1c2;
+  --text: #1d2b26;
+  --text-dim: #5f7068;
+  --accent: #A90432;
+  --accent-strong: #8a0329;
+  --accent-soft: rgba(169, 4, 50, 0.08);
+  --accent-border: rgba(169, 4, 50, 0.25);
+  --accent-glow: rgba(169, 4, 50, 0.16);
+  --danger: #b84747;
+  --shadow: 0 10px 30px rgba(60, 70, 64, 0.16);
+  --bg-glow: #dbe9e0;
+  --glass-bg: rgba(255, 255, 255, 0.82);
+  --glass-bg-soft: rgba(255, 255, 255, 0.7);
+  --overlay-bg: rgba(20, 25, 22, 0.55);
+  --cover-fallback: #dce8e1;
+  --cover-fallback-2: #c4d5ca;
+  --on-cover: rgba(255, 255, 255, 0.92);
+  --badge-border: rgba(30, 45, 39, 0.18);
+  --badge-text: #1d2b26;
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+[hidden] { display: none !important; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: radial-gradient(1200px 600px at 80% -10%, var(--bg-glow) 0%, var(--bg) 55%);
+  background-attachment: fixed;
+  color: var(--text);
+  min-height: 100vh;
+  line-height: 1.55;
+}
+
+.container { max-width: 1160px; margin: 0 auto; padding: 0 22px; }
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-strong); }
+
+/* ---------- header ---------- */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--glass-bg);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+.header-inner { display: flex; align-items: center; justify-content: space-between; height: 64px; }
+.brand { display: flex; align-items: center; gap: 10px; color: var(--text); font-weight: 700; }
+.brand-mark { font-size: 22px; }
+.brand-text { font-size: 17px; letter-spacing: 0.3px; }
+.brand-text em { font-style: normal; color: var(--accent); margin-left: 5px; font-weight: 800; }
+.header-nav { display: flex; align-items: center; gap: 22px; font-size: 14.5px; font-weight: 500; }
+.header-nav a { color: var(--text-dim); }
+.header-nav a:hover { color: var(--text); }
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-dim);
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+.theme-toggle:hover { border-color: var(--accent-strong); color: var(--accent); }
+.theme-toggle svg { width: 18px; height: 18px; }
+.theme-toggle .icon-sun { display: none; }
+[data-theme="light"] .theme-toggle .icon-moon { display: none; }
+[data-theme="light"] .theme-toggle .icon-sun { display: block; }
+
+/* ---------- hero ---------- */
+.hero { padding: 72px 0 44px; text-align: center; }
+.hero-kicker {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: var(--accent);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 16px;
+  margin-bottom: 22px;
+}
+.hero-title {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(34px, 5.2vw, 58px);
+  line-height: 1.12;
+  font-weight: 700;
+  max-width: 760px;
+  margin: 0 auto 16px;
+}
+.hero-title span { color: var(--accent); }
+.hero-sub { color: var(--text-dim); font-size: 18px; margin-bottom: 30px; }
+
+.search-wrap { max-width: 560px; margin: 0 auto; }
+.search-input {
+  width: 100%;
+  padding: 15px 22px;
+  font-size: 16px;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.search-input::placeholder { color: var(--text-dim); }
+.search-input:focus { border-color: var(--accent-strong); box-shadow: 0 0 0 4px var(--accent-glow); }
+
+/* ---------- main ---------- */
+main { padding-bottom: 40px; }
+.toolbar { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 26px; flex-wrap: wrap; }
+.section-title { font-family: 'Playfair Display', serif; font-size: 26px; }
+.count-badge {
+  font-size: 13px;
+  color: var(--text-dim);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 5px 14px;
+  border-radius: 999px;
+}
+
+/* ---------- filters ---------- */
+.filters { display: flex; flex-direction: column; gap: 12px; margin-bottom: 24px; }
+.filter-row { display: flex; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
+.filter-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  padding-top: 7px;
+  min-width: 68px;
+}
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  font: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-dim);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 14px;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.chip:hover { color: var(--text); border-color: var(--accent-strong); }
+.chip.active {
+  color: #06281c;
+  background: var(--accent);
+  border-color: var(--accent);
+  font-weight: 700;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 22px;
+}
+
+/* ---------- book card ---------- */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+  display: flex;
+  flex-direction: column;
+}
+.card:hover { transform: translateY(-4px); border-color: var(--accent-strong); box-shadow: var(--shadow); }
+
+.cover {
+  position: relative;
+  aspect-ratio: 2 / 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(145deg, var(--surface-2), var(--bg-soft));
+}
+.cover img { width: 100%; height: 100%; object-fit: cover; }
+.cover.img-error { background: linear-gradient(145deg, var(--cover-fallback), var(--cover-fallback-2)); }
+.modal-cover img { width: 100%; height: 100%; object-fit: cover; }
+.modal-cover.img-error { background: linear-gradient(160deg, var(--cover-fallback), var(--cover-fallback-2)); }
+.cover-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px;
+  text-align: center;
+  color: var(--on-cover);
+}
+.cover-placeholder .initial {
+  font-family: 'Playfair Display', serif;
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 1;
+}
+.cover-placeholder .ph-title {
+  font-size: 12px;
+  opacity: 0.85;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.source-badges { position: absolute; top: 10px; left: 10px; display: flex; gap: 6px; flex-wrap: wrap; }
+.source-badge {
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: var(--glass-bg);
+  border: 1px solid var(--badge-border);
+  color: var(--badge-text);
+}
+
+.card-body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.card-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-author { color: var(--text-dim); font-size: 13.5px; }
+.card-publisher { color: var(--text-dim); font-size: 12px; }
+.card-category {
+  align-self: flex-start;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-border);
+  padding: 2px 9px;
+  border-radius: 999px;
+}
+.card-prices { margin-top: auto; padding-top: 8px; display: flex; flex-wrap: wrap; gap: 8px; }
+.price {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+.price .p-src { color: var(--text-dim); font-weight: 500; }
+
+/* ---------- empty / misc ---------- */
+.empty {
+  text-align: center;
+  color: var(--text-dim);
+  padding: 60px 0;
+  font-size: 16px;
+}
+.link-btn {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.link-btn:hover { color: var(--accent-strong); }
+.about { padding: 40px 0 50px; border-top: 1px solid var(--border); }
+.about p { color: var(--text-dim); max-width: 780px; margin-top: 10px; font-size: 14.5px; }
+.legal-note { font-size: 13px !important; opacity: 0.85; }
+.legal-note code { background: var(--surface); padding: 2px 6px; border-radius: 6px; }
+
+/* ---------- footer ---------- */
+.site-footer { border-top: 1px solid var(--border); padding: 22px 0; background: var(--glass-bg-soft); }
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: var(--text-dim);
+}
+
+/* ---------- modal ---------- */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--overlay-bg);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 50;
+}
+.modal {
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  max-width: 640px;
+  width: 100%;
+  max-height: 88vh;
+  overflow-y: auto;
+  box-shadow: var(--shadow);
+}
+.modal-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  z-index: 2;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 15px;
+}
+.modal-close:hover { border-color: var(--danger); color: var(--danger); }
+.modal-body { padding: 0; }
+.modal-grid { display: grid; grid-template-columns: 190px 1fr; }
+.modal-cover { aspect-ratio: 2 / 3; background: var(--surface-2); }
+.modal-cover img { width: 100%; height: 100%; object-fit: cover; }
+.modal-info { padding: 24px; }
+.modal-info h2 { font-family: 'Playfair Display', serif; font-size: 24px; line-height: 1.2; margin-bottom: 6px; }
+.modal-author { color: var(--accent); font-weight: 600; margin-bottom: 16px; }
+.meta { display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px; font-size: 14px; color: var(--text-dim); }
+.meta b { color: var(--text); font-weight: 600; }
+.meta a { word-break: break-all; }
+.desc { font-size: 14.5px; color: var(--text-dim); margin-bottom: 18px; }
+.desc.no-description { font-style: italic; opacity: 0.7; }
+.source-list { display: flex; flex-direction: column; gap: 8px; }
+.source-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 11px 14px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.source-link:hover { border-color: var(--accent-strong); }
+.source-link .price { background: var(--bg-soft); }
+.source-link .go { color: var(--text-dim); font-size: 12px; font-weight: 500; }
+
+.modal-cover-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-align: center;
+  padding: 16px;
+  color: var(--on-cover);
+}
+.modal-cover-placeholder .initial { font-family: 'Playfair Display', serif; font-size: 52px; font-weight: 700; }
+
+/* ---------- Google Books preview ---------- */
+.gb-preview { margin-top: 18px; border-top: 1px solid var(--border); padding-top: 16px; display: flex; flex-direction: column; gap: 10px; }
+.gb-preview-btn {
+  align-self: flex-start;
+  background: var(--surface-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 10px 16px;
+  border-radius: 10px;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+.gb-preview-btn:hover { border-color: var(--accent-strong); color: var(--accent); }
+.gb-link { font-size: 13.5px; font-weight: 500; }
+.gb-viewer { width: 100%; height: 460px; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; background: var(--bg-soft); }
+.gb-notfound { font-size: 13px; color: var(--text-dim); }
+
+/* ---------- responsive ---------- */
+@media (max-width: 640px) {
+  .hero { padding: 52px 0 34px; }
+  .grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px; }
+  .modal-grid { grid-template-columns: 1fr; }
+  .modal-cover { aspect-ratio: 16 / 10; }
+  .modal-cover img { object-fit: contain; background: var(--bg-soft); }
+  .footer-inner { flex-direction: column; text-align: center; }
+}
+</style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+  <script>
+    (function () {
+      var stored = null;
+      try { stored = localStorage.getItem('theme'); } catch (e) {}
+      var theme = stored || (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+      document.documentElement.dataset.theme = theme;
+    })();
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">
+        <span class="brand-mark">📚</span>
+        <span class="brand-text">Yeni<em>Kitaplar</em></span>
+      </a>
+      <nav class="header-nav">
+        <a href="#kitaplar">Kitaplar</a>
+        <a href="#hakkinda">Hakkında</a>
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Açık/koyu tema değiştir" title="Tema değiştir">
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <p class="hero-kicker">Yıl boyunca düzenli güncellenir</p>
+      <h1 class="hero-title">2026'da <span>Yeni Çıkan</span> Kitaplar</h1>
+      <p class="hero-sub" id="year-label">Yükleniyor…</p>
+      <div class="search-wrap">
+        <input type="search" id="search" class="search-input" placeholder="Başlık veya yazar ara…" autocomplete="off" />
+      </div>
+    </div>
+  </section>
+
+  <main class="container" id="kitaplar">
+    <div class="toolbar">
+      <h2 class="section-title">2026 Yılı Derlemesi</h2>
+      <span class="count-badge" id="book-count">0 kitap</span>
+    </div>
+    <div class="filters" id="filters" hidden>
+      <div class="filter-row">
+        <span class="filter-label">Kategori</span>
+        <div class="chips" id="category-chips"></div>
+      </div>
+      <div class="filter-row">
+        <span class="filter-label">Yayınevi</span>
+        <div class="chips" id="publisher-chips"></div>
+      </div>
+    </div>
+    <div class="grid" id="book-grid"></div>
+    <p class="empty" id="empty-state" hidden>
+      Henüz derlenmiş kitap bulunamadı. Kaynak sitelerin güncellenmesi veya
+      <button class="link-btn" id="refresh-btn">derlemeyi yenile</button> gerekebilir.
+    </p>
+  </main>
+
+  <section class="about container" id="hakkinda">
+    <h2 class="section-title">Hakkında</h2>
+    <p>
+      Bu site, Kitapyurdu, idefix ve çeşitli yayınevlerinin "yeni çıkan" akışlarından
+      derlenen, 2026 yılı içinde ilk kez görülen kitapları tek listede toplar. Kitap
+      bilgileri yalnızca olgusal meta veriden oluşur (başlık, yazar, yayınevi, fiyat,
+      bağlantı); kapak görselleri Google Books ve Open Library API'lerinden sağlanır.
+      Detaylar için satıcı sayfalarına link verilir.
+    </p>
+    <p class="legal-note">
+      Veriler bilgilendirme amaçlıdır; ticari kullanım için kaynak sitelerin yazılı izni
+      gerekir. Detaylı uyum açıklaması için <code>LEGAL.md</code> dosyasına bakın.
+    </p>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>Kaynak: Kitapyurdu · idefix · Can · İletişim · İthaki · İş Bankası Kültür · YKY · Everest · Kırmızı Kedi · Doğan Kitap · Ayrıntı · Jaguar · Ketebe · Metis</span>
+      <span id="scrape-info"></span>
+    </div>
+  </footer>
+
+  <div class="modal-overlay" id="modal" hidden>
+    <div class="modal" role="dialog" aria-modal="true">
+      <button class="modal-close" id="modal-close" aria-label="Kapat">✕</button>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <script>window.__STATIC_BOOKS__ = {"year":"2026","label":"2026 yılı yeni çıkan kitaplar","scrapedAt":"2026-08-01T08:14:33.140Z","bookCount":168,"books":[{"title":"50 Dünya Tarihi Seti (5 Kitap)","author":"Daniel Smith","publisher":"ORENDA KİTAP","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/50-dunya-tarihi-seti-5-kitap/755423.html","price":644}]},{"title":"7 Çeşit Evet","author":"Nermin Berrak Yurdakul","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/7-cesit-evet/756091.html","price":75}]},{"title":"7’den 77’ye Hayat Defteri","author":"Mümine Yıldız","publisher":"Novus","category":"Kişisel Gelişim","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fhayat-defteri-o-kapak.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/7den-77ye-hayat-defteri","price":null}]},{"title":"Ada'nın Kırık Terazisi","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/d23cc7b7-b80f-44b9-ad5d-db2d8b27be20.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/ada-nin-kirik-terazisi-p-7483","price":187.5}]},{"title":"Ahmet Telli (Ciltli)","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368100_9786253696658_62116.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/ahmet-telli-ciltli-fusun-demiray-kitabi-368100-9786253696658","price":422.5}]},{"title":"Alelade Bir Cinayet","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368560_9786253696757.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/alelade-bir-cinayet-faruk-turinay-kitabi-368560-9786253696757","price":159.25}]},{"title":"Amcam Sokrat","author":"Victoria Rowe Holbrook","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103690","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37541","price":null}]},{"title":"Andımız","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/67f5272d-0db1-42a1-871d-2380ee3bc864.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/andimiz-p-7368","price":262.5}]},{"title":"Anna, Kız Kardeşim…","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368103_9786253696801.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/anna-kiz-kardesim-marguerite-yourcenar-kitabi-368103-9786253696801","price":113.75}]},{"title":"Annelik Kılavuzu & Bilinçli Annenin Elkitabı","author":"Psk. Havvanur Karacagün Hakkari","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/annelik-kilavuzu-bilincli-annenin-elkitabi/724048.html","price":75}]},{"title":"Antarktika","author":"Claire Keegan","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/antarktika-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/antarktika/","price":null}]},{"title":"Arayış","author":null,"publisher":"Kırk Yayınevi","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/aa0b7c4e-d92b-4a9e-906a-47366c7b4371.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/arayis-p-7475","price":150}]},{"title":"Aru Shah ve Altın Şehir","author":"Roshani Chokshi","publisher":null,"category":"5.","isbn":null,"cover":null,"description":null,"publishedDate":"2026-08-06","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/aru-shah-ve-altin-sehir-2","price":336}]},{"title":"Aru Shah ve Dilek Ağacı","author":"Roshani Chokshi","publisher":null,"category":"5.","isbn":null,"cover":null,"description":null,"publishedDate":"2026-08-06","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/aru-shah-ve-dilek-agaci-2","price":336}]},{"title":"Aru Shah Ve Ölüm Şarkısı","author":"Roshani Chokshi","publisher":null,"category":"5.","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-23","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/aru-shah-ve-olum-sarkisi-2","price":315}]},{"title":"Aru Shah Ve Zamanın Sonu","author":"Roshani Chokshi","publisher":null,"category":"5.","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-23","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/aru-shah-ve-zamanin-sonu-3","price":280}]},{"title":"Aşırılık Üzerine Beş Kısa Sohbet","author":null,"publisher":"Ayrıntı Yayınları","category":"Lacivert Kitaplar","isbn":null,"cover":"https://www.ayrintiyayingrubu.com/wp-content/uploads/2026/07/asirilik-uzerine-siteonkapak-540x810.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ayrinti","url":"https://www.ayrintiyayingrubu.com/kitap/asirilik-uzerine-bes-kisa-sohbet/","price":240}]},{"title":"Ateşten Düşünce Yalçın Küçük","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/50e4f5eb-8fec-4cbc-bc52-97d58b3040a2.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/atesten-dusunce-yalcin-kucuk-p-7484","price":375}]},{"title":"Ayı’nın Yolculuk Kitabı","author":"Frances Tosdevin","publisher":"Ketebe Yayınları","category":"Çocuk Edebiyat","isbn":null,"cover":"https://www.ketebe.com/ayinin-yolculuk-kitabi-frances-tosdevin-cocuk-edebiyat-ketebe-cocuk-frances-tosdevin-3879-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/ayinin-yolculuk-kitabi-frances-tosdevin","price":194.35}]},{"title":"Ayvalık Ayvalık","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/c96edc3d-5b1b-4924-a2fd-1dfde84aeffd.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/ayvalik-ayvalik-p-7479","price":262.5}]},{"title":"Bahar ve Kelebekler – Toplu Hikâyeleri Birinci Cilt (1902-1911)","author":"Ömer Seyfettin","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/07/bahar-ve-kelebekler-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/bahar-ve-kelebekler-toplu-hikayeleri-birinci-cilt-1902-1911.aspx","price":89.6}]},{"title":"Batı Kendi Sonunu Mu Hazırlıyor?","author":"Emmanuel Todd","publisher":"Ketebe Yayınları","category":"Kozmopolitea","isbn":null,"cover":"https://www.ketebe.com/bati-kendi-sonunu-mu-hazirliyor-emmanuel-todd-kozmopolitea-ketebe-emmanuel-todd-3898-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/bati-kendi-sonunu-mu-hazirliyor-emmanuel-todd","price":298.35}]},{"title":"Belgrad Günlüğü","author":"İvo Andriç","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540042","cover":null,"description":null,"publishedDate":"2026-07-17","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/belgrad-gunlugu/10971","price":null}]},{"title":"Benim Kentlerim Benim Müzelerim","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/1577cc2c-d7f4-41cc-9db3-a54b1b095c01.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/benim-kentlerim-benim-muzelerim-p-7462","price":562.5}]},{"title":"Beş Duyu ve Ötesi","author":"Ashley Ward","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103661","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37511","price":null}]},{"title":"Bırak Artık","author":"Selen Baranoğlu","publisher":"Novus","category":"Kişisel Gelişim","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fbirak-artik-on-kapak.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/birak-artik","price":null}]},{"title":"Billy Şaman'ın Serüvenleri 2 - Kutsal Atların Savaşı","author":"ROLAND CHAMBERS","publisher":null,"category":"5.","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-23","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/billy-samanin-seruvenleri-2-kutsal-atlarin-savasi","price":196}]},{"title":"Bir Delinin Hatıra Defteri / Nikolay Vasilyeviç Gogol / / 9786257642743","author":null,"publisher":null,"isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/bir-delinin-hatira-defteri-nikolay-vasilyevic-gogol-9786257642743-p-11507663","price":249}],"category":"Biyografi"},{"title":"Bir Oyun, Bir Eğlence","author":"James Salter","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/bir-oyun-bir-eglence-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/bir-oyun-bir-eglence-2/","price":null}]},{"title":"Bir Yıldız Kadar Uzakta","author":"Sevim İrey Zoba","publisher":"Ketebe Yayınları","category":"Çocuk Edebiyat","isbn":null,"cover":"https://www.ketebe.com/bir-yildiz-kadar-uzakta-sevim-irey-zoba-cocuk-edebiyat-ketebe-cocuk-sevim-irey-zoba-3878-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/bir-yildiz-kadar-uzakta-sevim-irey-zoba","price":194.35}]},{"title":"Birlikte Düşünmek","author":"Sevgi Uçan Çubukçu","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103666","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37513","price":null}]},{"title":"Bitmeyen Korku","author":"Suat Derviş","publisher":null,"category":"Türk Edebiyatı-Suat Derviş Kitaplığı","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-23","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/bitmeyen-korku","price":245}]},{"title":"Camellia'nın Peşinde 6","author":"Jin Soye","publisher":"DEX","category":"Manga","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fcamellianin-pesinde-6-kapak-o.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/camellianin-pesinde-6","price":null}]},{"title":"Can Sıkıntısı","author":null,"publisher":"Ayrıntı Yayınları","category":"Mini Kitaplar","isbn":null,"cover":"https://www.ayrintiyayingrubu.com/wp-content/uploads/2026/07/cansikintisi-siteonkapak-540x884.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ayrinti","url":"https://www.ayrintiyayingrubu.com/kitap/can-sikintisi/","price":112.5}]},{"title":"Canavarların Da Kalbi Varmış 3","author":"N. G. Kabal","publisher":"DEX","category":"Fantastik","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fcanavarim-aska-kanarmis-somiz-o.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/canavarlarin-da-kalbi-varmis-3-2","price":null}]},{"title":"Cherry Baby","author":"Rainbow Rowell","publisher":"DEX","category":"Romantik","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fcherry-baby-kapak-o.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/cherry-baby","price":null}]},{"title":"Cumhuriyet'i Fotoğraflamak","author":"İsmet Meltem Çetinkök Afşar","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540035","cover":null,"description":null,"publishedDate":"2026-07-17","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/cumhuriyet-i-fotograflamak/10967","price":null}]},{"title":"Çalışan Annenin Yaşam Dengesi","author":null,"publisher":null,"isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/calisan-annenin-yasam-dengesi-p-241389","price":242.9}],"category":"Aile - Çocuk"},{"title":"Çevirmenin Görünmezliği","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368221_9786253696764.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/cevirmenin-gorunmezligi-lawrence-venuti-kitabi-368221-9786253696764","price":451.75}]},{"title":"Çocuk","author":"Kjersti Skomsvold","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/cocuk.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/cocuk/","price":null}]},{"title":"Çocuk Neden Mısır Unu Lapasında Pişer","author":"Aglaja Veteranyi","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540011","cover":null,"description":null,"publishedDate":"2026-07-10","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/cocuk-neden-misir-unu-lapasinda-piser/10966","price":null}]},{"title":"Çoğul Açı","author":"Mehmet Narlı","publisher":"Ketebe Yayınları","category":"Ketebe Eleştiri","isbn":null,"cover":"https://www.ketebe.com/cogul-aci-mehmet-narli-ketebe-elestiri-ketebe-mehmet-narli-3908-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/cogul-aci-mehmet-narli","price":272.35}]},{"title":"Çoklu Boyutlar","author":"Charles Williams","publisher":"Ketebe Yayınları","category":"İngiliz Klasikleri","isbn":null,"cover":"https://www.ketebe.com/coklu-boyutlar-charles-williams-ingiliz-klasikleri-ketebe-charles-williams-3882-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/coklu-boyutlar-charles-williams","price":220.35}]},{"title":"Çöldeki İttifak","author":"Gyula Kemeny","publisher":"YEDİTEPE YAYINEVİ","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/coldeki-ittifak/739153.html","price":198}]},{"title":"Dağlarda Koşan Kadın","author":"Yūko Tsuşima","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/daglarda-kosan-kadin-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/daglarda-kosan-kadin/","price":null}]},{"title":"Daphnis ve Khloe","author":"Longos","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/05/daphnis-ve-khloe-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/daphnis-ve-khloe.aspx","price":165.2}]},{"title":"Daphnis ve Khloe – Ciltli","author":"Longos","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/05/daphnis-ve-khloe-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/daphnis-ve-khloe-ciltli.aspx","price":448}]},{"title":"Dario Moreno – Akdeniz Aşk Şarkıcıları","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/2d8a06cc-a84f-497f-876d-55c21af812af.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/dario-moreno-akdeniz-ask-sarkicilari-p-7454","price":187.5}]},{"title":"Dehşet ve Felaketin Sonu","author":"Jennifer L. Armentrout","publisher":"DEX","category":"Fantastik","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fdehset-ve-felaketin-sonu-kapak-o.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/dehset-ve-felaketin-sonu","price":null}]},{"title":"Demirci Dükkânında Şan Dersleri","author":"Cahit Koytak","publisher":"Ketebe Yayınları","category":"Türk Şiiri","isbn":null,"cover":"https://www.ketebe.com/demirci-dukkaninda-san-dersleri-cahit-koytak-turk-siiri-ketebe-cahit-koytak-3884-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/demirci-dukkaninda-san-dersleri-cahit-koytak","price":317.85}]},{"title":"Deniz Üstü Köpürür – Emperyalizmin Hedefindeki Amiral","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/fceee8e3-36c3-4c40-8a18-fef563eb6a1f.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/deniz-ustu-kopurur-emperyalizmin-hedefindeki-amiral-p-7361","price":300}]},{"title":"Denizci Billy Budd – İçrek Bir Anlatı","author":"Herman Melville","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/05/denizci-billy-budd-1-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/denizci-billy-budd-icrek-bir-anlati.aspx","price":123.2}]},{"title":"Denizci Billy Budd – İçrek Bir Anlatı – Ciltli","author":"Herman Melville","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/05/denizci-billy-budd-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/denizci-billy-budd-icrek-bir-anlati-ciltli.aspx","price":462}]},{"title":"Diken Mevsimi (Ciltli-Yan Boyamalı)","author":"KİERA AZAR","publisher":null,"category":"Fantastik","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/diken-mevsimi-ciltli-yan-boyamali","price":483}]},{"title":"Ding Köyü Rüyası","author":"Yan Lianke","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/ding-koyu-ruyasi.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/din-koyu-ruyasi/","price":null}]},{"title":"Diye Diye...","author":"Fuat Sevimay","publisher":"Doğan Kitap","category":"Romanlar","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fdiye-diye-kapak-o-1.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/diye-diye","price":null}]},{"title":"Doğru Bildiğimiz Yanlışlar Seti (4 Kitap)","author":"Matt Brown","publisher":"ORENDA KİTAP","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/dogru-bildigimiz-yanlislar-seti-4-kitap/755431.html","price":380}]},{"title":"Duayen Bankacı Aşkı: Bir Bankacının Liderlik, Vizyon ve İnsan Odaklı Yolculuğu","author":"Bülent Şenver","publisher":null,"category":"Anı-Deneme","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-30","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/duayen-bankaci-aski-bir-bankacinin-liderlik-vizyon-ve-insan-odakli-yolculugu","price":315}]},{"title":"Durkheim'ın Sosyoskopu","author":"Natacha Bertille","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103650","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37501","price":null}]},{"title":"Düşüncelerin Günbatımı","author":"E. M. Cioran","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/dusuncelerin-gunbatimi-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/dusuncelerin-gunbatimi/","price":null}]},{"title":"Edebiyat Ne Söyler","author":"Cemal Şakar","publisher":"Ketebe Yayınları","category":"Ketebe Eleştiri","isbn":null,"cover":"https://www.ketebe.com/edebiyat-ne-soyler-cemal-sakar-ketebe-elestiri-ketebe-cemal-sakar-3906-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/edebiyat-ne-soyler-cemal-sakar","price":259.35}]},{"title":"Elementler","author":"Stephen Porder","publisher":"Doğan Kitap","category":"Araştırma - İnceleme","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Felemenler-on-kapak.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/elementler","price":null}]},{"title":"Erdoğan’ın Özel Hayatı","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/12592dce-4cd9-4f9a-a9d0-37376657b2ca.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/erdogan-in-ozel-hayati-p-7455","price":337.5}]},{"title":"Eski Eş","author":"Ursula Parrott","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/06/eski-es-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/eski-es.aspx","price":210}]},{"title":"Eski Eş – Sert Kapak","author":"Ursula Parrott","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/06/eski-es-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/eski-es-sert-kapak.aspx","price":602}]},{"title":"Eva Uyuyor","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368449_9786253696399.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/eva-uyuyor-francesca-melandri-kitabi-368449-9786253696399","price":321.75}]},{"title":"Farkındalığa Övgü","author":"Ivan Illich","publisher":"Ketebe Yayınları","category":"Sosyoloji","isbn":null,"cover":"https://www.ketebe.com/farkindaliga-ovgu-ivan-illich-sosyoloji-ketebe-ivan-illich-3899-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/farkindaliga-ovgu-ivan-illich","price":259.35}]},{"title":"Felsefe Seti (5 Kitap)","author":"Peter Cave","publisher":"ORENDA KİTAP","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/felsefe-seti-5-kitap/755424.html","price":378}]},{"title":"Fransız Usulü İyi Yaşama Sanatı","author":"Cathy Yandell","publisher":"SAY YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/fransiz-usulu-iyi-yasama-sanati/722557.html","price":160}]},{"title":"Frida Kahlo - Aşk Mektupları","author":null,"publisher":null,"isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/frida-kahlo-ask-mektuplari-p-28855376","price":276.45}],"category":"Dünya Mektup"},{"title":"Frida Kahlo – Aşk Mektupları","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/6a956d69-3f65-4ab8-a099-0eecbf723944.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/frida-kahlo-ask-mektuplari-p-7488","price":225}]},{"title":"Geceleri Sessizdir Tahran","author":"Shida Bazyar","publisher":null,"category":"Dünya Edebiyatı","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-30","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/geceleri-sessizdir-tahran","price":262.5}]},{"title":"Gecenin Aykaranlığında","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/1bfc0595-17a6-4a4e-a080-e590b08e2105.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/gecenin-aykaranliginda-p-7485","price":112.5}]},{"title":"Gelecek Bilgisi Terimleri Sözlüğü","author":"Fütüristler Derneği","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/gelecek-bilgisi-terimleri-sozlugu/756095.html","price":75}]},{"title":"Gerçek Aşk Deneyi","author":"CHRISTINA LAUREN","publisher":null,"category":"Romantik","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-23","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/gercek-ask-deneyi","price":343}]},{"title":"Gökyüzü Mayası","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368414_9786253696771.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/gokyuzu-mayasi-ilke-albayrak-kitabi-368414-9786253696771","price":178.75}]},{"title":"Gösteriler ve Hayaletleri","author":"Başak Ertür","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103694","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37544","price":null}]},{"title":"Hadi Bakalım!","author":"Antonia Pesenti","publisher":null,"category":"3-5 Yaş","isbn":null,"cover":null,"description":null,"publishedDate":"2026-08-06","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/hadi-bakalim","price":210}]},{"title":"Hatırladığın Gibi","author":"Catherine Prasifka","publisher":"Doğan Kitap","category":"Romanlar","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fhatirladigin-gibi-on-kapak.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/hatirladigin-gibi","price":null}]},{"title":"Hayata Dair Şeyler","author":"Paul Guimard","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/06/hayata-dair-seyler-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/hayata-dair-seyler.aspx","price":98}]},{"title":"Hayata Dair Şeyler – Sert Kapak","author":"Paul Guimard","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/06/hayata-dair-seyler-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/hayata-dair-seyler-sert-kapak.aspx","price":420}]},{"title":"Herkes Kendi Kendine","author":"Nurhan Suerdem","publisher":"İletişim Yayınları","category":null,"isbn":"9789750539978","cover":null,"description":null,"publishedDate":"2026-06-19","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/herkes-kendi-kendine/10959","price":null}]},{"title":"HOME ART 26-08 - Turkuvaz Dergi","author":null,"publisher":null,"category":"Dekorasyon Dergileri","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/home-art-26-08-p-28857014","price":300}]},{"title":"INBUSINESS 26-08 - Turkuvaz Dergi","author":null,"publisher":null,"category":"Bilim Dergileri","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/inbusiness-26-08-p-28857015","price":250}]},{"title":"Işık Yılları","author":"James Salter","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/isik-yillari-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/isik-yillari/","price":null}]},{"title":"İçimdeki Kalabalık","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368448_9786253696351.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/icimdeki-kalabalik-gamze-guller-kitabi-368448-9786253696351","price":113.75}]},{"title":"İnsan Merkezli Fizik","author":"Mustafa Merter","publisher":"Ketebe Yayınları","category":"Psikoloji","isbn":null,"cover":"https://www.ketebe.com/insan-merkezli-fizik-mustafa-merter-psikoloji-ketebe-mustafa-merter-3901-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/insan-merkezli-fizik-mustafa-merter","price":197.6}]},{"title":"İnsan Vücudundaki Acayip Fabrika","author":"Rachel Poliquin","publisher":null,"category":"5.","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-30","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/insan-vucudundaki-acayip-fabrika","price":266}]},{"title":"İyimserlikten Daha İyisi","author":"Guillaume Paoli","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103677","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37536","price":null}]},{"title":"Kabalık Çağı","author":"Renata Salecl","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103708","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37550","price":null}]},{"title":"Kahvaltıda Kimya","author":"Mai Thi Nguyen-Kim","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103703","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37545","price":null}]},{"title":"Kaledibi Sokağı","author":null,"publisher":null,"isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/kaledibi-sokagi-p-28867833","price":220}],"category":"6+ Yaş Klasik"},{"title":"Kapa Çeneni ve İşine Bak & Susmak Bilmeyen Bir Dünyada Susmanın Gücü","author":"Dan Lyons","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/kapa-ceneni-ve-isine-bak-susmak-bilmeyen-bir-dunyada-susmanin-gucu/756097.html","price":75}]},{"title":"Karaçamın Dirilişi","author":"Varlam Şalamov","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/karacamin-dirilisi-kapak-kopya.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/karacamin-dirilisi-2/","price":null}]},{"title":"Karpatlar Şatosu","author":"Jules Verne","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/05/karpatlar-satosu-1-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/karpatlar-satosu.aspx","price":138.6}]},{"title":"Karpatlar Şatosu – Sert Kapak","author":"Jules Verne","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/05/karpatlar-satosu-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/karpatlar-satosu-sert-kapak.aspx","price":476}]},{"title":"Kırmızı Ayna","author":"Burhan Sönmez","publisher":"İletişim Yayınları","category":null,"isbn":"9789750539985","cover":null,"description":null,"publishedDate":"2026-06-26","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/kirmizi-ayna/10962","price":null}]},{"title":"Kilikya Yayınları Zehra","author":null,"publisher":null,"category":"Türk Roman","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/kilikya-yayinlari-zehra-p-28857784","price":260}]},{"title":"Kişişel Gelişim Seti (5 Kitap)","author":"Brian Clegg","publisher":"ORENDA KİTAP","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/kisisel-gelisim-seti-5-kitap/755425.html","price":656}]},{"title":"Köpeğin Bir Günü","author":"Sander Kollaard","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/06/kopegin-bir-gunu-120x198.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/kopegin-bir-gunu.aspx","price":196}]},{"title":"Kral Öldü / Kılıç Komplo ve Kader İngiliz Krallarının Sonu","author":"Tolgahan Karaimamoğlu","publisher":"YEDİTEPE YAYINEVİ","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/kral-oldu-kilic-komplo-ve-kader-ingiliz-krallarinin-sonu/729779.html","price":192.5}]},{"title":"Kudüs'ün Kraliçeleri","author":"Katherine Pangonis","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/kudusun-kraliceleri/756098.html","price":75}]},{"title":"Kuşlar İçin Ağaçlara Konma Kılavuzu","author":"Yenal Bilgici","publisher":"Doğan Kitap","category":"Romanlar","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fkuslar-icin-kapak-o.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/kuslar-icin-agaclara-konma-kilavuzu","price":null}]},{"title":"Küçük Kırmızı Sandalyeler","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/0c44ac69-f217-4d40-9dca-b1842ce8f55f.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/kucuk-kirmizi-sandalyeler-p-7477","price":337.5}]},{"title":"Kürtler, Demokrasi, Sol","author":"Tarık Ziya Ekinci","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540028","cover":null,"description":null,"publishedDate":"2026-07-10","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/kurtler-demokrasi-sol/10963","price":null}]},{"title":"Lucy","author":"Jamaica Kincaid","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/lucy-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/lucy/","price":null}]},{"title":"Madrid'de Sonbahar","author":"Juan Benet","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103618","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/5079","price":null}]},{"title":"Mars'ta Zaman Kayması","author":"PHILIP K. DICK","publisher":null,"category":"Bilimkurgu","isbn":null,"cover":null,"description":null,"publishedDate":"2026-08-06","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/marsta-zaman-kaymasi","price":280}]},{"title":"MARTI TUKİ VE KÜÇÜREK DÜNYA","author":null,"publisher":null,"isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/marti-tuki-ve-kucurek-dunya-p-28814000","price":150}]},{"title":"Masa Mikrofonu","author":"Murathan Mungan","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103636","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37498","price":null}]},{"title":"Mehmed Nüvid Bey’in Harikalar Lügati","author":"Mahir Ünsal Eriş","publisher":"Doğan Kitap","category":"Türk Edebiyatı Roman","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fmehmed-nuvid-beyin-harikalar-lugati.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/mehmed-nuvid-beyin-harikalar-lugati","price":null}]},{"title":"Mehmet Mithat Bey'in Münasebetsiz Tarihi","author":"Arda Ekşigil","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540080","cover":null,"description":null,"publishedDate":"2026-07-17","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/mehmet-mithat-bey-in-munasebetsiz-tarihi/10968","price":null}]},{"title":"Mezârışerif’in Kırmızı İncirleri","author":"Muhammet Hüseyin Muhammedî","publisher":"Ketebe Yayınları","category":"Çeviri Öykü","isbn":null,"cover":"https://www.ketebe.com/mezariserifin-kirmizi-incirleri-muhammet-huseyin-muhammedi-ceviri-oyku-ketebe-muhammet-huseyin-muhammed-3885-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/mezariserifin-kirmizi-incirleri-muhammet-huseyin-muhammedi","price":181.35}]},{"title":"MİNİKA GO 26-08 - Turkuvaz Dergi","author":null,"publisher":null,"category":"Çocuk Dergileri","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/minika-go-26-08-p-28857016","price":69.9}]},{"title":"Miramar","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/e54438c0-af1a-473c-bbc5-d77f2aa52b8b.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/miramar-p-4133","price":225}]},{"title":"Muallak Ruhlar","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368032_9786253696726.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/muallak-ruhlar-devrim-alkis-kitabi-368032-9786253696726","price":292.5}]},{"title":"MUHİT 26-08 - Turkuvaz Dergi","author":null,"publisher":null,"category":"Edebiyat Dergileri","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/muhit-26-08-p-28857017","price":90}]},{"title":"Muhtemelen Gerçek Hikâyeler","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368102_9786253696719.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/muhtemelen-gercek-hikayeler-gurel-yontan-kitabi-368102-9786253696719","price":146.25}]},{"title":"Muhteşem Limon Ağacı","author":"Juan José Saer","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/muhtesem-limon-agaci-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/muhtesem-limon-agaci/","price":null}]},{"title":"Mutluyken Başka Adlarımız Vardı","author":"Yiyun Li","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/06/mutluyken-baska-adlarimiz-vardi-120x198.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/mutluyken-baska-adlarimiz-vardi.aspx","price":252}]},{"title":"Mutsuzluğun Savunması","author":"Alejandro Cencerrado","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/mutsuzlugun-savunmasi/756099.html","price":75}]},{"title":"Mükemmel Olmak Zorunda Değilsin","author":"Steven Schuster","publisher":"Novus","category":"Kişisel Gelişim","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fmukemmel-olmak-zorunda-degilsin-on-kapak.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/mukemmel-olmak-zorunda-degilsin","price":null}]},{"title":"Napolyon Sonrası Dünya Nasıl Kuruldu?","author":"Glenda Sluga","publisher":"Ketebe Yayınları","category":"Kozmopolitea","isbn":null,"cover":"https://www.ketebe.com/napolyon-sonrasi-dunya-nasil-kuruldu-glenda-sluga-kozmopolitea-ketebe-glenda-sluga-3897-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/napolyon-sonrasi-dunya-nasil-kuruldu-glenda-sluga","price":324.35}]},{"title":"Ne Para Ne Saat Ne Kasket","author":"Wilhelm Genazino","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/ne-para-ne-saat-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/ne-para-ne-saat-ne-kasket/","price":null}]},{"title":"Nondurha","author":"ZEYNEP ÜNSAL","publisher":null,"category":"5.","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-30","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/nondurha-2","price":175}]},{"title":"Notre-Dame'ın Kamburu","author":"Victor Hugo","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540097","cover":null,"description":null,"publishedDate":"2026-07-17","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/notre-dame-in-kamburu/10972","price":null}]},{"title":"Oblomov","author":"İvan Aleksandroviç Gonçarov","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/07/oblomov-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/oblomov-3.aspx","price":224}]},{"title":"Oblomov – Ciltli","author":"İvan Aleksandroviç Gonçarov","publisher":"İş Bankası Kültür Yayınları","category":null,"isbn":null,"cover":"https://img.iskultur.com.tr/webp/2026/07/oblomov-1-120x197.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"iskultur","url":"https://www.iskultur.com.tr/oblomov-ciltli.aspx","price":490}]},{"title":"Odysseus","author":"Rüstem Aslan","publisher":"Doğan Kitap","category":"Araştırma - İnceleme","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fodysseus-on-kapak.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/odysseus","price":null}]},{"title":"Ofsayt Bilen Kadınlar","author":"Erdem Göktürk","publisher":"İletişim Yayınları","category":null,"isbn":"9789750539992","cover":null,"description":null,"publishedDate":"2026-06-19","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/ofsayt-bilen-kadinlar/10960","price":null}]},{"title":"Osmanlı Düzeninin Dönüşümü","author":"Ali Fuat Bilkan","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540103","cover":null,"description":null,"publishedDate":"2026-07-17","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/osmanli-duzeninin-donusumu/10969","price":null}]},{"title":"Ölü Kızlar","author":"Jorge Ibargüengoitia","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/olu-kizlar-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/olu-kizlar/","price":null}]},{"title":"Ölümcül Oyun","author":"Soren Sveistrup","publisher":"Doğan Kitap","category":"Polisiye - Gerilim","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Folumcul-oyun-baski-kapak-o.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/olumcul-oyun","price":null}]},{"title":"Önce Dağlar Kar Tutacak","author":"Semih Öztürk","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540073","cover":null,"description":null,"publishedDate":"2026-07-17","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/once-daglar-kar-tutacak/10970","price":null}]},{"title":"Öp ve Anlat","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368344_9786253696702.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/op-ve-anlat-alain-de-botton-kitabi-368344-9786253696702","price":276.25}]},{"title":"Özgürlüğe Koşanlar","author":"Shannon Pufahl","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/ozgurluge-kosanlar/756100.html","price":75}]},{"title":"PATRONES 26-08 - Turkuvaz Dergi","author":null,"publisher":null,"category":"Hobi Dergileri","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/patrones-26-08-p-28857018","price":200}]},{"title":"Pizza","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368101_9786253696627_35955.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/pizza-carol-helstosky-kitabi-368101-9786253696627","price":243.75}]},{"title":"Popüler Kültür Seti (5 Kitap)","author":"Kolektif","publisher":"ORENDA KİTAP","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/populer-kultur-seti-5-kitap/755428.html","price":531}]},{"title":"Popüler Tarih Seti (5 Kitap)","author":"Kolektif","publisher":"ORENDA KİTAP","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/populer-tarih-seti-5-kitap/755427.html","price":676}]},{"title":"Pussy: Bir Kazanım Öyküsü","author":"Regena Thomashauer","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/pussy-bir-kazanim-oykusu/730910.html","price":75}]},{"title":"Rath","author":"Volker Kutscher","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540004","cover":null,"description":null,"publishedDate":"2026-06-19","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/rath/10958","price":null}]},{"title":"Rex","author":null,"publisher":"Everest Yayınları","category":null,"isbn":null,"cover":"https://everestyayinlari.com/media/catalog/product/cache/70baaf55d4435e7d1efe54cb3490d7c8/3/6/368408_9786253696450.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"everest","url":"https://everestyayinlari.com/rex-serkan-turk-kitabi-368408-9786253696450","price":146.25}]},{"title":"Rüya Oteli","author":"LAILA LALAMI","publisher":null,"category":"Dünya Edebiyatı","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-23","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/ruya-oteli","price":294}]},{"title":"Saf Canavar","author":"Sema Kaygusuz","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103673","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37534","price":null}]},{"title":"Savaş","author":"Emrah Özdemir","publisher":"YEDİTEPE YAYINEVİ","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/savas/729780.html","price":200}]},{"title":"Sembolizm","author":"Alfred North Whitehead","publisher":"Ketebe Yayınları","category":"Felsefe","isbn":null,"cover":"https://www.ketebe.com/sembolizm-alfred-north-whitehead-felsefe-ketebe-alfred-north-whitehead-3907-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/sembolizm-alfred-north-whitehead","price":174.85}]},{"title":"Seni Görmem İmkânsız","author":"Ayşe Burçak","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540059","cover":null,"description":null,"publishedDate":"2026-07-10","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/seni-gormem-imkansiz/10965","price":null}]},{"title":"Sezar","author":"Robert Etienne","publisher":"YEDİTEPE YAYINEVİ","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/sezar/730754.html","price":160}]},{"title":"Silivri ve Direniş Yazıları","author":null,"publisher":"Kırmızı Kedi Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/12464667-705a-4553-9ef8-2a8b76dabfa8.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/silivri-ve-direnis-yazilari-p-7473","price":262.5}]},{"title":"SMART LIVING - Turkuvaz Dergi","author":null,"publisher":null,"category":"Dekorasyon Dergileri","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/smart-living-p-28857019","price":300}]},{"title":"Srebrenitsa Şahitliği","author":"Naser Oriç","publisher":"Ketebe Yayınları","category":"Balkan Edebiyatı","isbn":null,"cover":"https://www.ketebe.com/srebnetitsa-sahitligi-naser-oric-balkan-edebiyati-ketebe-naser-oric-3883-21-K.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ketebe","url":"https://www.ketebe.com/srebnetitsa-sahitligi-naser-oric","price":421.85}]},{"title":"Tarihin Hayaletleri Devrimin Vaadi","author":"Duygu Türk (Derleyen)","publisher":"İletişim Yayınları","category":null,"isbn":"9789750540066","cover":null,"description":null,"publishedDate":"2026-07-10","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/tarihin-hayaletleri-devrimin-vaadi/10964","price":null}]},{"title":"Terapi","author":null,"publisher":"Ayrıntı Yayınları","category":"Edebiyat","isbn":null,"cover":"https://www.ayrintiyayingrubu.com/wp-content/uploads/2026/07/terapi-siteonkapak-540x810.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ayrinti","url":"https://www.ayrintiyayingrubu.com/kitap/terapi-2/","price":375}]},{"title":"Tılsımlı Kader Kartları - 44 Kartlık Deste","author":null,"publisher":null,"isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"idefix","url":"https://www.idefix.com/tilsimli-kader-kartlari-44-kartlik-deste-p-28855261","price":655.2}],"category":"Kişisel Gelişim"},{"title":"Tiksinti","author":"Horacio Castellanos Moya","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/tiksinti-kapak-kopya.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/tiksinti/","price":null}]},{"title":"Tiziano, Su Perisi ile Çoban","author":"John Berger","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103631","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37497","price":null}]},{"title":"Tomioka’ya Dönüş","author":null,"publisher":"Çınar Yayınları","category":null,"isbn":null,"cover":"https://kirmizikediyayinevi.istecdn.com/File/Images/Product/9815041e-34d5-478e-8576-5d0be0f04865.jpg?w=600","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kirmizikedi","url":"https://www.kirmizikedi.com/tomioka-ya-donus-p-7476","price":300}]},{"title":"Tüm Güzel Atlar","author":"CORMAC MCCARTHY","publisher":null,"category":"Dünya Edebiyatı","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/tum-guzel-atlar","price":280}]},{"title":"Üç Papatyalı Kadın","author":"Suat Derviş","publisher":null,"category":"Türk Edebiyatı-Suat Derviş Kitaplığı","isbn":null,"cover":null,"description":null,"publishedDate":"2026-07-23","language":null,"firstSeen":"2026-08-01","sources":[{"name":"ithaki","url":"https://www.ithakiyayingrubu.com/uc-papatyali-kadin","price":224}]},{"title":"Ve Her Şey Aya Büründü","author":"Georgi Gospodinov","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103668","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37533","price":null}]},{"title":"Yağmur Kuşları","author":"Deniz Faruk Zeren","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103620","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37495","price":null}]},{"title":"Yaklaşan Tehdit & Pentagon'un UFO Avı","author":"Luis Elizondo","publisher":"DESTEK YAYIN GRUBU","isbn":null,"cover":null,"description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"kitapyurdu","url":"https://www.kitapyurdu.com/kitap/yaklasan-tehdit-pentagonun-ufo-avi/724330.html","price":75}]},{"title":"Yalnızlığın Esirleri","author":"Patrick Hamilton","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/yanlizligin-esirleri-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/yalnizligin-esirleri/","price":null}]},{"title":"Yedinci Gün","author":"Yu Hua","publisher":"Jaguar Kitap","category":null,"isbn":null,"cover":"https://jaguarkitap.com/assets/yedinci-gun-kapak.jpg","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"jaguar","url":"https://jaguarkitap.com/kitaplar/yedinci-gun/","price":null}]},{"title":"Yıldız Masalı","author":"Kristin Hannah","publisher":"Doğan Kitap","category":"Romanlar","isbn":null,"cover":"/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fyildiz-masali-on-kapak.jpg&w=250&zc=1","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"dogan","url":"https://www.dogankitap.com.tr/kitap/yildiz-masali","price":null}]},{"title":"Zor Zamanlar","author":"Charles Dickens","publisher":"İletişim Yayınları","category":null,"isbn":"9789750539930","cover":null,"description":null,"publishedDate":"2026-06-12","language":null,"firstSeen":"2026-08-01","sources":[{"name":"iletisim","url":"https://iletisim.com.tr/kitap/zor-zamanlar/10952","price":null}]},{"title":"Zulmün Adını Koymak","author":"Devrim Sezer","publisher":"Metis Yayınları","category":null,"isbn":null,"cover":"https://metiskitap.blob.core.windows.net/catalog/103642","description":null,"publishedDate":null,"language":null,"firstSeen":"2026-08-01","sources":[{"name":"metis","url":"https://www.metiskitap.com/catalog/book/37499","price":null}]}]};</script>
+  <script>const SOURCE_LABELS = {
+  kitapyurdu: 'Kitapyurdu',
+  idefix: 'idefix',
+  can: 'Can',
+  iletisim: 'İletişim',
+  ithaki: 'İthaki',
+  iskultur: 'İş Bankası Kültür',
+  yky: 'Yapı Kredi',
+  everest: 'Everest',
+  kirmizikedi: 'Kırmızı Kedi',
+  dogan: 'Doğan Kitap',
+  ayrinti: 'Ayrıntı',
+  jaguar: 'Jaguar',
+  ketebe: 'Ketebe',
+  metis: 'Metis',
+};
+
+const PALETTES = [
+  ['#1f6e5c', '#0e3b30'],
+  ['#7a4f9e', '#432b5c'],
+  ['#b05a3a', '#5f2c18'],
+  ['#2d6ca8', '#163c5f'],
+  ['#a0842d', '#5c4a13'],
+  ['#7a3f66', '#452139'],
+  ['#3f7a52', '#1e4129'],
+  ['#8c4a4a', '#4e2222'],
+];
+
+function hash(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) {
+    h = (h << 5) - h + str.charCodeAt(i);
+    h |= 0;
+  }
+  return Math.abs(h);
+}
+
+function priceText(price) {
+  if (typeof price !== 'number') return null;
+  return price.toLocaleString('tr-TR', { style: 'currency', currency: 'TRY', maximumFractionDigits: 0 });
+}
+
+function coverGradient(book) {
+  const [c1, c2] = PALETTES[hash(book.title) % PALETTES.length];
+  return `linear-gradient(160deg, ${c1}, ${c2})`;
+}
+
+function coverHtml(book) {
+  if (book.cover) {
+    return `<img src="${book.cover}" alt="${escapeHtml(book.title)}" loading="lazy" onerror="this.parentElement.classList.add('img-error'); this.remove()" />`;
+  }
+  return placeholderFor(book.title);
+}
+
+function placeholderFor(title) {
+  const initial = (title && title.trim()[0]) || 'K';
+  return `
+    <div class="cover-placeholder" style="background:${coverGradient({ title })}">
+      <span class="initial">${escapeHtml(initial.toLocaleUpperCase('tr'))}</span>
+      <span class="ph-title">${escapeHtml(title)}</span>
+    </div>`;
+}
+
+function escapeHtml(str) {
+  return String(str ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function sourceBadges(book) {
+  return (book.sources || [])
+    .map((s) => `<span class="source-badge">${SOURCE_LABELS[s.name] || escapeHtml(s.name)}</span>`)
+    .join('');
+}
+
+function pricesHtml(book) {
+  const prices = (book.sources || [])
+    .map((s) => ({ src: SOURCE_LABELS[s.name] || s.name, price: priceText(s.price) }))
+    .filter((p) => p.price !== null);
+  if (!prices.length) return '';
+  return prices
+    .map((p) => `<span class="price">${p.price} <span class="p-src">· ${p.src}</span></span>`)
+    .join('');
+}
+
+function bookKey(book) {
+  return `${book.title}\u0000${book.author || ''}`;
+}
+
+function renderCard(book) {
+  return `
+    <article class="card" data-id="${encodeURIComponent(bookKey(book))}" tabindex="0" role="button" aria-label="${escapeHtml(book.title)}">
+      <div class="cover">
+        ${coverHtml(book)}
+        <div class="source-badges">${sourceBadges(book)}</div>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">${escapeHtml(book.title)}</h3>
+        ${book.author ? `<p class="card-author">${escapeHtml(book.author)}</p>` : ''}
+        ${book.publisher ? `<p class="card-publisher">${escapeHtml(book.publisher)}</p>` : ''}
+        ${book.category ? `<p class="card-category">${escapeHtml(book.category)}</p>` : ''}
+        <div class="card-prices">${pricesHtml(book)}</div>
+      </div>
+    </article>`;
+}
+
+function modalContent(book) {
+  const cover = book.cover
+    ? `<img src="${book.cover}" alt="${escapeHtml(book.title)}" onerror="this.parentElement.classList.add('img-error'); this.remove()" />`
+    : `<div class="modal-cover-placeholder" style="background:${coverGradient(book)}"><span class="initial">${escapeHtml((book.title.trim()[0] || 'K').toLocaleUpperCase('tr'))}</span></div>`;
+
+  const sources = (book.sources || [])
+    .map((s) => {
+      const label = SOURCE_LABELS[s.name] || s.name;
+      const p = priceText(s.price);
+      return `<a class="source-link" href="${s.url || '#'}" target="_blank" rel="noopener noreferrer">
+        <span>${escapeHtml(label)}</span>
+        ${p ? `<span class="price">${p}</span>` : ''}
+        <span class="go">aç →</span>
+      </a>`;
+    })
+    .join('');
+
+  const meta = [];
+  if (book.publishedDate) meta.push(`<div><b>Çıkış:</b> ${escapeHtml(book.publishedDate)}</div>`);
+  if (book.isbn) meta.push(`<div><b>ISBN:</b> ${escapeHtml(book.isbn)}</div>`);
+  if (book.language) meta.push(`<div><b>Dil:</b> ${escapeHtml(book.language)}</div>`);
+  if (book.firstSeen) meta.push(`<div><b>Listeye girdi:</b> ${escapeHtml(book.firstSeen)}</div>`);
+
+  return `
+    <div class="modal-grid">
+      <div class="modal-cover">${cover}</div>
+      <div class="modal-info">
+        <h2>${escapeHtml(book.title)}</h2>
+        ${book.author ? `<p class="modal-author">${escapeHtml(book.author)}</p>` : ''}
+        ${book.publisher ? `<p class="modal-author" style="margin-top:-10px">${escapeHtml(book.publisher)}</p>` : ''}
+        <div class="meta">${meta.join('')}</div>
+        ${book.description
+          ? `<p class="desc">${escapeHtml(book.description).slice(0, 700)}${book.description.length > 700 ? '…' : ''}</p>`
+          : '<p class="desc no-description">Özet bulunamadı.</p>'}
+        <div class="source-list">${sources}</div>
+        ${googlePreviewHtml(book)}
+      </div>
+    </div>`;
+}
+
+function googlePreviewHtml(book) {
+  const isbn = book.isbn || '';
+  if (!isbn && !book.previewLink) return '';
+  return `
+    <div class="gb-preview">
+      ${isbn ? `<button type="button" class="gb-preview-btn" id="gb-preview-btn" data-isbn="${escapeHtml(isbn)}">Google Kitaplar önizlemesini aç</button>` : ''}
+      ${book.previewLink ? `<a class="gb-link" href="${book.previewLink}" target="_blank" rel="noopener noreferrer">Google Kitaplar sayfasını aç →</a>` : ''}
+      <div class="gb-viewer" id="viewerCanvas" hidden></div>
+      <p class="gb-notfound" id="gb-notfound" hidden>Bu kitabın gömülebilir önizlemesi yok.</p>
+    </div>`;
+}
+
+function startGoogleViewer(isbn) {
+  const canvas = document.getElementById('viewerCanvas');
+  const notFound = document.getElementById('gb-notfound');
+  if (!canvas || !window.google?.books) return;
+  canvas.hidden = false;
+  const viewer = new google.books.DefaultViewer(canvas);
+  viewer.load(
+    `ISBN:${isbn}`,
+    () => {
+      canvas.hidden = true;
+      notFound.hidden = false;
+    },
+    () => {}
+  );
+}
+
+function ensureGoogleBooksScript(cb) {
+  if (window.google?.books) return cb();
+  const s = document.createElement('script');
+  s.src = 'https://www.google.com/books/jsapi.js';
+  s.onload = () => {
+    google.books.load();
+    google.books.setOnLoadCallback(cb);
+  };
+  s.onerror = () => {
+    const btn = document.getElementById('gb-preview-btn');
+    const notFound = document.getElementById('gb-notfound');
+    if (btn) btn.style.display = 'none';
+    if (notFound) {
+      notFound.hidden = false;
+      notFound.textContent = 'Google Kitaplar önizlemesi yüklenemedi.';
+    }
+  };
+  document.head.appendChild(s);
+}
+
+let books = [];
+const activeCategories = new Set();
+const activePublishers = new Set();
+
+function uniqueValues(get) {
+  return [...new Set(books.map(get).filter((v) => v && v.trim()))].sort((a, b) =>
+    a.localeCompare(b, 'tr')
+  );
+}
+
+function chipHtml(list, isActive, name) {
+  const all = `<button class="chip ${isActive(null) ? 'active' : ''}" data-filter="${name}" data-value="">Tümü</button>`;
+  const items = list
+    .map((v) => `<button class="chip ${isActive(v) ? 'active' : ''}" data-filter="${name}" data-value="${escapeHtml(v)}">${escapeHtml(v)}</button>`)
+    .join('');
+  return all + items;
+}
+
+function buildChips() {
+  const categories = uniqueValues((b) => b.category);
+  const publishers = uniqueValues((b) => b.publisher);
+  const filtersEl = document.getElementById('filters');
+  filtersEl.hidden = categories.length === 0 && publishers.length === 0;
+  document.getElementById('category-chips').innerHTML = chipHtml(
+    categories,
+    (v) => (v === null ? activeCategories.size === 0 : activeCategories.has(v)),
+    'category'
+  );
+  document.getElementById('publisher-chips').innerHTML = chipHtml(
+    publishers,
+    (v) => (v === null ? activePublishers.size === 0 : activePublishers.has(v)),
+    'publisher'
+  );
+}
+
+async function loadBooks() {
+  try {
+    let data;
+    if (window.__STATIC_BOOKS__) {
+      data = window.__STATIC_BOOKS__;
+    } else {
+      const res = await fetch('/api/books');
+      data = await res.json();
+    }
+    books = data.books || [];
+    buildChips();
+    const label = data.label;
+    document.getElementById('year-label').textContent = label
+      ? label
+      : 'Derleme yüklenemedi';
+    document.getElementById('book-count').textContent = `${books.length} kitap`;
+    document.getElementById('scrape-info').textContent = data.scrapedAt
+      ? `Son güncelleme: ${new Date(data.scrapedAt).toLocaleString('tr-TR')}`
+      : 'Henüz derleme yapılmadı';
+    render();
+  } catch (e) {
+    console.error(e);
+    document.getElementById('year-label').textContent = 'Veri yüklenemedi. Sunucunun çalıştığından emin olun.';
+  }
+}
+
+function render() {
+  const q = document.getElementById('search').value.trim().toLocaleLowerCase('tr');
+  const filtered = books.filter((b) => {
+    if (q && !`${b.title} ${b.author || ''} ${b.publisher || ''}`.toLocaleLowerCase('tr').includes(q)) {
+      return false;
+    }
+    if (activeCategories.size > 0 && !activeCategories.has(b.category)) return false;
+    if (activePublishers.size > 0 && !activePublishers.has(b.publisher)) return false;
+    return true;
+  });
+
+  const grid = document.getElementById('book-grid');
+  grid.innerHTML = filtered.map(renderCard).join('');
+
+  const empty = document.getElementById('empty-state');
+  empty.hidden = filtered.length > 0;
+  if (filtered.length === 0 && books.length > 0) {
+    const q = document.getElementById('search').value.trim();
+    const hasFilter = activeCategories.size > 0 || activePublishers.size > 0;
+    empty.textContent = hasFilter
+      ? 'Seçilen filtrelerle eşleşen kitap bulunamadı.'
+      : `"${q}" için sonuç bulunamadı.`;
+    empty.hidden = false;
+  }
+  document.getElementById('book-count').textContent = `${filtered.length} kitap`;
+}
+
+function openModal(book) {
+  document.getElementById('modal-body').innerHTML = modalContent(book);
+  document.getElementById('modal').hidden = false;
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+  document.getElementById('modal').hidden = true;
+  document.body.style.overflow = '';
+}
+
+document.getElementById('theme-toggle').addEventListener('click', () => {
+  const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem('theme', next); } catch (e) {}
+});
+
+document.getElementById('search').addEventListener('input', render);
+
+document.getElementById('category-chips').addEventListener('click', (e) => {
+  const chip = e.target.closest('.chip');
+  if (!chip) return;
+  const v = chip.dataset.value;
+  if (v === '') {
+    activeCategories.clear();
+  } else if (activeCategories.has(v)) {
+    activeCategories.delete(v);
+  } else {
+    activeCategories.add(v);
+  }
+  buildChips();
+  render();
+});
+document.getElementById('publisher-chips').addEventListener('click', (e) => {
+  const chip = e.target.closest('.chip');
+  if (!chip) return;
+  const v = chip.dataset.value;
+  if (v === '') {
+    activePublishers.clear();
+  } else if (activePublishers.has(v)) {
+    activePublishers.delete(v);
+  } else {
+    activePublishers.add(v);
+  }
+  buildChips();
+  render();
+});
+
+document.getElementById('book-grid').addEventListener('click', (e) => {
+  const card = e.target.closest('.card');
+  if (!card) return;
+  const key = decodeURIComponent(card.dataset.id);
+  const book = books.find((b) => bookKey(b) === key);
+  if (book) openModal(book);
+});
+
+document.getElementById('book-grid').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    const card = e.target.closest('.card');
+    if (card) card.click();
+  }
+});
+
+document.getElementById('modal-close').addEventListener('click', closeModal);
+document.getElementById('modal').addEventListener('click', (e) => {
+  if (e.target === document.getElementById('modal')) closeModal();
+});
+document.getElementById('modal-body').addEventListener('click', (e) => {
+  if (e.target.id === 'gb-preview-btn') {
+    ensureGoogleBooksScript(() => startGoogleViewer(e.target.dataset.isbn));
+  }
+});
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeModal();
+});
+
+const STATIC_MODE = Boolean(window.__STATIC_BOOKS__);
+
+if (STATIC_MODE) {
+  const rb = document.getElementById('refresh-btn');
+  if (rb) rb.style.display = 'none';
+}
+
+document.getElementById('refresh-btn').addEventListener('click', async () => {
+  const btn = document.getElementById('refresh-btn');
+  btn.disabled = true;
+  btn.textContent = 'Yenileniyor…';
+  try {
+    await fetch('/api/refresh', { method: 'POST' });
+    await loadBooks();
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'derlemeyi yenile';
+  }
+});
+
+loadBooks();
+</script>
+</body>
+</html>

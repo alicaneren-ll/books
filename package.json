@@ -1,0 +1,20 @@
+{
+  "name": "haftalik-yeni-cikan-kitaplar",
+  "version": "1.0.0",
+  "description": "Çoklu kaynaktan derlenen haftalık yeni çıkan kitaplar sitesi",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "scrape": "node scraper.js",
+    "build:static": "node build-static.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3"
+  }
+}

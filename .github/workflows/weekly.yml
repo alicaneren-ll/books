@@ -1,0 +1,58 @@
+name: Haftalık derleme + Pages deploy
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+
+      - name: Bağımlılıkları kur
+        run: npm ci
+
+      - name: Veri çek (scrape)
+        run: npm run scrape
+
+      - name: Statik build
+        run: npm run build:static
+
+      - name: Yeni veri + HTML'i repoya işle
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/weekly.json index.html
+          git diff --cached --quiet || git commit -m "Haftalık derleme: $(date +%Y-%m-%d)"
+          git push
+
+      - name: Pages'i yapılandır
+        uses: actions/configure-pages@v5
+
+      - name: Tek dosya siteyi artifact olarak yükle
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './index.html'
+
+      - name: Pages'e deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
