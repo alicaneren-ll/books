@@ -263,6 +263,14 @@ npm start            # http://localhost:3000
   (yıl sınırı, büyüme kontrolü). API şekli `week` → `year`/`label`. Cache yıl boyunca
   birikir (mevcut `merge` zaten biriktiriyordu); kaynak yeni-çıkan sayfalarından her
   hafta düşen kitaplar cache'te kalır. Cron haftalık (Pazartesi) duruyor.
+- Dağıtım (2026-08-01, kullanıcı isteği): Wix'te "Embed a Website" ile gösterilecek
+  **GitHub Pages** adresi. `.github/workflows/weekly.yml`: Pazartesi 06:00 UTC (09:00 TR)
+  + `workflow_dispatch`; Node 18 → `npm ci` → `npm run scrape` → `npm run build:static` →
+  `data/weekly.json` + `index.html`'i repo'ya commit+push (birikim korunur) → Pages'e
+  deploy (yalnız `./index.html`). `data/weekly.json` artık repo'da (`.gitignore`'dan
+  çıkarıldı — yıllık birikim için şart). GitHub Pages yalnız public repo'da ücretsiz.
+  Git bu makineye winget ile kuruldu; yerel repo init + seed commit tamamlandı.
+  Wix tarafında iframe sabit yükseklikte olduğundan yükseklik bol tutulur.
 
 ## Review Bulguları (2026-08-01)
 - [x] Tek kaynak hatası tüm scrape'i durduruyor → **DÜZELTİLDİ (2026-08-01):** `runScraper`
