@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-03T16:00:58.018Z",
+  "lastScrapedAt": "2026-08-10T10:41:57.094Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -934,7 +934,7 @@
       "title": "Aru Shah ve Altın Şehir",
       "author": "Roshani Chokshi",
       "publisher": null,
-      "category": "5.",
+      "category": "5.-6-7. SINIFLAR",
       "isbn": null,
       "cover": null,
       "description": null,
@@ -953,7 +953,7 @@
       "title": "Aru Shah ve Dilek Ağacı",
       "author": "Roshani Chokshi",
       "publisher": null,
-      "category": "5.",
+      "category": "5.-6-7. SINIFLAR",
       "isbn": null,
       "cover": null,
       "description": null,
@@ -991,7 +991,7 @@
       "title": "İnsan Vücudundaki Acayip Fabrika",
       "author": "Rachel Poliquin",
       "publisher": null,
-      "category": "5.",
+      "category": "5.-6-7. SINIFLAR",
       "isbn": null,
       "cover": null,
       "description": null,
@@ -1010,7 +1010,7 @@
       "title": "Nondurha",
       "author": "ZEYNEP ÜNSAL",
       "publisher": null,
-      "category": "5.",
+      "category": "5.-6-7. SINIFLAR",
       "isbn": null,
       "cover": null,
       "description": null,
@@ -1067,7 +1067,7 @@
       "title": "Aru Shah Ve Zamanın Sonu",
       "author": "Roshani Chokshi",
       "publisher": null,
-      "category": "5.",
+      "category": "5.-6-7. SINIFLAR",
       "isbn": null,
       "cover": null,
       "description": null,
@@ -1086,7 +1086,7 @@
       "title": "Billy Şaman'ın Serüvenleri 2 - Kutsal Atların Savaşı",
       "author": "ROLAND CHAMBERS",
       "publisher": null,
-      "category": "5.",
+      "category": "5.-6-7. SINIFLAR",
       "isbn": null,
       "cover": null,
       "description": null,
@@ -3473,6 +3473,671 @@
           "name": "ketebe",
           "url": "https://www.ketebe.com/benim-neden-arkadasim-yok-katalin-szegedi",
           "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Tanrı'nın Kulesi Cilt - 9",
+      "author": null,
+      "publisher": null,
+      "category": "Çizgi Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/tanrinin-kulesi-cilt-9-p-29239844",
+          "price": 584.64
+        }
+      ]
+    },
+    {
+      "title": "Ters Ayna",
+      "author": null,
+      "publisher": null,
+      "category": "Kişisel Gelişim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ters-ayna-p-29236640",
+          "price": 125
+        }
+      ]
+    },
+    {
+      "title": "Sokaklar Bizim - Bir Takım Kooperatif Düşünceler",
+      "author": null,
+      "publisher": null,
+      "category": "Ekoloji/Çevre Bilim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sokaklar-bizim-bir-takim-kooperatif-dusunceler-p-29236639",
+          "price": 149
+        }
+      ]
+    },
+    {
+      "title": "Portekiz Hakkında Her Şey - Gezi - Tarih - Kültür - Yaşam",
+      "author": null,
+      "publisher": null,
+      "category": "Gezi Anlatımı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/portekiz-hakkinda-her-sey-gezi-tarih-kultur-yasam-p-29236638",
+          "price": 149
+        }
+      ]
+    },
+    {
+      "title": "Herkese Benzeyen Adam",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/herkese-benzeyen-adam-p-29236637",
+          "price": 151
+        }
+      ]
+    },
+    {
+      "title": "Yanındayım",
+      "author": null,
+      "publisher": null,
+      "category": "Kişisel Gelişim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yanindayim-p-29236627",
+          "price": 352.8
+        }
+      ]
+    },
+    {
+      "title": "Saklı Hatıralar Ağacı - İyi Hisset Serisi",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sakli-hatiralar-agaci-iyi-hisset-serisi-p-29236626",
+          "price": 433.44
+        }
+      ]
+    },
+    {
+      "title": "Bodrum Bir Masaldı - Geçmişten Günümüze İsmet Cengiz'in Denizcilik Hikayesi",
+      "author": null,
+      "publisher": null,
+      "category": "Biyografi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/bodrum-bir-masaldi-gecmisten-gunumuze-ismet-cengizin-denizcilik-hikayesi-p-29236624",
+          "price": 149
+        }
+      ]
+    },
+    {
+      "title": "Doğunun Kraliçesi - Antakya'nın Yüz Bir Gece Öyküleri",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/dogunun-kralicesi-antakyanin-yuz-bir-gece-oykuleri-p-29236623",
+          "price": 229
+        }
+      ]
+    },
+    {
+      "title": "Hayat Dediğin",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Şiir",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/hayat-dedigin-p-29236622",
+          "price": 129
+        }
+      ]
+    },
+    {
+      "title": "Devrimin Çelişkileri",
+      "author": "Kıvanç Ulusoy (Derleyen), Seçil Deren van het Hof (Derleyen)",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540127",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-06",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/devrimin-celiskileri/10978",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Partiler ve Patronlar",
+      "author": "Toygar Sinan Baykan, Murat Somer",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540134",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-06",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/partiler-ve-patronlar/10977",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Deneyim Toplumunda Hayatta Kalmak",
+      "author": "Svend Brinkmann",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540141",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-06",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/deneyim-toplumunda-hayatta-kalmak/10976",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Fatsa Fikri",
+      "author": "Naci Sönmez",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540158",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-06",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/fatsa-fikri/10975",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Mimarlık Yazıları",
+      "author": "Ali Artun",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540165",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-06",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/mimarlik-yazilari/10974",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Bizum Rize",
+      "author": "Alper Taş (Derleyen)",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540110",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-06",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/bizum-rize/10973",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Şipşak Öğreniyorum - Satranç Oynuyorum",
+      "author": "SAGRARIO PINTO",
+      "publisher": null,
+      "category": "1. VE 2. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/sipsak-ogreniyorum-satranc-oynuyorum",
+          "price": 126
+        }
+      ]
+    },
+    {
+      "title": "Yolunda",
+      "author": "GÖKÇEN ZORCU",
+      "publisher": null,
+      "category": "5.-6-7. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/yolunda",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "title": "Kim Var Orada?",
+      "author": "John W. Campbell",
+      "publisher": null,
+      "category": "Bilimkurgu Klasikleri",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kim-var-orada",
+          "price": 175
+        }
+      ]
+    },
+    {
+      "title": "Medusa'nın Gözleri",
+      "author": "NATALIE HAYNES",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/medusanin-gozleri",
+          "price": 294
+        }
+      ]
+    },
+    {
+      "title": "Hangi Liberal Demokrasi",
+      "author": "Daron Acemoğlu",
+      "publisher": "Doğan Kitap",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fhangi-liberal-demokrasi-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/hangi-liberal-demokrasi",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Karanlık Denizden Yeni Dünyaya",
+      "author": "Yossef Rapoport",
+      "publisher": "Ketebe Yayınları",
+      "category": "Tarih",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/karanlik-denizden-yeni-dunyaya-yossef-rapoport-tarih-ketebe-yossef-rapoport-3923-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/karanlik-denizden-yeni-dunyaya-yossef-rapoport",
+          "price": 584.35
+        }
+      ]
+    },
+    {
+      "title": "Hakikatin Hatırı",
+      "author": "Celâl Fedai",
+      "publisher": "Ketebe Yayınları",
+      "category": "Poetika",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/hakikatin-hatiri-celal-fedai-poetika-ketebe-cell-fedai-3930-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/hakikatin-hatiri-celal-fedai",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Sana Anlatacak Fantastik Şeylerim Olacak",
+      "author": "Ayşe Şasa",
+      "publisher": "Ketebe Yayınları",
+      "category": "Mektup",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/sana-anlatacak-fantastik-seylerim-olacak-ayse-sasa-mektup-ketebe-ayse-sasa-3931-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/sana-anlatacak-fantastik-seylerim-olacak-ayse-sasa",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Selim Giray Han",
+      "author": "Muhammet Şen",
+      "publisher": "Ketebe Yayınları",
+      "category": "Tarih",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/selim-giray-han-muhammet-sen-tarih-ketebe-muhammet-sen-3922-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/selim-giray-han-muhammet-sen",
+          "price": 291.85
+        }
+      ]
+    },
+    {
+      "title": "Tarihselciliğin Doğuşu",
+      "author": "Friedrich Meinecke",
+      "publisher": "Ketebe Yayınları",
+      "category": "Historiyografi",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/tarihselciligin-dogusu-friedrich-meinecke-historiyografi-ketebe-friedrich-meinecke-3943-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/tarihselciligin-dogusu-friedrich-meinecke",
+          "price": 389.35
+        }
+      ]
+    },
+    {
+      "title": "Tragedyanın Güncelliği",
+      "author": "Christoph Menke",
+      "publisher": "Ketebe Yayınları",
+      "category": "Poetika",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/tragedyanin-guncelligi-christoph-menke-poetika-ketebe-christoph-menke-3933-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/tragedyanin-guncelligi-christoph-menke",
+          "price": 208
+        }
+      ]
+    },
+    {
+      "title": "Bizim Gördüklerimiz Bize Bakarlar",
+      "author": "Georges Didi-Huberman",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe Sanat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/bizim-gorduklerimiz-bize-bakarlar-georges-didi-huberman-ketebe-sanat-ketebe-georges-didi-huberman-3934-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/bizim-gorduklerimiz-bize-bakarlar-georges-didi-huberman",
+          "price": 273
+        }
+      ]
+    },
+    {
+      "title": "Benjamin Dosyaları",
+      "author": "Fredric Jameson",
+      "publisher": "Ketebe Yayınları",
+      "category": "Teori",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/benjamin-dosyalari-fredric-jameson-teori-ketebe-fredric-jameson-3935-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/benjamin-dosyalari-fredric-jameson",
+          "price": 324.35
+        }
+      ]
+    },
+    {
+      "title": "Bakışlar ve Görüşler",
+      "author": "Savaş Ş. Barkçin",
+      "publisher": "Ketebe Yayınları",
+      "category": "Düşünce",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/bakislar-ve-gorusler-savas-safak-barkcin-dusunce-ketebe-savas-s-barkcin-3936-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/bakislar-ve-gorusler-savas-safak-barkcin",
+          "price": 324.35
+        }
+      ]
+    },
+    {
+      "title": "Radyo’da Bir Gün",
+      "author": "Nezih Uzel",
+      "publisher": "Ketebe Yayınları",
+      "category": "Hatırat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/radyoda-bir-gun-nezih-uzel-hatirat-ketebe-nezih-uzel-3937-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/radyoda-bir-gun-nezih-uzel",
+          "price": 213.85
+        }
+      ]
+    },
+    {
+      "title": "Amerikan Halüsinasyonları",
+      "author": "Roberto Calasso",
+      "publisher": "Ketebe Yayınları",
+      "category": "Deneme",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/amerikan-halusinasyonlari-roberto-calasso-deneme-ketebe-roberto-calasso-3938-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/amerikan-halusinasyonlari-roberto-calasso",
+          "price": 213.85
+        }
+      ]
+    },
+    {
+      "title": "Mavi Sakal’ın Hayat Ağacı",
+      "author": "Ömer Yalçınova",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe Eleştiri",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/mavi-sakalin-hayat-agaci-omer-yalcinova-ketebe-elestiri-ketebe-omer-yalcinova-3939-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/mavi-sakalin-hayat-agaci-omer-yalcinova",
+          "price": 324.35
+        }
+      ]
+    },
+    {
+      "title": "Bazı Çin Hayaletleri",
+      "author": "Lafcadio Hearn",
+      "publisher": "Ketebe Yayınları",
+      "category": "Anlatı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/bazi-cin-hayaletleri-lafcadio-hearn-anlati-ketebe-lafcadio-hearn-3941-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/bazi-cin-hayaletleri-lafcadio-hearn",
+          "price": 148.85
+        }
+      ]
+    },
+    {
+      "title": "Her Öyle Olana Böyle Olmadı",
+      "author": "Ayşegül Genç",
+      "publisher": "Ketebe Yayınları",
+      "category": "Nivola",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/her-oyle-olana-boyle-olmadi-aysegul-genc-nivola-ketebe-aysegul-genc-3942-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-10",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/her-oyle-olana-boyle-olmadi-aysegul-genc",
+          "price": 168.35
         }
       ]
     }
