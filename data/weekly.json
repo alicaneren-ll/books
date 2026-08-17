@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-10T10:41:57.094Z",
+  "lastScrapedAt": "2026-08-17T08:12:15.091Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -4138,6 +4138,614 @@
           "name": "ketebe",
           "url": "https://www.ketebe.com/her-oyle-olana-boyle-olmadi-aysegul-genc",
           "price": 168.35
+        }
+      ]
+    },
+    {
+      "title": "Ali'ye Göre Gerçek Yalan Söylememek Kibar Olmak Pat Zietlow Miller Güzel Davranışlar Çevremize Özen Göstermek Aleix Cabrera Çocuklar için Güzel Davranışlar İyilik Nezaket Doğru Söylemek Kitapları - Altın Kitaplar",
+      "author": null,
+      "publisher": null,
+      "category": "Çocuk Öykü/Hikaye",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/aliye-gore-gercek-yalan-soylememek-kibar-olmak-pat-zietlow-miller-guzel-davranislar-cevremize-ozen-gostermek-aleix-cabrera-cocuklar-icin-guzel-davranislar-iyilik-nezaket-dogru-soylemek-kitaplari-p-29651653",
+          "price": 995
+        }
+      ]
+    },
+    {
+      "title": "Bilim Bunu Çözer Serisi Uzaydan Gelen Gökkuşağının Gizemi Gelgit Burun Bilir Karınca Saldırısı Küf Gizemi Tıfıl Şerlok Serisi Gizemli Canavar Define Sandığı Trex Minik Ansiklopedi Dünyamız Bilim",
+      "author": null,
+      "publisher": null,
+      "category": "Çocuk Eğitim/Etkinlik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/bilim-bunu-cozer-serisi-uzaydan-gelen-gokkusaginin-gizemi-gelgit-burun-bilir-karinca-saldirisi-kuf-gizemi-tifil-serlok-serisi-gizemli-canavar-define-sandigi-trex-minik-ansiklopedi-dunyamiz-bilim-p-29649505",
+          "price": 2995
+        }
+      ]
+    },
+    {
+      "title": "Kıyısında",
+      "author": "Gülhan Davarcı",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540172",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/kiyisinda/10982",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Lagom",
+      "author": "Gül Gölge",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540226",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/lagom/10981",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Aleviliğin Son Yüzyılı",
+      "author": "Yalçın Çakmak (Derleyen)",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540196",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/aleviligin-son-yuzyili/10980",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Erken Modern Osmanlılarda İnançsızlığın Tarih Öncesi",
+      "author": "Erkin Özdemir",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540219",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/erken-modern-osmanlilarda-inancsizligin-tarih-oncesi/10979",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Geçen Yaz",
+      "author": "Ekin Atalar",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-20",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/gecen-yaz",
+          "price": 168
+        }
+      ]
+    },
+    {
+      "title": "Bir Tohumun Yolculuğu",
+      "author": "Antoinette Portis",
+      "publisher": null,
+      "category": "5-7 YAŞ",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-20",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/bir-tohumun-yolculugu",
+          "price": 126
+        }
+      ]
+    },
+    {
+      "title": "Memeler: Görece Kısa Bir İlişki",
+      "author": "Jean Hannah Edelstein",
+      "publisher": null,
+      "category": "Anı-Deneme",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-20",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/memeler-gorece-kisa-bir-iliski",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "title": "Kısa Bir Cehennem Ziyareti",
+      "author": "STEVEN L. PECK",
+      "publisher": null,
+      "category": "Korku - Gerilim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-20",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kisa-bir-cehennem-ziyareti",
+          "price": 126
+        }
+      ]
+    },
+    {
+      "title": "Kusursuz Tanık",
+      "author": "ASHLEY ELSTON",
+      "publisher": null,
+      "category": "Korku - Gerilim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-20",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kusursuz-tanik",
+          "price": 280
+        }
+      ]
+    },
+    {
+      "title": "İyi Kız",
+      "author": "Aria Aber",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-20",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/iyi-kiz",
+          "price": 266
+        }
+      ]
+    },
+    {
+      "title": "Kan Meridyeni",
+      "author": "CORMAC MCCARTHY",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-20",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kan-meridyeni",
+          "price": 308
+        }
+      ]
+    },
+    {
+      "title": "Aşk Tahmini",
+      "author": "RACHEL LYNN SOLOMON",
+      "publisher": null,
+      "category": "Romantik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-13",
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/ask-tahmini",
+          "price": 308
+        }
+      ]
+    },
+    {
+      "title": "Zamanımızın Kahramanı",
+      "author": "Mihail Yuryeviç Lermontov",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/07/zamanimizin-kahramani-120x202.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/zamanimizin-kahramani.aspx",
+          "price": 112
+        }
+      ]
+    },
+    {
+      "title": "Zamanımızın Kahramanı – Ciltli",
+      "author": "Mihail Yuryeviç Lermontov",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/07/zamanimizin-kahramani-ciltli-120x202.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/zamanimizin-kahramani-ciltli.aspx",
+          "price": 420
+        }
+      ]
+    },
+    {
+      "title": "Çayhane",
+      "author": "Lao She",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/cayhane-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/cayhane.aspx",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "title": "Çayhane – Sert Kapak",
+      "author": "Lao She",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/cayhane-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/cayhane-sert-kapak.aspx",
+          "price": 504
+        }
+      ]
+    },
+    {
+      "title": "Lancelot",
+      "author": "Walker Percy",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/07/lancelot-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/lancelot.aspx",
+          "price": 182
+        }
+      ]
+    },
+    {
+      "title": "Lancelot – Sert Kapak",
+      "author": "Walker Percy",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/07/lancelot-sert-kapak-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/lancelot-sert-kapak.aspx",
+          "price": 630
+        }
+      ]
+    },
+    {
+      "title": "Öteki Cennet",
+      "author": "Paul Harding",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/oteki-cennet-120x198.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/oteki-cennet.aspx",
+          "price": 190.4
+        }
+      ]
+    },
+    {
+      "title": "Karanfiller ve Domates Suyu",
+      "author": "Sait Faik Abasıyanık",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/karanfiller-ve-domates-suyu-120x120.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/karanfiller-ve-domates-suyu.aspx",
+          "price": 196
+        }
+      ]
+    },
+    {
+      "title": "Stelyanos Hrisopulos Gemisi",
+      "author": "Sait Faik Abasıyanık",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/stelyanos-hrisopulos-gemisi-120x120.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/stelyanos-hrisopulos-gemisi.aspx",
+          "price": 196
+        }
+      ]
+    },
+    {
+      "title": "Gölge Dostlar",
+      "author": "Tess Gerritsen",
+      "publisher": "Doğan Kitap",
+      "category": "Polisiye - Gerilim",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fgolge-dostlar-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/golge-dostlar",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Başka Bir Yaşam",
+      "author": "Prof. Dr. M. Hakan Türkçapar",
+      "publisher": "Doğan Kitap",
+      "category": "Psikoloji",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fbaska-bir-yasam-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/baska-bir-yasam",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "The Mess Monster (İngilizce)",
+      "author": "Noura Khoori",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/the-mess-monster-noura-khoori-cocuk-edebiyat-ketebe-cocuk-noura-khoori-3947-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/the-mess-monster-noura-khoori",
+          "price": 461.5
+        }
+      ]
+    },
+    {
+      "title": "The Bookship (İngilizce)",
+      "author": "Hiba Noor Khan",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/the-bookship-hiba-noor-khan-cocuk-edebiyat-ketebe-cocuk-hiba-noor-khan-3945-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/the-bookship-hiba-noor-khan",
+          "price": 390
+        }
+      ]
+    },
+    {
+      "title": "The Naughty Cat Moves In (İngilizce)",
+      "author": "Abeer Al Taher",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/the-naughty-cat-moves-in-abeer-al-taher-cocuk-edebiyat-ketebe-cocuk-abeer-al-taher-3944-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/the-naughty-cat-moves-in-abeer-al-taher",
+          "price": 461.5
+        }
+      ]
+    },
+    {
+      "title": "Canım İstanbul",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Büyük Doğu Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/canim-istanbul-necip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-3926-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/canim-istanbul-necip-fazil-kisakurek",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "İhtilal",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Büyük Doğu Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/ihtilal-necip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-3927-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/ihtilal-necip-fazil-kisakurek",
+          "price": 343.85
+        }
+      ]
+    },
+    {
+      "title": "Son Devrin Din Mazlumları",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Büyük Doğu Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/son-devrin-din-mazlumlari-necip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-3928-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/son-devrin-din-mazlumlari-necip-fazil-kisakurek",
+          "price": 324.35
+        }
+      ]
+    },
+    {
+      "title": "Tohum",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Büyük Doğu Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/tohum-necip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-3929-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-17",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/tohum-necip-fazil-kisakurek",
+          "price": 194.35
         }
       ]
     }
