@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-17T08:12:15.091Z",
+  "lastScrapedAt": "2026-08-24T08:28:38.298Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -4746,6 +4746,386 @@
           "name": "ketebe",
           "url": "https://www.ketebe.com/tohum-necip-fazil-kisakurek",
           "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Arı Yayınları 8. Sınıf Sosyalimo İnkılap Tarihi Defterim",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ari-yayinlari-8-sinif-sosyalimo-inkilap-tarihi-defterim-p-30016255",
+          "price": 450
+        }
+      ]
+    },
+    {
+      "title": "Arı Yayınları 8. Sınıf Akıllı Yeni Nesil Fen Defteri",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ari-yayinlari-8-sinif-akilli-yeni-nesil-fen-defteri-p-30016229",
+          "price": 490
+        }
+      ]
+    },
+    {
+      "title": "Arı Yayınları 8. Sınıf Matemito Matematik Defterim",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ari-yayinlari-8-sinif-matemito-matematik-defterim-p-30016213",
+          "price": 550
+        }
+      ]
+    },
+    {
+      "title": "Arı Yayıncılık 8. Sınıf Türkçe Matematik Fen İnkılap Tarihi Defter Seti",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ari-yayincilik-8-sinif-turkce-matematik-fen-inkilap-tarihi-defter-seti-p-30016046",
+          "price": 2040
+        }
+      ]
+    },
+    {
+      "title": "Arı Yayınları 8. Sınıf Türkeçe Akıllı Defter",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ari-yayinlari-8-sinif-turkece-akilli-defter-p-30016036",
+          "price": 550
+        }
+      ]
+    },
+    {
+      "title": "Hız 7. Sınıf Hibrit Matematik Fen Ve Türkçe Bağlam Temelli Sorular Maarif Model",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/hiz-7-sinif-hibrit-matematik-fen-ve-turkce-baglam-temelli-sorular-maarif-model-p-30014910",
+          "price": 1679
+        }
+      ]
+    },
+    {
+      "title": "Derbederin El Kitabı",
+      "author": "Emrah Serbes",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540189",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-20",
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/derbederin-el-kitabi/10983",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Altı Allı Turna",
+      "author": "Elizabeth Lim",
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-27",
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/alti-alli-turna",
+          "price": 343
+        }
+      ]
+    },
+    {
+      "title": "Otogizoşi: Japon Halk Masalları",
+      "author": "OSAMU DAZAI",
+      "publisher": null,
+      "category": "Japon Klasikleri",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-27",
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/otogizosi-japon-halk-masallari",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "title": "Pil Krallığı",
+      "author": "Alkım Özalp",
+      "publisher": null,
+      "category": "5-7 YAŞ",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-27",
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/pil-kralligi",
+          "price": 56
+        }
+      ]
+    },
+    {
+      "title": "141. Sokak'tan Vanderbeeker Ailesi",
+      "author": "KARINA YAN GLASER",
+      "publisher": null,
+      "category": "5.-6-7. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-27",
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/141-sokaktan-vanderbeeker-ailesi",
+          "price": 280
+        }
+      ]
+    },
+    {
+      "title": "Kor Beyaz- Işıkyaratan Serisi 5. Kitap",
+      "author": "BRENT WEEKS",
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-27",
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kor-beyaz-isikyaratan-serisi-5-kitap",
+          "price": 840
+        }
+      ]
+    },
+    {
+      "title": "Marvel Yenilmezler Birliği-3 / X-tra Maceralı Bir Dönem",
+      "author": "Preeti Chhibber",
+      "publisher": null,
+      "category": "4. VE 5. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-27",
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/marvel-yenilmezler-birligi-3-x-tra-macerali-bir-donem",
+          "price": 196
+        }
+      ]
+    },
+    {
+      "title": "Nemide",
+      "author": "Halit Ziya Uşaklıgil",
+      "publisher": null,
+      "category": "Türk Edebiyatı Klasikleri",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-08-27",
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/nemide",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "Yeniyetme",
+      "author": "Fyodor Mihayloviç Dostoyevski",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/yeniyetme-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/yeniyetme.aspx",
+          "price": 252
+        }
+      ]
+    },
+    {
+      "title": "Yeniyetme – Ciltli",
+      "author": "Fyodor Mihayloviç Dostoyevski",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/yeniyetme-1-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/yeniyetme-ciltli.aspx",
+          "price": 490
+        }
+      ]
+    },
+    {
+      "title": "Ben Jack Mortimer’dım",
+      "author": "Alexander Lernet-Holenia",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/ben-jack-mortimerdim-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/ben-jack-mortimerdim.aspx",
+          "price": 120.4
+        }
+      ]
+    },
+    {
+      "title": "Ben Jack Mortimer’dım – Sert Kapak",
+      "author": "Alexander Lernet-Holenia",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/08/ben-jack-mortimerdim-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/ben-jack-mortimerdim-sert-kapak.aspx",
+          "price": 462
+        }
+      ]
+    },
+    {
+      "title": "Permakültüre Giriş",
+      "author": "Bill Mollison",
+      "publisher": "Doğan Kitap",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fpermakulture-giris-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/permakulture-giris",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Anlamsızlık",
+      "author": "Horacio Castellanos Moya",
+      "publisher": "Jaguar Kitap",
+      "category": null,
+      "isbn": null,
+      "cover": "https://jaguarkitap.com/assets/anlamsizlik.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-24",
+      "sources": [
+        {
+          "name": "jaguar",
+          "url": "https://jaguarkitap.com/kitaplar/anlamsizlik/",
+          "price": null
         }
       ]
     }
