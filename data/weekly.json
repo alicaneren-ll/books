@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-24T08:28:38.298Z",
+  "lastScrapedAt": "2026-08-31T06:07:54.288Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -5126,6 +5126,671 @@
           "name": "jaguar",
           "url": "https://jaguarkitap.com/kitaplar/anlamsizlik/",
           "price": null
+        }
+      ]
+    },
+    {
+      "title": "Mon Livre Des Fourmis - Kumdan Kale",
+      "author": null,
+      "publisher": null,
+      "category": "French",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/mon-livre-des-fourmis-p-30395074",
+          "price": 67.1
+        }
+      ]
+    },
+    {
+      "title": "Mon livre des Fleurs - Kumdan Kale",
+      "author": null,
+      "publisher": null,
+      "category": "French",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/mon-livre-des-fleurs-p-30395071",
+          "price": 67.1
+        }
+      ]
+    },
+    {
+      "title": "Mon Livre De L'ete - Kumdan Kale",
+      "author": null,
+      "publisher": null,
+      "category": "French",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/mon-livre-de-lete-p-30395072",
+          "price": 67.1
+        }
+      ]
+    },
+    {
+      "title": "Mon Livre De La Grenouille - Kumdan Kale",
+      "author": null,
+      "publisher": null,
+      "category": "French",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/mon-livre-de-la-grenouille-p-30395070",
+          "price": 67.1
+        }
+      ]
+    },
+    {
+      "title": "Mon Livre De L'automne - Kumdan Kale",
+      "author": null,
+      "publisher": null,
+      "category": "French",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/mon-livre-de-lautomne-p-30395069",
+          "price": 67.1
+        }
+      ]
+    },
+    {
+      "title": "Öfkeli Genç Türkler - Türkiye'de Seküler Milliyetçilik",
+      "author": null,
+      "publisher": null,
+      "category": "Türkiye Politika",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ofkeli-genc-turkler-turkiyede-sekuler-milliyetcilik-p-30395068",
+          "price": 265.62
+        }
+      ]
+    },
+    {
+      "title": "Kötülükle Dövülmüş - Briar'ın Canavarları - Yan Boyamalı",
+      "author": null,
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kotulukle-dovulmus-briarin-canavarlari-yan-boyamali-p-30395067",
+          "price": 742.95
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'de Felaketlerin Politikası - Enformel Toplumsal Sözleşmeler ve Popülizm",
+      "author": null,
+      "publisher": null,
+      "category": "Türkiye Politika",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/turkiyede-felaketlerin-politikasi-enformel-toplumsal-sozlesmeler-ve-populizm-p-30395066",
+          "price": 314.55
+        }
+      ]
+    },
+    {
+      "title": "Hakikatler - Önce Amerika Vizyonunun Geleceği - Fihrist",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Politika",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/hakikatler-once-amerika-vizyonunun-gelecegi-p-30395065",
+          "price": 346.05
+        }
+      ]
+    },
+    {
+      "title": "Günlük Hayatta 80 - 20 - CEO Plus",
+      "author": null,
+      "publisher": null,
+      "category": "Kalite Yönetim / İş Geliştirme",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/gunluk-hayatta-80-20-p-30395063",
+          "price": 426.93
+        }
+      ]
+    },
+    {
+      "title": "Çiğdem Günü - Doğan Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/cigdem-gunu-p-30395062",
+          "price": 174.96
+        }
+      ]
+    },
+    {
+      "title": "Kırlaniler",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kirlaniler-p-30395061",
+          "price": 255.15
+        }
+      ]
+    },
+    {
+      "title": "Aklın Çekmeceleri - Psikiyatrik Hastalıklar ve Vaka Öyküleri",
+      "author": null,
+      "publisher": null,
+      "category": "Psikoloji Bilimi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/aklin-cekmeceleri-psikiyatrik-hastaliklar-ve-vaka-oykuleri-p-30395060",
+          "price": 255.15
+        }
+      ]
+    },
+    {
+      "title": "Merakını Kaybetmeyen Çocuk - Anne Baba Akademisi",
+      "author": null,
+      "publisher": null,
+      "category": "Aile - Çocuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/merakini-kaybetmeyen-cocuk-anne-baba-akademisi-p-30395059",
+          "price": 255.15
+        }
+      ]
+    },
+    {
+      "title": "Katalonya'ya Bin Selam",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Klasik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/katalonyaya-bin-selam-p-30395058",
+          "price": 202.71
+        }
+      ]
+    },
+    {
+      "title": "İkinci Yeni'den Sonra Kanon Mücadelesi",
+      "author": null,
+      "publisher": null,
+      "category": "Edebiyat İnceleme",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ikinci-yeniden-sonra-kanon-mucadelesi-p-30395054",
+          "price": 230.67
+        }
+      ]
+    },
+    {
+      "title": "Kısaca Felsefe - Büyük Fikirler Arasında Yolculuk",
+      "author": null,
+      "publisher": null,
+      "category": "Popüler Bilim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kisaca-felsefe-buyuk-fikirler-arasinda-yolculuk-p-30395053",
+          "price": 615.2
+        }
+      ]
+    },
+    {
+      "title": "Karizma: İktidarın ve Nüfuzun Mikrososyolojisi",
+      "author": null,
+      "publisher": null,
+      "category": "Sosyoloji",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/karizma-iktidarin-ve-nufuzun-mikrososyolojisi-p-30395052",
+          "price": 255.15
+        }
+      ]
+    },
+    {
+      "title": "Pembe Donlu Vasiyet - Literatür Hayat",
+      "author": null,
+      "publisher": null,
+      "category": "Anlatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/pembe-donlu-vasiyet-p-30395051",
+          "price": 223.01
+        }
+      ]
+    },
+    {
+      "title": "Kısaltılmış İş Çocuk Klasikleri 3. Set - Kutulu",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kisaltilmis-is-cocuk-klasikleri-3-set-kutulu-p-30395050",
+          "price": 973.5
+        }
+      ]
+    },
+    {
+      "title": "Kısaltılmış İş Çocuk Klasikleri 2. Set - Kutulu",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kisaltilmis-is-cocuk-klasikleri-2-set-kutulu-p-30395049",
+          "price": 973.5
+        }
+      ]
+    },
+    {
+      "title": "Liberal Faşizmler",
+      "author": null,
+      "publisher": null,
+      "category": "Politika",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/liberal-fasizmler-p-30395048",
+          "price": 286.59
+        }
+      ]
+    },
+    {
+      "title": "Kaos - Steal or Kiss Serisi 3",
+      "author": null,
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kaos-steal-or-kiss-serisi-3-p-30395017",
+          "price": 503.1
+        }
+      ]
+    },
+    {
+      "title": "Benim Aşk Şarkım",
+      "author": "Tracy Wolff",
+      "publisher": null,
+      "category": "Romantik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/benim-ask-sarkim",
+          "price": 413
+        }
+      ]
+    },
+    {
+      "title": "Tanrısız Gençlik",
+      "author": "Ödön von Horváth",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/tanrisiz-genclik",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "title": "Kendinize Çekidüzen Verin",
+      "author": "PHILIP K. DICK",
+      "publisher": null,
+      "category": "Bilimkurgu",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kendinize-cekiduzen-verin",
+          "price": 294
+        }
+      ]
+    },
+    {
+      "title": "El Feneri",
+      "author": "Susan Choi",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/el-feneri",
+          "price": 364
+        }
+      ]
+    },
+    {
+      "title": "Günceler ve Mektuplar",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/c2afec76-e916-4a54-a485-a9bfc54e32e9.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/gunceler-ve-mektuplar-p-7494",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Mükemmel Yer",
+      "author": null,
+      "publisher": "Çınar Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/c8f7aa21-cd09-4d0a-94d1-042ad66cf6ba.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/mukemmel-yer-p-7497",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Dışadüşenler Kulübü",
+      "author": null,
+      "publisher": "Kırk Yayınevi",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/6ffbb1a3-4ff7-4a8b-8539-832864b10142.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/disadusenler-kulubu-p-7499",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Aklın Çekmeceleri",
+      "author": "Dr. Mustafa Tatlı",
+      "publisher": "Doğan Kitap",
+      "category": "Psikoloji",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Faklin-cekmeceleri-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/aklin-cekmeceleri",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Günlük Hayatta 80/20",
+      "author": "Richard Koch",
+      "publisher": "Ceo Plus",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fgunluk-hayatt-80-20-a-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/gunluk-hayatta-80-20",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Merakını Kaybetmeyen Çocuk",
+      "author": "Aletha J. Solter",
+      "publisher": "Doğan Kitap",
+      "category": "Anne Baba Akademisi",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fmerakini-kaybetmeyen-cocuk-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/merakini-kaybetmeyen-cocuk",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Kırlaniler",
+      "author": "Gamze Arslan",
+      "publisher": "Doğan Kitap",
+      "category": "Türk Edebiyatı Roman",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fkirlaniler-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/kirlaniler",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Radikalleşme Bilmecesi",
+      "author": "Nedim Havle",
+      "publisher": "Ketebe Yayınları",
+      "category": "Psikoloji",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/radikallesme-bilmecesi-nedim-havle-psikoloji-ketebe-nedim-havle-3951-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-08-31",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/radikallesme-bilmecesi-nedim-havle",
+          "price": 324.35
         }
       ]
     }
