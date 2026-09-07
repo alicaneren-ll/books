@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-31T06:07:54.288Z",
+  "lastScrapedAt": "2026-09-07T11:39:05.542Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -1743,7 +1743,7 @@
         {
           "name": "kirmizikedi",
           "url": "https://www.kirmizikedi.com/frida-kahlo-ask-mektuplari-p-7488",
-          "price": 225
+          "price": 262.5
         }
       ]
     },
@@ -5676,7 +5676,7 @@
         {
           "name": "kirmizikedi",
           "url": "https://www.kirmizikedi.com/mukemmel-yer-p-7497",
-          "price": 187.5
+          "price": 165
         }
       ]
     },
@@ -5791,6 +5791,405 @@
           "name": "ketebe",
           "url": "https://www.ketebe.com/radikallesme-bilmecesi-nedim-havle",
           "price": 324.35
+        }
+      ]
+    },
+    {
+      "title": "Her Yerden ve Her Şeyden Bir Adam",
+      "author": null,
+      "publisher": null,
+      "category": "Gezi Anlatımı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/her-yerden-ve-her-seyden-bir-adam-p-30789863",
+          "price": 350
+        }
+      ]
+    },
+    {
+      "title": "Güneşe Uzanan Sayfalar",
+      "author": null,
+      "publisher": null,
+      "category": "8-12 Yaş Hikaye-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/gunese-uzanan-sayfalar-p-30789853",
+          "price": 175
+        }
+      ]
+    },
+    {
+      "title": "Katalonya'ya Bin Selam",
+      "author": "George Orwell",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540271",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/katalonya-ya-bin-selam/10984",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "“Öfkeli Genç Türkler”",
+      "author": "Bayram Koca",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540233",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/ofkeli-genc-turkler/10985",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'de Felaketlerin Politikası",
+      "author": "Erhan Özşeker, Toygar Sinan Baykan",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540240",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/turkiye-de-felaketlerin-politikasi/10986",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Liberal Faşizmler",
+      "author": "Slavoj Žižek",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540264",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/liberal-fasizmler/10987",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Kanon Mücadelesi",
+      "author": "Yalçın Armağan",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540202",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-03",
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/kanon-mucadelesi/10988",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Komünistliğin Ne Lüzumu Var? – Kemal Okuyan İle Söyleşi",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/7f170699-31c2-4934-9d31-a9eae2654e0d.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/komunistligin-ne-luzumu-var-kemal-okuyan-ile-soylesi-p-7506",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "İzmir'in Hazineleri",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/5a0b48fe-81fd-4ba6-8776-3a9de946bc7e.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/izmir-in-hazineleri-p-7495",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Yazar, Denizci, Asker, Casus– Ernest Hemingway’in Gizli Maceraları, 1935-1961",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/f0db0a6a-2f96-4489-b3cc-1dcca628166d.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/yazar-denizci-asker-casus-ernest-hemingway-in-gizli-maceralari-1935-1961-p-7498",
+          "price": 337.5
+        }
+      ]
+    },
+    {
+      "title": "Kopma",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/841107ec-8439-465e-8fbc-b3097a5215c8.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/kopma-p-7504",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Sahada Ajan Yönetmek",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/68a6da4a-dadd-4c9f-acb7-18253613b6bf.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/sahada-ajan-yonetmek-p-7505",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "Kapım Kayboldu",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/80a4d542-ac77-457a-8f85-73472e8199c2.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/kapim-kayboldu-p-7496",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Gün Doğarken Atatürk ile Türkçe Yolculuğu",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/c23f3ce8-a5b3-4fb9-8598-648aec64fcd7.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/gun-dogarken-ataturk-ile-turkce-yolculugu-p-7502",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "CHP’de Maskeli Yıllar",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/a1d0edbc-2d3e-4a15-ac84-b5d429e6445c.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/chp-de-maskeli-yillar-p-7501",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Geleceğe Son Çıkış",
+      "author": "Ayşegül İldeniz",
+      "publisher": "Doğan Kitap",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fgelecege-son-cikis-o-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/gelecege-son-cikis",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Döneceksin Diye Söz Ver II- Mahperi",
+      "author": "Melin Söğüt",
+      "publisher": "DEX",
+      "category": "Romantik",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fsomiz-doneceksin-diye-soz-ver2-mahperi-o-kapak-1.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/doneceksin-diye-soz-ver-ii-mahperi-1",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Teklif 28. Sayı",
+      "author": "Teklif Dergi",
+      "publisher": "Ketebe Yayınları",
+      "category": "Teklif Dergi",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/teklif-28-sayi-teklif-dergi-teklif-dergi-3954-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/teklif-28-sayi",
+          "price": 309
+        }
+      ]
+    },
+    {
+      "title": "Kaygım Büyüdüğünde",
+      "author": "Süreyya Kitapçıoğlu, Merve Gülçin Temizyürek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/kaygim-buyudugunde-sureyya-kitapcioglu-merve-gulcin-temizyurek-cocuk-edebiyat-ketebe-cocuk-sureyya-kitapcioglu-merve-gulcin-temizyurek-3952-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/kaygim-buyudugunde-sureyya-kitapcioglu-merve-gulcin-temizyurek",
+          "price": 291.85
+        }
+      ]
+    },
+    {
+      "title": "Uçup Gittiğinde",
+      "author": "Chae Daon",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/ucup-gittiginde-chae-daon-cocuk-edebiyat-ketebe-cocuk-chae-daon-3953-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/ucup-gittiginde-chae-daon",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Karizma",
+      "author": "Randall Collins",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103717",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-07",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37552",
+          "price": null
         }
       ]
     }
