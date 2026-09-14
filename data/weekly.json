@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-09-07T11:39:05.542Z",
+  "lastScrapedAt": "2026-09-14T11:52:39.760Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -6190,6 +6190,975 @@
           "name": "metis",
           "url": "https://www.metiskitap.com/catalog/book/37552",
           "price": null
+        }
+      ]
+    },
+    {
+      "title": "Küreselleşen Dünyada Toplumsal Cinsiyet",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kuresellesen-dunyada-toplumsal-cinsiyet-p-31036439",
+          "price": 297.05
+        }
+      ]
+    },
+    {
+      "title": "\"Ateşin Gücü, Rüzgârın Yönü” Adana BİLSEM Başarı Öyküsü",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/atesin-gucu-ruzgarin-yonu-adana-bilsem-basari-oykusu-p-31036432",
+          "price": 339.57
+        }
+      ]
+    },
+    {
+      "title": "Zor Zamanlarda Baba Olmak Kuramsal ve Uygulamalı Boyutlarıyla Baba Katılımı Eğitim Programı",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/zor-zamanlarda-baba-olmak-kuramsal-ve-uygulamali-boyutlariyla-baba-katilimi-egitim-programi-p-31036436",
+          "price": 534.58
+        }
+      ]
+    },
+    {
+      "title": "Avrupa'da Türkçe Öğretiminin Güncel Durumu",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/avrupada-turkce-ogretiminin-guncel-durumu-p-31036434",
+          "price": 414.74
+        }
+      ]
+    },
+    {
+      "title": "Türkiye Yüzyılı Maarif Modeli'ne Genel Bakış",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/turkiye-yuzyili-maarif-modeline-genel-bakis-p-31036430",
+          "price": 698.8
+        }
+      ]
+    },
+    {
+      "title": "Erken Çocukluk Eğitimi ve Güncel Yaklaşımlar-II",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/erken-cocukluk-egitimi-ve-guncel-yaklasimlar-ii-p-31036429",
+          "price": 694.4
+        }
+      ]
+    },
+    {
+      "title": "Dijital Köyün Muhtarı Kim?",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/dijital-koyun-muhtari-kim-p-31036417",
+          "price": 338.1
+        }
+      ]
+    },
+    {
+      "title": "7’den 77’ye Sağlık(Toplum Sağlığı ve Psikososyal Dayanıklılık)",
+      "author": null,
+      "publisher": null,
+      "category": "Tıp",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/7-den-77-ye-sagliktoplum-sagligi-ve-psikososyal-dayaniklilik-p-31036419",
+          "price": 516.98
+        }
+      ]
+    },
+    {
+      "title": "Özel Yetenekli İlkokul Öğrencilerinin Sosyal-Duygusal Gelişimlerinin Desteklenmesinde Teknopedagojik",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ozel-yetenekli-ilkokul-ogrencilerinin-sosyal-duygusal-gelisimlerinin-desteklenmesinde-teknopedagojik-p-31036425",
+          "price": 607.89
+        }
+      ]
+    },
+    {
+      "title": "Erken Çocukluk Eğitimi ve Güncel Yaklaşımlar-I",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/erken-cocukluk-egitimi-ve-guncel-yaklasimlar-i-p-31036418",
+          "price": 607.89
+        }
+      ]
+    },
+    {
+      "title": "Disiplinlerarası Perspektiften ‘İnovasyon’",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/disiplinlerarasi-perspektiften-inovasyon-p-31036410",
+          "price": 621.09
+        }
+      ]
+    },
+    {
+      "title": "Muhasebe ve Denetim Alanında Güncel Çalışmalar",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/muhasebe-ve-denetim-alaninda-guncel-calismalar-p-31036416",
+          "price": 434.87
+        }
+      ]
+    },
+    {
+      "title": "Bilim ve Sanat Merkezlerindeki Atölyeler İçin Zenginleştirilmiş Etkinlikler",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/bilim-ve-sanat-merkezlerindeki-atolyeler-icin-zenginlestirilmis-etkinlikler-p-31036412",
+          "price": 433.41
+        }
+      ]
+    },
+    {
+      "title": "Science and Art with a Multifaceted and Multidisciplinary Holistic Approach",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/science-and-art-with-a-multifaceted-and-multidisciplinary-holistic-approach-p-31036409",
+          "price": 334.19
+        }
+      ]
+    },
+    {
+      "title": "Kimmer ve İskitlerin Orta Anadolu'daki İzleri",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kimmer-ve-iskitlerin-orta-anadoludaki-izleri-p-31036404",
+          "price": 490.59
+        }
+      ]
+    },
+    {
+      "title": "Güzel Sanatlar Eğitimi Alanında Akademik Çalışmalar",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/guzel-sanatlar-egitimi-alaninda-akademik-calismalar-p-31036402",
+          "price": 599.09
+        }
+      ]
+    },
+    {
+      "title": "7’den 77’ye Sağlık (Modern Tıp ve Klinik Uygulamalar)",
+      "author": null,
+      "publisher": null,
+      "category": "Tıp",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/7-den-77-ye-saglik-modern-tip-ve-klinik-uygulamalar-p-31036398",
+          "price": 415.81
+        }
+      ]
+    },
+    {
+      "title": "Türk Halk Müziği Antropolojisi - Türkülerde Geçen Özel İsimler (İnsan İsimleri) ve Toplumsal Hafıza",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/turk-halk-muzigi-antropolojisi-turkulerde-gecen-ozel-isimler-insan-isimleri-ve-toplumsal-hafiza-p-31036396",
+          "price": 544.84
+        }
+      ]
+    },
+    {
+      "title": "Eğitimde Yapay Zekâ ve Uygulama Alanları",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/egitimde-yapay-zeka-ve-uygulama-alanlari-p-31036387",
+          "price": 459.8
+        }
+      ]
+    },
+    {
+      "title": "Gönül Erbaa'da Kalır",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/gonul-erbaada-kalir-p-31036391",
+          "price": 461.66
+        }
+      ]
+    },
+    {
+      "title": "Etkinlik Örnekleriyle Eğitimde Yapay Zekâ Uygulamaları",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/etkinlik-ornekleriyle-egitimde-yapay-zeka-uygulamalari-p-31036382",
+          "price": 773.09
+        }
+      ]
+    },
+    {
+      "title": "Matematik Eğitiminde Kesişimler ve Dönüşümler Kuramdan Uygulamaya Disiplinlerarası Bir Bakış",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/matematik-egitiminde-kesisimler-ve-donusumler-kuramdan-uygulamaya-disiplinlerarasibirbakis-p-31036386",
+          "price": 612.29
+        }
+      ]
+    },
+    {
+      "title": "Türkçe Dersi Öğretim Programı Okuryazarlığı",
+      "author": null,
+      "publisher": null,
+      "category": "İnceleme - Kuram",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/turkce-dersi-ogretim-programi-okuryazarligi-p-31036389",
+          "price": 341.03
+        }
+      ]
+    },
+    {
+      "title": "Birinci Ulusal Mimarlık Dönemi Mimarlarından Muzaffer Bey: Eserleri ve Sanat Anlayışı",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/birinci-ulusal-mimarlik-donemi-mimarlarindan-muzaffer-bey-eserleri-ve-sanat-anlayisi-p-31036379",
+          "price": 511.12
+        }
+      ]
+    },
+    {
+      "title": "Zifir Orman",
+      "author": "Max Annas",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540257",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-10",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/zifir-orman/10990",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Dersim'in Pirleri",
+      "author": "Erdal Gezik",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540318",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-10",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/dersim-in-pirleri/10989",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Tembel Değilim, Enerji Tasarrufu Modundayım",
+      "author": "Dancing Snail",
+      "publisher": null,
+      "category": "Kişisel Gelişim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/tembel-degilim-enerji-tasarrufu-modundayim",
+          "price": 224
+        }
+      ]
+    },
+    {
+      "title": "Denizden Gelen Çocuk",
+      "author": "Garrett Carr",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/denizden-gelen-cocuk",
+          "price": 266
+        }
+      ]
+    },
+    {
+      "title": "Yitik Kalplerimiz",
+      "author": "CELESTE NG",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/yitik-kalplerimiz",
+          "price": 273
+        }
+      ]
+    },
+    {
+      "title": "Kütüphanecilerin İntikamı",
+      "author": "TOM GAULD",
+      "publisher": null,
+      "category": "Çizgi Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kutuphanecilerin-intikami",
+          "price": 560
+        }
+      ]
+    },
+    {
+      "title": "Monelle'in Kitabı",
+      "author": "MARCEL SCHWOB",
+      "publisher": null,
+      "category": "İthaki Dünya Klasikleri",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-10",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/monellein-kitabi",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "title": "10 Kedi",
+      "author": "Emily Gravett",
+      "publisher": null,
+      "category": "3-5 Yaş",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-10",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/10-kedi",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "Okurken Yaratmak: Meraklı Okurlar İçin Kurmacanın Gizemleri",
+      "author": "İsmail Güzelsoy",
+      "publisher": null,
+      "category": "Araştırma / İnceleme",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-10",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/okurken-yaratmak-merakli-okurlar-icin-kurmacanin-gizemleri",
+          "price": 315
+        }
+      ]
+    },
+    {
+      "title": "Aytozu Faciası",
+      "author": "ARTHUR C. CLARKE",
+      "publisher": null,
+      "category": "Bilimkurgu Klasikleri",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-10",
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/aytozu-faciasi",
+          "price": 224
+        }
+      ]
+    },
+    {
+      "title": "Andromeda",
+      "author": "Therese Bohman",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/andromeda-120x198.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/andromeda.aspx",
+          "price": 168
+        }
+      ]
+    },
+    {
+      "title": "Teehhül Âleminde – Evlilik Hayatı",
+      "author": "Saffet Nezihi",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/teehhul-aleminde-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/teehhul-aleminde-evlilik-hayati.aspx",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "title": "Yeni Deniz Mecmuası – Sayı 42",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/5f7abed4-8063-4594-9ff0-04c81c66c332.jpeg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/yeni-deniz-mecmuasi-sayi-42-p-7508",
+          "price": 450
+        }
+      ]
+    },
+    {
+      "title": "Kurdun Zamanı",
+      "author": "Jo Nesbo",
+      "publisher": "Doğan Kitap",
+      "category": "Polisiye - Gerilim",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fkurdun-zamani-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/kurdun-zamani",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Onlar Yaşadı Ben Yazdım",
+      "author": "Kemal Varol",
+      "publisher": "Doğan Kitap",
+      "category": "Türk Edebiyatı Öykü",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fonlar-yasadi-ben-yazdim-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/onlar-yasadi-ben-yazdim",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Oyunlar",
+      "author": "William Shakespeare",
+      "publisher": "Ketebe Yayınları",
+      "category": "Oyun",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/oyunlar-william-shakespeare-oyun-ketebe-william-shakespeare-3984-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/oyunlar-william-shakespeare",
+          "price": 2144.35
+        }
+      ]
+    },
+    {
+      "title": "Gerçek Tevbe",
+      "author": "İmam Gazzâlî",
+      "publisher": "Ketebe Yayınları",
+      "category": "Gazzâli Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/gercek-tevbe-imam-gazzali-gazzli-kitapligi-ketebe-imam-gazzl-3988-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/gercek-tevbe-imam-gazzali",
+          "price": 126.1
+        }
+      ]
+    },
+    {
+      "title": "Sabır ve Şükür",
+      "author": "İmam Gazzâlî",
+      "publisher": "Ketebe Yayınları",
+      "category": "Gazzâli Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/sabir-ve-sukur-imam-gazzali-gazzli-kitapligi-ketebe-imam-gazzl-3989-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/sabir-ve-sukur-imam-gazzali",
+          "price": 129.35
+        }
+      ]
+    },
+    {
+      "title": "Routledge Askerî Çalışmalarda Araştırma Yöntemleri El Kitabı",
+      "author": "Kolektif",
+      "publisher": "Ketebe Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://www.ketebe.com/routledge-asker-calismalarda-arastirma-yontemleri-el-kitabi-yeniler-ketebe-kolektif-3991-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/routledge-asker%C3%AE-calismalarda-arastirma-yontemleri-el-kitabi",
+          "price": 454.35
+        }
+      ]
+    },
+    {
+      "title": "Bir Hayaliz",
+      "author": "Stefan Andres",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çeviri Roman",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/bir-hayaliz-stefan-andres-ceviri-roman-ketebe-stefan-andres-3992-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/bir-hayaliz-stefan-andres",
+          "price": 161.85
+        }
+      ]
+    },
+    {
+      "title": "Dokuzluklar - Üçüncü Dokuzluk",
+      "author": "Plotinos",
+      "publisher": "Ketebe Yayınları",
+      "category": "Bibliotheka",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/dokuzluklar-ucuncu-dokuzluk-plotinos-bibliotheka-ketebe-plotinos-3993-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/dokuzluklar-ucuncu-dokuzluk-plotinos",
+          "price": 226.85
+        }
+      ]
+    },
+    {
+      "title": "Tanrı Üzerine Konuşmak",
+      "author": "Byung-Chul Han",
+      "publisher": "Ketebe Yayınları",
+      "category": "Felsefe",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/tanri-uzerine-konusmak-byung-chul-han-felsefe-ketebe-byung-chul-han-3995-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/tanri-uzerine-konusmak-byung-chul-han",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Yazma Dersleri - II",
+      "author": "Necip Tosun",
+      "publisher": "Ketebe Yayınları",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/yazma-dersleri-necip-tosun-ketebe-arastirma-inceleme-ketebe-necip-tosun-4017-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/yazma-dersleri-necip-tosun-ketebe",
+          "price": 421.85
+        }
+      ]
+    },
+    {
+      "title": "Beyaz Oda",
+      "author": "Zoran Zivkovic",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çeviri Roman",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/beyaz-oda-zoran-zivkovic-ceviri-roman-ketebe-zoran-zivkovic-3997-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/beyaz-oda-zoran-zivkovic",
+          "price": 291.85
+        }
+      ]
+    },
+    {
+      "title": "Bir Rüyanın İzinde II",
+      "author": "Necmettin Salih Ekiz",
+      "publisher": "Ketebe Yayınları",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/bir-ruyanin-izinde-ii-necmettin-salih-ekiz-arastirma-inceleme-ketebe-necmettin-salih-ekiz-3998-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/bir-ruyanin-izinde-ii-necmettin-salih-ekiz",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Faiz Düşüncesi",
+      "author": "Benjamin Nelson",
+      "publisher": "Ketebe Yayınları",
+      "category": "İktisat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/faiz-dusuncesi-benjamin-nelson-iktisat-ketebe-benjamin-nelson-4000-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/faiz-dusuncesi-benjamin-nelson",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Eskimeyen Kitaplar",
+      "author": "Hakan Arslanbenzer",
+      "publisher": "Ketebe Yayınları",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/eskimeyen-kitaplar-hakan-arslanbenzer-arastirma-inceleme-ketebe-hakan-arslanbenzer-4001-21-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-14",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/eskimeyen-kitaplar-hakan-arslanbenzer",
+          "price": 389.35
         }
       ]
     }
