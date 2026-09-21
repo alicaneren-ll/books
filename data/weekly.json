@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-09-14T11:52:39.760Z",
+  "lastScrapedAt": "2026-09-21T12:04:10.474Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -7159,6 +7159,766 @@
           "name": "ketebe",
           "url": "https://www.ketebe.com/eskimeyen-kitaplar-hakan-arslanbenzer",
           "price": 389.35
+        }
+      ]
+    },
+    {
+      "title": "Huysuz Oyunbozan Dahi: Ayarsız Bir Nevzat Aydın Biyografisi",
+      "author": null,
+      "publisher": null,
+      "category": "Biyografi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/huysuz-oyunbozan-dahi-ayarsiz-bir-nevzat-aydin-biyografisi-p-31301991",
+          "price": 405
+        }
+      ]
+    },
+    {
+      "title": "Mavinin Anatomisi",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Şiir",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/mavinin-anatomisi-p-31296239",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "title": "Naira",
+      "author": null,
+      "publisher": null,
+      "category": "Deneme-Yazın",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/naira-p-31296232",
+          "price": 270
+        }
+      ]
+    },
+    {
+      "title": "Kuruntunun Gözleri",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kuruntunun-gozleri-p-31296228",
+          "price": 225
+        }
+      ]
+    },
+    {
+      "title": "Kırk Yıl Sonra",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kirk-yil-sonra-p-31296226",
+          "price": 270
+        }
+      ]
+    },
+    {
+      "title": "Lal Coğrafya",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Şiir",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/lal-cografya-p-31296225",
+          "price": 225
+        }
+      ]
+    },
+    {
+      "title": "Hemrah - Nefes",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/hemrah-nefes-p-31296219",
+          "price": 453.65
+        }
+      ]
+    },
+    {
+      "title": "50 Maddede Evlilik",
+      "author": null,
+      "publisher": null,
+      "category": "Kişisel Gelişim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/50-maddede-evlilik-p-31296217",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "Gölgelerin Prensi - Wisteria Novellaları 1",
+      "author": null,
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/golgelerin-prensi-wisteria-novellalari-1-p-31256402",
+          "price": 292.91
+        }
+      ]
+    },
+    {
+      "title": "Gölgelerin Prensi - Özel Baskı - Wisteria Novellaları 1",
+      "author": null,
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/golgelerin-prensi-ozel-baski-wisteria-novellalari-1-p-31256400",
+          "price": 292.91
+        }
+      ]
+    },
+    {
+      "title": "Süvari Bey Cilt 1 - Saklı Güverte - Tek Kitaplık Kutu",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/suvari-bey-cilt-1-sakli-guverte-tek-kitaplik-kutu-p-31256399",
+          "price": 348.8
+        }
+      ]
+    },
+    {
+      "title": "Süvari Bey Cilt 1 - Saklı Güverte",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/suvari-bey-cilt-1-sakli-guverte-p-31256398",
+          "price": 263.97
+        }
+      ]
+    },
+    {
+      "title": "İstanbul'un İki Yüzü [KİŞİYE ÖZEL İMZALI]",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/istanbulun-iki-yuzu-kisiye-ozel-imzali-p-31251158",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "OTOHABER DELUXE 26-01 - Turkuvaz Dergi",
+      "author": null,
+      "publisher": null,
+      "category": "Hobi Dergileri",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/otohaber-deluxe-26-01-p-31248507",
+          "price": 260
+        }
+      ]
+    },
+    {
+      "title": "Mila'nın Sihirli Süzgeci: Ekrandaki Her Şey Gerçek mi?",
+      "author": null,
+      "publisher": null,
+      "category": "Okul Öncesi Eğitim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/milanin-sihirli-suzgeci-ekrandaki-her-sey-gercek-mi-p-31248388",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "title": "3. Sınıf Dil Bilgisi - Ankara Nobel Tıp",
+      "author": null,
+      "publisher": null,
+      "category": "İlköğretim Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/3-sinif-dil-bilgisi-p-31248311",
+          "price": 259
+        }
+      ]
+    },
+    {
+      "title": "Neuroanatomy Simplified & Illustrated - Ankara Nobel Tıp",
+      "author": null,
+      "publisher": null,
+      "category": "Tıp",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/neuroanatomy-simplified-illustrated-p-31248265",
+          "price": 690
+        }
+      ]
+    },
+    {
+      "title": "6. Sınıf Fen Bilimleri Güçlendiren Fasiküller Ankara Yayıncılık",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/6-sinif-fen-bilimleri-guclendiren-fasikuller-ankara-yayincilik-p-31248220",
+          "price": 774.9
+        }
+      ]
+    },
+    {
+      "title": "6. Sınıf Sosyal Bilgiler Güçlendiren Fasiküller Ankara Yayıncılık",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/6-sinif-sosyal-bilgiler-guclendiren-fasikuller-ankara-yayincilik-p-31248219",
+          "price": 650
+        }
+      ]
+    },
+    {
+      "title": "8. Sınıf Matematik Fasikül Defter Mozaik Yayınları",
+      "author": null,
+      "publisher": null,
+      "category": "Ortaokul Konu Anlatım Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/8-sinif-matematik-fasikul-defter-mozaik-yayinlari-p-31248216",
+          "price": 849.9
+        }
+      ]
+    },
+    {
+      "title": "Neandros Destanı",
+      "author": "Gündüz Vassaf",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540349",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/neandros-destani/10997",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Hünerli Türk Kızları",
+      "author": "Hatice Meryem",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540295",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/hunerli-turk-kizlari/10994",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Benibeşer Seni N'eyler?",
+      "author": "Gonca Saygın",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540288",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/benibeser-seni-n-eyler/10995",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Yeni Yalnızlar",
+      "author": "Menekşe Tokyay",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540301",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/yeni-yalnizlar/10993",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Tuhaf, Saçma, Neyse...",
+      "author": "Çiğdem Mater",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540332",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/tuhaf-sacma-neyse/10992",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Bizim İçin Bir Dilek",
+      "author": "Tillie Cole",
+      "publisher": null,
+      "category": "Romantik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-24",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/bizim-icin-bir-dilek",
+          "price": 294
+        }
+      ]
+    },
+    {
+      "title": "Ayı ile Kuş- Arkadaşlık Öyküleri",
+      "author": "JARVIS",
+      "publisher": null,
+      "category": "5-7 YAŞ",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-24",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/ayi-ile-kus-arkadaslik-oykuleri",
+          "price": 553
+        }
+      ]
+    },
+    {
+      "title": "Esnek ile Geniş 3. Cilt",
+      "author": "Yetkin Gülmen",
+      "publisher": null,
+      "category": "Çizgi Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-24",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/esnek-ile-genis-3-cilt",
+          "price": 518
+        }
+      ]
+    },
+    {
+      "title": "Hilal 6. Cilt",
+      "author": "KENAN YARAR",
+      "publisher": null,
+      "category": "Çizgi Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-24",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/hilal-6-cilt",
+          "price": 350
+        }
+      ]
+    },
+    {
+      "title": "Ölüm Meleği – Çalınan Hayatlar 1",
+      "author": "Ayşegül Çiçekoğlu",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-24",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/olum-melegi-calinan-hayatlar-1",
+          "price": 420
+        }
+      ]
+    },
+    {
+      "title": "Ve Sinem 5. Cilt",
+      "author": "Cihan Kılıç",
+      "publisher": null,
+      "category": "Çizgi Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-24",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/ve-sinem-5-cilt",
+          "price": 455
+        }
+      ]
+    },
+    {
+      "title": "Gizli Tarih",
+      "author": "Donna Tartt",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-24",
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/gizli-tarih-2",
+          "price": 413
+        }
+      ]
+    },
+    {
+      "title": "Dede Korkut Hikâyeleri – Kitâb-ı Dedem Korkud",
+      "author": null,
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/dede-korkut-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/dede-korkut-hikayeleri-kitab-i-dedem-korkud.aspx",
+          "price": 95.2
+        }
+      ]
+    },
+    {
+      "title": "Müjde Kuşu: Büyük Kavuşma",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/3e992d3c-918c-4e1b-ade7-d7ed5e750ec9.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/mujde-kusu-buyuk-kavusma-p-7510",
+          "price": 135
+        }
+      ]
+    },
+    {
+      "title": "Cengiz Han’a Küsen Bulut - Grafik Roman",
+      "author": "Cengiz Aytmatov",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/cengiz-hana-kusen-bulut-grafik-roman-cengiz-aytmatov-ketebe-x-ketebe-x-cengiz-aytmatov-4038-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/cengiz-hana-kusen-bulut-grafik-roman-cengiz-aytmatov",
+          "price": 291.85
+        }
+      ]
+    },
+    {
+      "title": "Zamanın Dehaları - 50 Usta Mimar",
+      "author": "Ike Ijeh",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/zamanin-dehalari-50-usta-mimar-ike-ijeh-ketebe-x-ketebe-x-ike-ijeh-4039-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/zamanin-dehalari-50-usta-mimar-ike-ijeh",
+          "price": 278.85
+        }
+      ]
+    },
+    {
+      "title": "Zamanın Dehaları - 50 Usta Mühendis",
+      "author": "Paul Virr, William Potter",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/zamanin-dehalari-50-usta-muhendis-ketebe-x-ketebe-x-paul-virr-william-potter-4040-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/zamanin-dehalari-50-usta-muhendis",
+          "price": 298.35
+        }
+      ]
+    },
+    {
+      "title": "Geyik Ajandası 2027",
+      "author": "Kolektif",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe Dükkan",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/geyik-ajandasi-2027-kolektif-ketebe-dukkan-ketebe-dukkan-kolektif-4027-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/geyik-ajandasi-2027-kolektif",
+          "price": 249
+        }
+      ]
+    },
+    {
+      "title": "İhlalin Sınırları",
+      "author": "Jale Özata Dirlikyapan",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103727",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37559",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Kedi Kitabı, Ursula K. Le Guin",
+      "author": "Ursula K. Le Guin",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103722",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-21",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37555",
+          "price": null
         }
       ]
     }
