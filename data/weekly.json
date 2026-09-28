@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-09-21T12:04:10.474Z",
+  "lastScrapedAt": "2026-09-28T12:58:51.307Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -5657,7 +5657,7 @@
         {
           "name": "kirmizikedi",
           "url": "https://www.kirmizikedi.com/gunceler-ve-mektuplar-p-7494",
-          "price": 150
+          "price": 200
         }
       ]
     },
@@ -7918,6 +7918,576 @@
         {
           "name": "metis",
           "url": "https://www.metiskitap.com/catalog/book/37555",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Metehan - Dersimiz Hükümdarlar - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/metehan-dersimiz-hukumdarlar-p-31567376",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Karahanlılar - Türk Devletleri Tarihi - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/karahanlilar-turk-devletleri-tarihi-p-31567363",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Kanuni Sultan Süleyman - Dersimiz Hükümdarlar - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kanuni-sultan-suleyman-dersimiz-hukumdarlar-p-31567345",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Hunlar - Türk Devletleri Tarihi - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/hunlar-turk-devletleri-tarihi-p-31567331",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Hazarlar - Türk Devletleri Tarihi - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/hazarlar-turk-devletleri-tarihi-p-31567316",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Harizmşahlar - Türk Devletleri Tarihi - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/harizmsahlar-turk-devletleri-tarihi-p-31567298",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Alp Arslan - Dersimiz Hükümdarlar - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/alp-arslan-dersimiz-hukumdarlar-p-31567283",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Fatih Sultan Mehmet - Dersimiz Hükümdarlar - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/fatih-sultan-mehmet-dersimiz-hukumdarlar-p-31567266",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Göktürkler - Türk Devletleri Tarihi - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/gokturkler-turk-devletleri-tarihi-p-31567248",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Cengiz Han - Dersimiz Hükümdarlar - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/cengiz-han-dersimiz-hukumdarlar-p-31567233",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Ertuğrul Gazi - Dersimiz Hükümdarlar - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ertugrul-gazi-dersimiz-hukumdarlar-p-31567212",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Avarlar - Türk Devletleri Tarihi - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/avarlar-turk-devletleri-tarihi-p-31567200",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Altın Orda - Türk Devletleri Tarihi - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/altin-orda-turk-devletleri-tarihi-p-31567187",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Attila - Dersimiz Hükümdarlar - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/attila-dersimiz-hukumdarlar-p-31567168",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Alper Tunga ve İlk Türkler - Türk Devletleri Tarihi - Lopus Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/alper-tunga-ve-ilk-turkler-turk-devletleri-tarihi-p-31567154",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "title": "Müziğin Kısa Tarihi",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Tarihi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/muzigin-kisa-tarihi-p-31567075",
+          "price": 353.7
+        }
+      ]
+    },
+    {
+      "title": "Köleliğim ve Özgürlüğüm",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Günlük Anı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/koleligim-ve-ozgurlugum-p-31567061",
+          "price": 396
+        }
+      ]
+    },
+    {
+      "title": "Cambaz Düşmek İstiyor",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Şiir",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/cambaz-dusmek-istiyor-p-31567047",
+          "price": 113.58
+        }
+      ]
+    },
+    {
+      "title": "Hadi Gel İzmir'e Gidelim",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/hadi-gel-izmire-gidelim-p-31567034",
+          "price": 225
+        }
+      ]
+    },
+    {
+      "title": "Yaz Günlüğüm",
+      "author": null,
+      "publisher": null,
+      "category": "Eğitim Etkinlik Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yaz-gunlugum-p-31566914",
+          "price": 144.34
+        }
+      ]
+    },
+    {
+      "title": "Tazılara Haraç - Malazan Yitikler Kitabı 8",
+      "author": null,
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/tazilara-harac-malazan-yitikler-kitabi-8-p-31566883",
+          "price": 1006.4
+        }
+      ]
+    },
+    {
+      "title": "Ateşte Dövülen Kader - Ateşten Bağlar Serisi Cilt 1",
+      "author": null,
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ateste-dovulen-kader-atesten-baglar-serisi-cilt-1-p-31566865",
+          "price": 275.82
+        }
+      ]
+    },
+    {
+      "title": "Yüzlerce Gölge",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yuzlerce-golge-p-31566846",
+          "price": 113.22
+        }
+      ]
+    },
+    {
+      "title": "Karaağaç",
+      "author": "TANA FRENCH",
+      "publisher": null,
+      "category": "Korku - Gerilim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-01",
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/karaagac",
+          "price": 343
+        }
+      ]
+    },
+    {
+      "title": "Aydın Üzerine Tezler - 4",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/3c43b2f2-21f9-4849-b0a9-b3940374083a.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/aydin-uzerine-tezler-4-p-7511",
+          "price": 450
+        }
+      ]
+    },
+    {
+      "title": "Dip Akıntılar Atlası",
+      "author": null,
+      "publisher": "Kırk Yayınevi",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/0c1f919a-e4a2-4641-a208-1413e78f35e8.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/dip-akintilar-atlasi-p-7509",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "İkinci Dünya Savaşı’nda Türkiye",
+      "author": "Altan Öymen",
+      "publisher": "Doğan Kitap",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fikinci-dunya-savasi-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/ikinci-dunya-savasinda-turkiye",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Kemal Tahir Kitap Seti I Çanta Hediyeli Özel Set",
+      "author": "Kemal Tahir",
+      "publisher": "Ketebe Yayınları",
+      "category": "Kemal Tahir Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/kemal-tahir-kitap-seti-canta-hediyeli-ozel-set-kemal-tahir-kitapligi-ketebe-kemal-tahir-4046-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/kemal-tahir-kitap-seti-canta-hediyeli-ozel-set",
+          "price": 1950
+        }
+      ]
+    },
+    {
+      "title": "Gazzâlî Kitap Seti | Çanta Hediyeli Özel Set",
+      "author": "İmam Gazzâlî",
+      "publisher": "Ketebe Yayınları",
+      "category": "Gazzâli Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/gazali-kitap-seti-canta-hediyeli-ozel-set-gazzli-kitapligi-ketebe-imam-gazzl-4047-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/gazali-kitap-seti-canta-hediyeli-ozel-set",
+          "price": 1950
+        }
+      ]
+    },
+    {
+      "title": "Yeni Radikal Aydınlanma",
+      "author": "Marina Garcés",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103737",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-09-28",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37565",
           "price": null
         }
       ]
