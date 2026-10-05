@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-09-28T12:58:51.307Z",
+  "lastScrapedAt": "2026-10-05T13:40:39.372Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -8488,6 +8488,861 @@
         {
           "name": "metis",
           "url": "https://www.metiskitap.com/catalog/book/37565",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Superman: Birinci Yıl",
+      "author": null,
+      "publisher": null,
+      "category": "Çizgi Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/superman-birinci-yil-p-31927600",
+          "price": 292.05
+        }
+      ]
+    },
+    {
+      "title": "Otto Dix - Savaşın Yıkımın ve Yeniden Doğuşun Ressamı",
+      "author": null,
+      "publisher": null,
+      "category": "Sanat Tarihi-Kuramı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/otto-dix-savasin-yikimin-ve-yeniden-dogusun-ressami-p-31927521",
+          "price": 275.82
+        }
+      ]
+    },
+    {
+      "title": "Solunum Sistemi - Gençler İçin Çizgilerle Bilim Almidilli - Almidilli",
+      "author": null,
+      "publisher": null,
+      "category": "Çocuk Bilim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/solunum-sistemi-gencler-icin-cizgilerle-bilim-almidilli-p-31924549",
+          "price": 287
+        }
+      ]
+    },
+    {
+      "title": "GENÇ YOKSULLUĞU - Yükseköğretim Mezunu Gençlerde Yoksulluk, Kültürel Sermaye ve Meritokrasi İlişkisi - Nobel Bilimsel Eserler",
+      "author": null,
+      "publisher": null,
+      "category": "Felsefe - Sosyoloji",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/genc-yoksullugu-yuksekogretim-mezunu-genclerde-yoksulluk-kulturel-sermaye-ve-meritokrasi-iliskisi-p-31899324",
+          "price": 730.26
+        }
+      ]
+    },
+    {
+      "title": "Gök Tanrı İnancı",
+      "author": null,
+      "publisher": null,
+      "category": "Felsefe - Sosyoloji",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/gok-tanri-inanci-p-31899325",
+          "price": 1027.93
+        }
+      ]
+    },
+    {
+      "title": "Dinler Tarihine Giriş",
+      "author": null,
+      "publisher": null,
+      "category": "Felsefe - Sosyoloji",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/dinler-tarihine-giris-p-31899312",
+          "price": 1607.66
+        }
+      ]
+    },
+    {
+      "title": "İçimizdeki Balık",
+      "author": null,
+      "publisher": null,
+      "category": "Felsefe - Sosyoloji",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/icimizdeki-balik-p-31899294",
+          "price": 1307.6
+        }
+      ]
+    },
+    {
+      "title": "Bilim Susunca: Bilim ve Toplum Üzerine Yazılar",
+      "author": null,
+      "publisher": null,
+      "category": "Felsefe - Sosyoloji",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/bilim-susunca-bilim-ve-toplum-uzerine-yazilar-p-31899301",
+          "price": 838.36
+        }
+      ]
+    },
+    {
+      "title": "Dinler Tarihi",
+      "author": null,
+      "publisher": null,
+      "category": "Felsefe - Sosyoloji",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/dinler-tarihi-p-31899117",
+          "price": 1432.45
+        }
+      ]
+    },
+    {
+      "title": "Toplama Ve Çıkarma Alıştırma Kitabı",
+      "author": null,
+      "publisher": null,
+      "category": "Bilgisayar Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/toplama-ve-cikarma-alistirma-kitabi-p-31898905",
+          "price": 1701.65
+        }
+      ]
+    },
+    {
+      "title": "Devrimciler",
+      "author": "Tanıl Bora",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540325",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-09-17",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/devrimciler/10991",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "İklim Değişikliğini Kim Durduracak?",
+      "author": "Arif Ergin",
+      "publisher": null,
+      "category": "4. VE 5. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/iklim-degisikligini-kim-durduracak",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "Fantastik - Oyna ve Çöz Çıkartmalı Etkinlik Kitabı",
+      "author": "Kolektif",
+      "publisher": null,
+      "category": "3-5 Yaş",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/fantastik-oyna-ve-coz-cikartmali-etkinlik-kitabi",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "K-Pop Star - Oyna ve Çöz Çıkartmalı Etkinlik Kitabı",
+      "author": "Kolektif",
+      "publisher": null,
+      "category": "3-5 Yaş",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/k-pop-star-oyna-ve-coz-cikartmali-etkinlik-kitabi",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "Kawaii - Oyna ve Çöz Çıkartmalı Etkinlik Kitabı",
+      "author": "Kolektif",
+      "publisher": null,
+      "category": "3-5 Yaş",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kawaii-oyna-ve-coz-cikartmali-etkinlik-kitabi",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "Ressam",
+      "author": "Lucy Steeds",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/ressam",
+          "price": 266
+        }
+      ]
+    },
+    {
+      "title": "Taşıyıcı Anne",
+      "author": "PENELOPE WARD",
+      "publisher": null,
+      "category": "Romantik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/tasiyici-anne",
+          "price": 294
+        }
+      ]
+    },
+    {
+      "title": "Mecnun Kelebekler",
+      "author": "Sibel K. Türker",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/mecnun-kelebekler",
+          "price": 308
+        }
+      ]
+    },
+    {
+      "title": "Cuticorn - Oyna ve Çöz Çıkartmalı Etkinlik Kitabı",
+      "author": "Kolektif",
+      "publisher": null,
+      "category": "3-5 Yaş",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/cuticorn-oyna-ve-coz-cikartmali-etkinlik-kitabi",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "Muhammed ile Melisa",
+      "author": "Muharrem Erbey",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/muhammed-ile-melisa",
+          "price": 252
+        }
+      ]
+    },
+    {
+      "title": "Prenses - Oyna ve Çöz Çıkartmalı Etkinlik Kitabı",
+      "author": "Kolektif",
+      "publisher": null,
+      "category": "3-5 Yaş",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/prenses-oyna-ve-coz-cikartmali-etkinlik-kitabi",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "Grand Prix - Oyna ve Çöz Çıkartmalı Etkinlik Kitabı",
+      "author": "Kolektif",
+      "publisher": null,
+      "category": "3-5 Yaş",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/grand-prix-oyna-ve-coz-cikartmali-etkinlik-kitabi",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "title": "İdeal Bir Koca",
+      "author": "Oscar Wilde",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/ideal-bir-koca-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/ideal-bir-koca.aspx",
+          "price": 117.6
+        }
+      ]
+    },
+    {
+      "title": "İdeal Bir Koca – Ciltli",
+      "author": "Oscar Wilde",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/ideal-bir-koca-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/ideal-bir-koca-ciltli.aspx",
+          "price": 350
+        }
+      ]
+    },
+    {
+      "title": "Sonbahar Ateşleri",
+      "author": "Irène Némirovsky",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/sonbahar-atesleri-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/sonbahar-atesleri.aspx",
+          "price": 112
+        }
+      ]
+    },
+    {
+      "title": "Sonbahar Ateşleri – Sert Kapak",
+      "author": "Irène Némirovsky",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/sonbahar-atesleri-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/sonbahar-atesleri-sert-kapak.aspx",
+          "price": 476
+        }
+      ]
+    },
+    {
+      "title": "Neclâ",
+      "author": "Güzide Sabri",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/necla-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/necla.aspx",
+          "price": 84
+        }
+      ]
+    },
+    {
+      "title": "Ruhu Olan Yollar",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/55b409ad-026a-48e3-b022-c984db78938f.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/ruhu-olan-yollar-p-7529",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Kuşlar, Hayvanlar ve Çiçekler",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/f2c8be1d-a0c7-4918-9dd5-59b01098e232.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/kuslar-hayvanlar-ve-cicekler-p-7527",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Theseus’un Gemisi – İnsan Kalmak Üzerine Bir Yolculuk…",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/b31eab79-d331-4cdf-8d80-296efc70c231.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/theseus-un-gemisi-insan-kalmak-uzerine-bir-yolculuk-p-7528",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Bu Dünyadan ve Ötekinden Gazete Yazıları - I",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/deeadf30-671b-4f5a-b799-6c3157fa5593.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/bu-dunyadan-ve-otekinden-gazete-yazilari-i-p-7531",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "Beni Silme",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/c1d9f474-a8c2-45f2-8e54-bdc65651422e.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/beni-silme-p-7525",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Kabarık Kuyruklu Tilki",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/d8667f05-89ec-47c8-92e0-8b1a546eab49.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/kabarik-kuyruklu-tilki-p-7526",
+          "price": 135
+        }
+      ]
+    },
+    {
+      "title": "Yer-Siz",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/fc9c7b79-aad6-45a6-9a9b-99fd224d11b8.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/yer-siz-p-7524",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Bay Kemal Nereye Koşuyor?",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/b4f23b95-58ef-4cf8-bcec-99fd04c8552f.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/bay-kemal-nereye-kosuyor-p-7523",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Edebiyat ve Özgürlük",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/01dafa90-4c15-4ad5-8013-2313c394cfd3.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/edebiyat-ve-ozgurluk-p-7520",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Sen De Mustafa Kemal Olabilirsin",
+      "author": "Dr. Recep Cengiz",
+      "publisher": "Doğan Kitap",
+      "category": "Tarih",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fsen-de-mustafakemal-olabilirisin-a-kapak3.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/sen-de-mustafa-kemal-olabilirsin",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Paris Buluşmaları",
+      "author": "Nedim Gürsel",
+      "publisher": "Doğan Kitap",
+      "category": "Deneme",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fparis-bulusmalari-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/paris-bulusmalari",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Şenlik Dağıldığında",
+      "author": "Beyza Yıldız Üngör",
+      "publisher": "Ketebe Yayınları",
+      "category": "Türk Öyküsü",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/senlik-dagildiginda-beyza-yildiz-ungor-turk-oykusu-ketebe-beyza-yildiz-ungor-4055-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/senlik-dagildiginda-beyza-yildiz-ungor",
+          "price": 135.85
+        }
+      ]
+    },
+    {
+      "title": "Meddah Divanı",
+      "author": "Oğuzhan Oğuzbey",
+      "publisher": "Ketebe Yayınları",
+      "category": "Türk Öyküsü",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/meddah-divani-oguzhan-oguzbey-turk-oykusu-ketebe-oguzhan-oguzbey-4054-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/meddah-divani-oguzhan-oguzbey",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Ekranın İçine Düşen Çocuk ve Bilge Zürafa",
+      "author": "Güray Süngü",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/ekranin-icine-dusen-cocuk-ve-bilge-zurafa-guray-sungu-cocuk-edebiyat-ketebe-cocuk-guray-sungu-4050-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/ekranin-icine-dusen-cocuk-ve-bilge-zurafa-guray-sungu",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Piko'ya Söyle",
+      "author": "Mac Barnett",
+      "publisher": "Ketebe Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://www.ketebe.com/pikoya-soyle-mac-barnett-cocuk-edebiyat-ketebe-cocuk-mac-barnett-4051-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/pikoya-soyle-mac-barnett",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Tilki'ye Gelen Gizemli Mektup",
+      "author": "Alex G Griffiths",
+      "publisher": "Ketebe Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://www.ketebe.com/tilkiye-gelen-gizemli-mektup-cocuk-edebiyat-ketebe-cocuk-alex-g-griffiths-4052-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/tilkiye-gelen-gizemli-mektup",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Ö",
+      "author": "Guridi",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/o-guridi-cocuk-edebiyat-ketebe-cocuk-guridi-4053-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/o-guridi",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Hikâye Anlatmak",
+      "author": "John Berger",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103744",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-05",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37567",
           "price": null
         }
       ]
