@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-05T13:40:39.372Z",
+  "lastScrapedAt": "2026-10-12T14:29:42.379Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -9344,6 +9344,766 @@
           "name": "metis",
           "url": "https://www.metiskitap.com/catalog/book/37567",
           "price": null
+        }
+      ]
+    },
+    {
+      "title": "Gece Yarısı Resitali",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/gece-yarisi-resitali-p-32260454",
+          "price": 645
+        }
+      ]
+    },
+    {
+      "title": "Genel Cerrahi Tusology - Ankara Nobel Tıp",
+      "author": null,
+      "publisher": null,
+      "category": "Tıp",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/genel-cerrahi-tusology-p-32214936",
+          "price": 660
+        }
+      ]
+    },
+    {
+      "title": "Ayın On Dördü Gibi",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ayin-on-dordu-gibi-p-200879",
+          "price": 144
+        }
+      ]
+    },
+    {
+      "title": "Kahkaha Robotu - Turkuvaz Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kahkaha-robotu-p-32207074",
+          "price": 139.8
+        }
+      ]
+    },
+    {
+      "title": "İnsan Üzülür",
+      "author": null,
+      "publisher": null,
+      "category": "Deneme-Yazın",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/insan-uzulur-p-32207073",
+          "price": 174.75
+        }
+      ]
+    },
+    {
+      "title": "Mazeret Kütüphanesi",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/mazeret-kutuphanesi-p-32206999",
+          "price": 798.34
+        }
+      ]
+    },
+    {
+      "title": "Annelik Okulu Vardı da Biz mi Gitmedik?",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/annelik-okulu-vardi-da-biz-mi-gitmedik-p-32206995",
+          "price": 734.59
+        }
+      ]
+    },
+    {
+      "title": "Ted Gibi Konuş",
+      "author": null,
+      "publisher": null,
+      "category": "Akademik Diğer Kitaplar",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ted-gibi-konus-p-32206986",
+          "price": 999.18
+        }
+      ]
+    },
+    {
+      "title": "Nadir Bey ve Sevgili Eşi Meral Hanım",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/nadir-bey-ve-sevgili-esi-meral-hanim-p-32205098",
+          "price": 239.7
+        }
+      ]
+    },
+    {
+      "title": "Ok Gibi Ileri",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ok-gibi-ileri-p-32205097",
+          "price": 207
+        }
+      ]
+    },
+    {
+      "title": "101 Başlıkta Osmanlı ve Yeni Dünya",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Tarihi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/101-baslikta-osmanli-ve-yeni-dunya-p-32205096",
+          "price": 279.65
+        }
+      ]
+    },
+    {
+      "title": "Uyanma Odası",
+      "author": null,
+      "publisher": null,
+      "category": "Mizah Romanı-Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/uyanma-odasi-p-32205095",
+          "price": 239.7
+        }
+      ]
+    },
+    {
+      "title": "Bir Gün Eksiliriz",
+      "author": null,
+      "publisher": null,
+      "category": "Eğitim Etkinlik Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/bir-gun-eksiliriz-p-32205094",
+          "price": 315
+        }
+      ]
+    },
+    {
+      "title": "Satrançta Açılış Tuzakları",
+      "author": null,
+      "publisher": null,
+      "category": "Oyun Kitapları-Oyun",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/satrancta-acilis-tuzaklari-p-32205092",
+          "price": 495
+        }
+      ]
+    },
+    {
+      "title": "101 Başlıkta Bilim Çelik ve Devrim",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Tarihi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/101-baslikta-bilim-celik-ve-devrim-p-32205091",
+          "price": 279.65
+        }
+      ]
+    },
+    {
+      "title": "Yönetimde İnsan İnsana",
+      "author": null,
+      "publisher": null,
+      "category": "Kişisel Gelişim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yonetimde-insan-insana-p-32205090",
+          "price": 319.6
+        }
+      ]
+    },
+    {
+      "title": "Yüz Bin Ömürlük Ağlıyorum",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yuz-bin-omurluk-agliyorum-p-32205089",
+          "price": 279.65
+        }
+      ]
+    },
+    {
+      "title": "Alyans - Parana",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Şiir",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/alyans-p-32205087",
+          "price": 209.05
+        }
+      ]
+    },
+    {
+      "title": "Kız ve Robot - Salon Çocuk",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kiz-ve-robot-p-32205086",
+          "price": 265.5
+        }
+      ]
+    },
+    {
+      "title": "Son Demlerinde Hayat",
+      "author": "Bernhard Schlink",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540400",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/son-demlerinde-hayat/11001",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Veda",
+      "author": "Sebastian Haffner",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540394",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/veda/11000",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Ya Fosil Düzen, Ya Devrim",
+      "author": "Önder Algedik",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540363",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-08",
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/ya-fosil-duzen-ya-devrim/10998",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Bu Dünyadan ve Ötekinden - Gazete Yazıları - I",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/deeadf30-671b-4f5a-b799-6c3157fa5593.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/bu-dunyadan-ve-otekinden-gazete-yazilari-i-p-7531",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "Harun El Reşid",
+      "author": "Reşad Ekrem Koçu",
+      "publisher": "Doğan Kitap",
+      "category": "Tarih",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fharun-el-resid-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/harun-el-resid",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Sonsuz Denge",
+      "author": "Doç. Dr. Didem Dereli Akdeniz",
+      "publisher": "Doğan Kitap",
+      "category": "Sağlık",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fsonsuz-denge-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/sonsuz-denge",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Var Yok",
+      "author": "Prof. Dr. Gülsen Babacan Yıldız",
+      "publisher": "Doğan Kitap",
+      "category": "Sağlık",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fvaryok-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/var-yok",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Türk ve Yabancı Resminde İstanbul",
+      "author": "Nurullah Berk",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe Sanat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/turk-ve-yabanci-resminde-istanbul-nurullah-berk-ketebe-sanat-ketebe-nurullah-berk-4090-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/turk-ve-yabanci-resminde-istanbul-nurullah-berk",
+          "price": 324.35
+        }
+      ]
+    },
+    {
+      "title": "Son Sadrıazamlar (6 Cilt-Kutulu Set)",
+      "author": "İbnülemin Mahmud Kemal İnal",
+      "publisher": "Ketebe Yayınları",
+      "category": "Setler",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/son-sadriazamlar-ibnulemin-mahmud-kemal-inal-setler-ketebe-ibnulemin-mahmud-kemal-inal-4095-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/son-sadriazamlar-ibnulemin-mahmud-kemal-inal",
+          "price": 5330
+        }
+      ]
+    },
+    {
+      "title": "Gazze’nin Gözleri",
+      "author": "Plestia Alaqat",
+      "publisher": "Ketebe Yayınları",
+      "category": "Anlatı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/gazzenin-gozleri-plestia-alaqad-anlati-ketebe-plestia-alaqat-4069-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/gazzenin-gozleri-plestia-alaqad",
+          "price": 278.85
+        }
+      ]
+    },
+    {
+      "title": "Turfanda mı Yoksa Turfa mı?",
+      "author": "Mizancı Murad Bey",
+      "publisher": "Ketebe Yayınları",
+      "category": "Türk Klasikleri",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/turfanda-mi-yoksa-turfa-mi-mizanci-murad-bey-turk-klasikleri-ketebe-mizanci-murad-bey-4070-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/turfanda-mi-yoksa-turfa-mi-mizanci-murad-bey",
+          "price": 389.35
+        }
+      ]
+    },
+    {
+      "title": "Sanatta Taklidin Doğası Üzerine",
+      "author": "Adam Smith",
+      "publisher": "Ketebe Yayınları",
+      "category": "Felsefe",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/sanatta-taklidin-dogasi-uzerine-adam-smith-felsefe-ketebe-adam-smith-4071-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/sanatta-taklidin-dogasi-uzerine-adam-smith",
+          "price": 187.85
+        }
+      ]
+    },
+    {
+      "title": "Hafıza ve Miras",
+      "author": "Ed. Şule Taşkıran",
+      "publisher": "Ketebe Yayınları",
+      "category": "Yeniler",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/hafiza-ve-miras-ed-sule-taskiran-yeniler-ketebe-ed-sule-taskiran-4073-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/hafiza-ve-miras-ed-sule-taskiran",
+          "price": 519.35
+        }
+      ]
+    },
+    {
+      "title": "Üniversiteden Sonra",
+      "author": "Chad Wellmon",
+      "publisher": "Ketebe Yayınları",
+      "category": "Kozmopolitea",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/universiteden-sonra-chad-wellmon-kozmopolitea-ketebe-chad-wellmon-4074-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/universiteden-sonra-chad-wellmon",
+          "price": 389.35
+        }
+      ]
+    },
+    {
+      "title": "Son Duygusu",
+      "author": "Frank Kermode",
+      "publisher": "Ketebe Yayınları",
+      "category": "Poetika",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/son-duygusu-frank-kermode-poetika-ketebe-frank-kermode-4075-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/son-duygusu-frank-kermode",
+          "price": 324.35
+        }
+      ]
+    },
+    {
+      "title": "Aşk Olsun!",
+      "author": "Betül Nurata",
+      "publisher": "Ketebe Yayınları",
+      "category": "Türk Öyküsü",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/ask-olsun-betul-nurata-turk-oykusu-ketebe-betul-nurata-4079-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/ask-olsun-betul-nurata",
+          "price": 220.35
+        }
+      ]
+    },
+    {
+      "title": "Pratik Geçmiş",
+      "author": "Hayden White",
+      "publisher": "Ketebe Yayınları",
+      "category": "Historiyografi",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/pratik-gecmis-hayden-white-historiyografi-ketebe-hayden-white-4091-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/pratik-gecmis-hayden-white",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "İmgelem Dersleri",
+      "author": "Paul Ricoeur",
+      "publisher": "Ketebe Yayınları",
+      "category": "Teori",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/imgelem-dersleri-paul-ricoeur-teori-ketebe-paul-ricoeur-4082-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/imgelem-dersleri-paul-ricoeur",
+          "price": 408.85
+        }
+      ]
+    },
+    {
+      "title": "Hiçbir Şey İki Kez",
+      "author": "Wisława Szymborska",
+      "publisher": "Ketebe Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://www.ketebe.com/hicbir-sey-iki-kez-wisawa-szymborska-yeryuzu-siirleri-ketebe-wisawa-szymborska-4083-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/hicbir-sey-iki-kez-wis%C5%82awa-szymborska",
+          "price": 220.35
+        }
+      ]
+    },
+    {
+      "title": "Göktaşı",
+      "author": "Wallace Stevens",
+      "publisher": "Ketebe Yayınları",
+      "category": "Yeryüzü Şiirleri",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/goktasi-wallace-stevens-yeryuzu-siirleri-ketebe-wallace-stevens-4084-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/goktasi-wallace-stevens",
+          "price": 174.85
+        }
+      ]
+    },
+    {
+      "title": "Wimbledon Stadyumu",
+      "author": "Daniele Del Giudice",
+      "publisher": "Ketebe Yayınları",
+      "category": "Nivola",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/wimbledon-stadyumu-daniele-del-giudice-nivola-ketebe-daniele-del-giudice-4085-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-12",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/wimbledon-stadyumu-daniele-del-giudice",
+          "price": 259.35
         }
       ]
     }
