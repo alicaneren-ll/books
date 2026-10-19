@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-12T14:29:42.379Z",
+  "lastScrapedAt": "2026-10-19T12:12:23.551Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -10104,6 +10104,462 @@
           "name": "ketebe",
           "url": "https://www.ketebe.com/wimbledon-stadyumu-daniele-del-giudice",
           "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Gecenin Karanlığında",
+      "author": "Nathacha Appanah",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540417",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-15",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/gecenin-karanliginda/11007",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Söyletme, Çok Ağlarım",
+      "author": "Kerem Bakıcı",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540479",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-15",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/soyletme-cok-aglarim/11006",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Deli Kadınlar",
+      "author": "Esra Yıldız",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540387",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-15",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/deli-kadinlar/11005",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Hayvanların Sefaleti",
+      "author": "Mehmet Kanatlı",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540448",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-15",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/hayvanlarin-sefaleti/11004",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Yeniden Feodalleşme",
+      "author": "Massimo De Carolis",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540424",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-15",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/yeniden-feodallesme/11003",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Surdışı İstanbul",
+      "author": "Oktay Özman",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540356",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-15",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/surdisi-istanbul/11002",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Yankıların Fırtınası - Aynadan Geçen Kız Serisi 4. Kitap",
+      "author": "Christelle Dabos",
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-22",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/yankilarin-firtinasi-aynadan-gecen-kiz-serisi-4-kitap",
+          "price": 378
+        }
+      ]
+    },
+    {
+      "title": "Bostan- Bir Duyarlılık Hikâyesi",
+      "author": "Merve Topçuoğlu",
+      "publisher": null,
+      "category": "3. VE 4. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-22",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/bostan-bir-duyarlilik-hikayesi",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "title": "Ölümcül Bedeller (Ciltli-Yan Boyamalı)",
+      "author": "I. V. Marie",
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-22",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/olumcul-bedeller-ciltli-yan-boyamali",
+          "price": 560
+        }
+      ]
+    },
+    {
+      "title": "Pratik Büyü",
+      "author": "ALICE HOFFMAN",
+      "publisher": null,
+      "category": "Gizem",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-22",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/pratik-buyu",
+          "price": 210
+        }
+      ]
+    },
+    {
+      "title": "Ölümcül Bedeller",
+      "author": "I. V. Marie",
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-22",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/olumcul-bedeller",
+          "price": 364
+        }
+      ]
+    },
+    {
+      "title": "Dorohedoro 5. Cilt",
+      "author": "Q Hayaşida",
+      "publisher": null,
+      "category": "Manga",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-22",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/dorohedoro-5-cilt",
+          "price": 210
+        }
+      ]
+    },
+    {
+      "title": "Kaplan",
+      "author": "S. F. Said",
+      "publisher": null,
+      "category": "5.-6-7. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-22",
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kaplan",
+          "price": 231
+        }
+      ]
+    },
+    {
+      "title": "Doğu’ya Yolculuk",
+      "author": "Gérard de Nerval",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/doguya-yolculuk-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/doguya-yolculuk.aspx",
+          "price": 271.6
+        }
+      ]
+    },
+    {
+      "title": "Doğu’ya Yolculuk – Ciltli",
+      "author": "Gérard de Nerval",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/09/doguya-yolculuk-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/doguya-yolculuk-ciltli.aspx",
+          "price": 602
+        }
+      ]
+    },
+    {
+      "title": "Kanepenin Üzerinde",
+      "author": "Marghanita Laski",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/kanepenin-uzerinde-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/kanepenin-uzerinde.aspx",
+          "price": 112
+        }
+      ]
+    },
+    {
+      "title": "Kanepenin Üzerinde – Sert Kapak",
+      "author": "Marghanita Laski",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/kanepenin-uzerinde-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/kanepenin-uzerinde-sert-kapak.aspx",
+          "price": 490
+        }
+      ]
+    },
+    {
+      "title": "Antropologlar",
+      "author": "Ayşegül Savaş",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/antropologlar-120x198.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/antropologlar.aspx",
+          "price": 126
+        }
+      ]
+    },
+    {
+      "title": "Meçhul Kuvvetlere Kurban",
+      "author": "Selim Nüzhet Gerçek",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/mechul-kuvvetlere-kurban-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/mechul-kuvvetlere-kurban.aspx",
+          "price": 84
+        }
+      ]
+    },
+    {
+      "title": "Tepenin Hikâyeleri",
+      "author": null,
+      "publisher": "Çınar Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/5ce0b786-3b80-43f2-9220-d800bcbd0fbe.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/tepenin-hik-yeleri-p-7534",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "Kendini Kullanma Kılavuzu",
+      "author": "Nilgün Bodur",
+      "publisher": "Novus",
+      "category": "Kişisel Gelişim",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fkendini-kullanma-kilavuzu-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/kendini-kullanma-kilavuzu",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Hatırla Sinemaları",
+      "author": "Murathan Mungan",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103844",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37571",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Aydınlanma'nın Diyalektiği",
+      "author": "Max Horkheimer",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103845",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37572",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "O An Orada Olmak",
+      "author": "Ayşe Tütüncü",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103843",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-19",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37570",
+          "price": null
         }
       ]
     }
