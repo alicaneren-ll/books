@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-19T12:12:23.551Z",
+  "lastScrapedAt": "2026-10-26T12:18:26.378Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -10560,6 +10560,462 @@
           "name": "metis",
           "url": "https://www.metiskitap.com/catalog/book/37570",
           "price": null
+        }
+      ]
+    },
+    {
+      "title": "Sevmek Derin Bir Veda - Gece Kitaplığı",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Şiir",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sevmek-derin-bir-veda-p-33505230",
+          "price": 236.88
+        }
+      ]
+    },
+    {
+      "title": "Neden Aşık Oluruz? Cilt 3",
+      "author": null,
+      "publisher": null,
+      "category": "Manga",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/neden-asik-oluruz-cilt-3-p-33504596",
+          "price": 275
+        }
+      ]
+    },
+    {
+      "title": "Illuminations (Fransızca-Türkçe)",
+      "author": "Arthur Rimbaud",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/illuminations-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/illuminations-fransizca-turkce-2.aspx",
+          "price": 109.2
+        }
+      ]
+    },
+    {
+      "title": "Tepenin Hikâyeleri Angela McAllister",
+      "author": null,
+      "publisher": "Çınar Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/5ce0b786-3b80-43f2-9220-d800bcbd0fbe.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/tepenin-hik-yeleri-p-7534",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "Ruhu Olan Yollar Başaran Aksu",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/55b409ad-026a-48e3-b022-c984db78938f.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/ruhu-olan-yollar-p-7529",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Kuşlar, Hayvanlar ve Çiçekler D.H. Lawrence",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/f2c8be1d-a0c7-4918-9dd5-59b01098e232.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/kuslar-hayvanlar-ve-cicekler-p-7527",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Theseus’un Gemisi – İnsan Kalmak Üzerine Bir Yolculuk… Pembe Candaner",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/b31eab79-d331-4cdf-8d80-296efc70c231.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/theseus-un-gemisi-insan-kalmak-uzerine-bir-yolculuk-p-7528",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Bu Dünyadan ve Ötekinden - Gazete Yazıları - I José Saramago",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/deeadf30-671b-4f5a-b799-6c3157fa5593.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/bu-dunyadan-ve-otekinden-gazete-yazilari-i-p-7531",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "Beni Silme Ceren Güner",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/c1d9f474-a8c2-45f2-8e54-bdc65651422e.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/beni-silme-p-7525",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Kabarık Kuyruklu Tilki Handan Deniz Tinik",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/d8667f05-89ec-47c8-92e0-8b1a546eab49.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/kabarik-kuyruklu-tilki-p-7526",
+          "price": 135
+        }
+      ]
+    },
+    {
+      "title": "Aydın Üzerine Tezler - 4 Yalçın Küçük",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/3c43b2f2-21f9-4849-b0a9-b3940374083a.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/aydin-uzerine-tezler-4-p-7511",
+          "price": 450
+        }
+      ]
+    },
+    {
+      "title": "Yer-Siz Elif Akpolat",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/fc9c7b79-aad6-45a6-9a9b-99fd224d11b8.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/yer-siz-p-7524",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Bay Kemal Nereye Koşuyor? Uluç Gürkan",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/b4f23b95-58ef-4cf8-bcec-99fd04c8552f.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/bay-kemal-nereye-kosuyor-p-7523",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Edebiyat ve Özgürlük Mario Vargas Llosa",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/01dafa90-4c15-4ad5-8013-2313c394cfd3.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/edebiyat-ve-ozgurluk-p-7520",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Dip Akıntılar Atlası Hülya Kalkan",
+      "author": null,
+      "publisher": "Kırk Yayınevi",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/0c1f919a-e4a2-4641-a208-1413e78f35e8.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/dip-akintilar-atlasi-p-7509",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Müjde Kuşu: Büyük Kavuşma Ramazan Gülten",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/3e992d3c-918c-4e1b-ade7-d7ed5e750ec9.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/mujde-kusu-buyuk-kavusma-p-7510",
+          "price": 135
+        }
+      ]
+    },
+    {
+      "title": "Yeni Deniz Mecmuası – Sayı 42 A Yi",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/5f7abed4-8063-4594-9ff0-04c81c66c332.jpeg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/yeni-deniz-mecmuasi-sayi-42-p-7508",
+          "price": 450
+        }
+      ]
+    },
+    {
+      "title": "Komünistliğin Ne Lüzumu Var? – Kemal Okuyan İle Söyleşi Barış Terkoğlu",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/7f170699-31c2-4934-9d31-a9eae2654e0d.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/komunistligin-ne-luzumu-var-kemal-okuyan-ile-soylesi-p-7506",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Parçalanmış Ahenk Sarayı",
+      "author": "Sarah J. Maas",
+      "publisher": "DEX",
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fparcalanmis-ahenk-sarayi-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/parcalanmis-ahenk-sarayi",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Başka Türlü Büyüseydim",
+      "author": "Saniye Bencik Kangal",
+      "publisher": "Doğan Kitap",
+      "category": "Romanlar",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fbaska-turlu-buyuseydim-kapakss-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/baska-turlu-buyuseydim",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Kendinden Uzakta - Japonya",
+      "author": "Denizhan Yakupoğlu",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/kendinden-uzakta-japonya-denizhan-yakupoglu-ketebe-x-ketebe-x-denizhan-yakupoglu-4109-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/kendinden-uzakta-japonya-denizhan-yakupoglu",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Demir Yumruk",
+      "author": "Yavuz Bahadıroğlu",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/demir-yumruk-yavuz-bahadiroglu-ketebe-x-ketebe-x-yavuz-bahadiroglu-4110-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/demir-yumruk-yavuz-bahadiroglu",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Gölgelerdeki Taht",
+      "author": "Yavuz Bahadıroğlu",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/golgelerdeki-taht-yavuz-bahadiroglu-ketebe-x-ketebe-yavuz-bahadiroglu-4111-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/golgelerdeki-taht-yavuz-bahadiroglu",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Dışarıda Dokuz Ay",
+      "author": "Bünyamin K",
+      "publisher": "Ketebe Yayınları",
+      "category": "Türk Öyküsü",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/disarida-dokuz-ay-bunyamin-k-turk-oykusu-ketebe-bunyamin-k-4078-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-10-26",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/disarida-dokuz-ay-bunyamin-k",
+          "price": 194.35
         }
       ]
     }
