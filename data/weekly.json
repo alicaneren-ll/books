@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-26T12:18:26.378Z",
+  "lastScrapedAt": "2026-11-02T14:49:30.590Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -11016,6 +11016,994 @@
           "name": "ketebe",
           "url": "https://www.ketebe.com/disarida-dokuz-ay-bunyamin-k",
           "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Akşam Güneşi - Vaveyla",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/aksam-gunesi-p-34018123",
+          "price": 157.4
+        }
+      ]
+    },
+    {
+      "title": "Kemankeş Günlüğü",
+      "author": null,
+      "publisher": null,
+      "category": "Roman/Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kemankes-gunlugu-p-34018119",
+          "price": 125.8
+        }
+      ]
+    },
+    {
+      "title": "İki Düzen Arasında - İngiliz Yıllık Raporlarında Atatürk Türkiyesi ve Hitler Almanyası",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Tarihi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/iki-duzen-arasinda-ingiliz-yillik-raporlarinda-ataturk-turkiyesi-ve-hitler-almanyasi-p-34018111",
+          "price": 531
+        }
+      ]
+    },
+    {
+      "title": "Ayna - Yapay Zeka Çağında İnsan Olmak",
+      "author": null,
+      "publisher": null,
+      "category": "Popüler Bilim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ayna-yapay-zeka-caginda-insan-olmak-p-34018092",
+          "price": 561.75
+        }
+      ]
+    },
+    {
+      "title": "Kanser Kedi",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Şiir",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kanser-kedi-p-33986917",
+          "price": 122.47
+        }
+      ]
+    },
+    {
+      "title": "Elif'in Hikayesi",
+      "author": null,
+      "publisher": null,
+      "category": "Eğitim Etkinlik Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/elifin-hikayesi-p-33986890",
+          "price": 405
+        }
+      ]
+    },
+    {
+      "title": "Bireyselleştirilmiş Robotik Öğrenme Modeli",
+      "author": null,
+      "publisher": null,
+      "category": "Popüler Bilim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/bireysellestirilmis-robotik-ogrenme-modeli-p-33986880",
+          "price": 152.82
+        }
+      ]
+    },
+    {
+      "title": "Pıtır'ın En Tatlı Günü",
+      "author": null,
+      "publisher": null,
+      "category": "Eğitim Etkinlik Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/pitirin-en-tatli-gunu-p-33986828",
+          "price": 405
+        }
+      ]
+    },
+    {
+      "title": "Nıetzsche ve İroni",
+      "author": null,
+      "publisher": null,
+      "category": "Felsefe Bilimi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/nietzsche-ve-ironi-p-33986809",
+          "price": 369
+        }
+      ]
+    },
+    {
+      "title": "Myth or Polarization? - TİAV",
+      "author": null,
+      "publisher": null,
+      "category": "Politics and Current Affairs",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/myth-or-polarization-p-33986793",
+          "price": 540
+        }
+      ]
+    },
+    {
+      "title": "Derin - Bir Hikaye 1 - Geçmiş Aslında Geçmemiş",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/derin-bir-hikaye-1-gecmis-aslinda-gecmemis-p-33986780",
+          "price": 568.8
+        }
+      ]
+    },
+    {
+      "title": "Kardan Kız - Vuslata Düşen Yalnızlık - TİAV",
+      "author": null,
+      "publisher": null,
+      "category": "Anlatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kardan-kiz-vuslata-dusen-yalnizlik-p-33986763",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "title": "Kuşinsan",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Şiir",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/kusinsan-p-33986755",
+          "price": 270
+        }
+      ]
+    },
+    {
+      "title": "Filozof Kalemler",
+      "author": null,
+      "publisher": null,
+      "category": "Eğitim Etkinlik Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/filozof-kalemler-p-33986754",
+          "price": 405
+        }
+      ]
+    },
+    {
+      "title": "Bir Hiç",
+      "author": null,
+      "publisher": null,
+      "category": "Deneme-Yazın",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/bir-hic-p-33986753",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "title": "Machiavelli'yle Bir Yaz",
+      "author": null,
+      "publisher": null,
+      "category": "Dünya Tarihi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/machiavelliyle-bir-yaz-p-33986752",
+          "price": 146.02
+        }
+      ]
+    },
+    {
+      "title": "Hüseyin Bir Dönemin Hikayesi",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/huseyin-bir-donemin-hikayesi-p-33986751",
+          "price": 223.2
+        }
+      ]
+    },
+    {
+      "title": "Merkeziyetsiz Finans ( DeFi ) Ekosistemi",
+      "author": null,
+      "publisher": null,
+      "category": "Finans",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/merkeziyetsiz-finans-defi-ekosistemi-p-33986750",
+          "price": 418.5
+        }
+      ]
+    },
+    {
+      "title": "Tekstil ve Moda Endüstrisi",
+      "author": null,
+      "publisher": null,
+      "category": "Moda Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/tekstil-ve-moda-endustrisi-p-33986749",
+          "price": 167.4
+        }
+      ]
+    },
+    {
+      "title": "199. Basamakta Kalanlar",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/199-basamakta-kalanlar-p-33986747",
+          "price": 266.09
+        }
+      ]
+    },
+    {
+      "title": "Don Kişot'la Bir Yaz",
+      "author": null,
+      "publisher": null,
+      "category": "Deneme-Yazın",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/don-kisotla-bir-yaz-p-33984091",
+          "price": 178.48
+        }
+      ]
+    },
+    {
+      "title": "Özgürlüğü Kanadında",
+      "author": null,
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540509",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-29",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/ozgurlugu-kanadinda/11012",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Aşı",
+      "author": "Ebru Ojen",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540493",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-29",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/asi/11011",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Birimiz Hatırlasa Yeter",
+      "author": "Burçin Tetik",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540370",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-29",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/birimiz-hatirlasa-yeter/10999",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Sıcacık Bir Ev",
+      "author": "Özgür Çırak",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540455",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-29",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/sicacik-bir-ev/11010",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'nin Dış Politikası",
+      "author": "Evren Balta (Derleyen), Serhat Güvenç (Derleyen)",
+      "publisher": "İletişim Yayınları",
+      "category": null,
+      "isbn": "9789750540486",
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-29",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iletisim",
+          "url": "https://iletisim.com.tr/kitap/turkiye-nin-dis-politikasi/11009",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Dopaminin Şifresi: Mutluluğu ve Verimliliği Artırmak İçin Beyninizi Yeniden Yapılandırmanın Yolları",
+      "author": "Dr. Sydney Ceruto",
+      "publisher": null,
+      "category": "Kişisel Gelişim",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-05",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/dopaminin-sifresi-mutlulugu-ve-verimliligi-artirmak-icin-beyninizi-yeniden-yapilandirmanin-yollari",
+          "price": 280
+        }
+      ]
+    },
+    {
+      "title": "Rengârenk",
+      "author": "Eto Mori",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-05",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/rengarenk",
+          "price": 168
+        }
+      ]
+    },
+    {
+      "title": "Büyülerin Dili",
+      "author": "GARRET WEYR",
+      "publisher": null,
+      "category": "5.-6-7. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-28",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/buyulerin-dili-2",
+          "price": 259
+        }
+      ]
+    },
+    {
+      "title": "Karışık Sinyaller",
+      "author": "B.K. BORISON",
+      "publisher": null,
+      "category": "Romantik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-28",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/karisik-sinyaller",
+          "price": 294
+        }
+      ]
+    },
+    {
+      "title": "Kaç Ayardır Benim Burjuvam?",
+      "author": "REHA TANÖR",
+      "publisher": null,
+      "category": "Anı-Deneme",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-28",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kac-ayardir-benim-burjuvam",
+          "price": 294
+        }
+      ]
+    },
+    {
+      "title": "Yeni Güneşin Dünyası",
+      "author": "GENE WOLFE",
+      "publisher": null,
+      "category": "Bilimkurgu Klasikleri",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-28",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/yeni-gunesin-dunyasi",
+          "price": 343
+        }
+      ]
+    },
+    {
+      "title": "Sıradan Bir Kadının Sıradışı Öyküsü",
+      "author": "Elif Şakar",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-28",
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/siradan-bir-kadinin-siradisi-oykusu",
+          "price": 210
+        }
+      ]
+    },
+    {
+      "title": "Rüya Novellası",
+      "author": "Arthur Schnitzler",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/ruya-novellasi-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/ruya-novellasi.aspx",
+          "price": 95.2
+        }
+      ]
+    },
+    {
+      "title": "Rüya Novellası – Ciltli",
+      "author": "Arthur Schnitzler",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/ruya-novellasi-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/ruya-novellasi-ciltli.aspx",
+          "price": 385
+        }
+      ]
+    },
+    {
+      "title": "Nedret",
+      "author": "Güzide Sabri",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/nedret-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/nedret.aspx",
+          "price": 86.8
+        }
+      ]
+    },
+    {
+      "title": "Seke Seke",
+      "author": "Can Yücel",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/10/seke-seke-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/seke-seke.aspx",
+          "price": 182
+        }
+      ]
+    },
+    {
+      "title": "Dökül Ey Kalbim İbrahim Yıldırım",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/5bad7b15-a337-47ad-bb55-fe899b30efd5.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/dokul-ey-kalbim-p-7539",
+          "price": 375
+        }
+      ]
+    },
+    {
+      "title": "Merak Cemiyeti Tutanakları – İçbükeyler 2010-2011 Enis Batur",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/3755aed8-d526-4e2b-950e-7081f7fc74fc.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/merak-cemiyeti-tutanaklari-icbukeyler-2010-2011-p-7543",
+          "price": 337.5
+        }
+      ]
+    },
+    {
+      "title": "Mümtaz Soysal Sempozyumları – “Yeni Anayasa” Dayatması Üzerine Tartışmalar II Kolektif",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/4e05de07-4fea-446c-ad73-744ea573f190.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/mumtaz-soysal-sempozyumlari-yeni-anayasa-dayatmasi-uzerine-tartismalar-ii-p-7544",
+          "price": 135
+        }
+      ]
+    },
+    {
+      "title": "Sanat Dünyamızdan Kadın Portreleri Atilla Dorsay",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/32c6d9c8-2c5c-48cd-9faa-7adb8e7eed05.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/sanat-dunyamizdan-kadin-portreleri-p-7540",
+          "price": 225
+        }
+      ]
+    },
+    {
+      "title": "Rüzgârı Taşıyan Çocuk Hikmet Ulusoy",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/e40e8c6d-0800-4e81-b56f-fe0221fe5e0d.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/ruzg-ri-tasiyan-cocuk-p-7542",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Çocuk Hakları Mecliste Başak Akgün Akil",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/b84697b5-3acb-49e3-b319-51a12175b008.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/cocuk-haklari-mecliste-p-7541",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Meyve Sineği",
+      "author": "Josh Silver",
+      "publisher": "Doğan Kitap",
+      "category": "Romanlar",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fmeyve-sinegi-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/meyve-sinegi",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Dear Mr. Rock Star",
+      "author": "Teoman",
+      "publisher": "Doğan Kitap",
+      "category": "Romanlar",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fdear-my-rock-star-ing-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/dear-mr-rock-star",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Kan ve Kemik İlkeli",
+      "author": "Jennifer L. Armentrout",
+      "publisher": "DEX",
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fkan-ve-kemik-ilkeli-kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/kan-ve-kemik-ilkeli",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Her Şey Bir Tohumla Başlar",
+      "author": "Laura Knowles",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/her-sey-bir-tohumla-baslar-laura-knowles-cocuk-edebiyat-ketebe-cocuk-laura-knowles-4132-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/her-sey-bir-tohumla-baslar-laura-knowles",
+          "price": 226.85
+        }
+      ]
+    },
+    {
+      "title": "Hikâye Atölyesi",
+      "author": "Jam Dong",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/hikaye-atolyesi-jam-dong-cocuk-edebiyat-ketebe-cocuk-jam-dong-4131-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/hikaye-atolyesi-jam-dong",
+          "price": 207.35
+        }
+      ]
+    },
+    {
+      "title": "Pikselcan Şekilleri Keşfediyor",
+      "author": "Büşra Şen Altun, Emre Can Petek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/pikselcan-sekilleri-kesfediyor-cocuk-edebiyat-ketebe-cocuk-busra-sen-altun-emre-can-petek-4129-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/pikselcan-sekilleri-kesfediyor",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Mavi ile Balıkçı",
+      "author": "Daniele Nicastro",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çocuk Edebiyat",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/mavi-ile-balikci-daniele-nicastro-cocuk-edebiyat-ketebe-cocuk-daniele-nicastro-4130-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/mavi-ile-balikci-daniele-nicastro",
+          "price": 207.35
+        }
+      ]
+    },
+    {
+      "title": "Teklif 29. Sayı",
+      "author": "Teklif Dergi",
+      "publisher": "Ketebe Yayınları",
+      "category": "Teklif Dergi",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/teklif-29-sayi-teklif-dergi-teklif-dergi-4128-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/teklif-29-sayi",
+          "price": 309
+        }
+      ]
+    },
+    {
+      "title": "İzler",
+      "author": "Louise Erdrich",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://metiskitap.blob.core.windows.net/catalog/103854",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-02",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37576",
+          "price": null
         }
       ]
     }
