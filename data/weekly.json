@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-02T14:49:30.590Z",
+  "lastScrapedAt": "2026-11-09T15:15:16.858Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -12003,6 +12003,766 @@
         {
           "name": "metis",
           "url": "https://www.metiskitap.com/catalog/book/37576",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Berbat Haritalar - Saçma Bir Dünyanın Lüzumsuz Atlası",
+      "author": null,
+      "publisher": null,
+      "category": "Mizah Romanı-Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/berbat-haritalar-sacma-bir-dunyanin-luzumsuz-atlasi-p-34407003",
+          "price": 370.76
+        }
+      ]
+    },
+    {
+      "title": "Rainbows Magic Painting Book Usborne Publishing",
+      "author": null,
+      "publisher": null,
+      "category": "Exam Books",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/rainbows-magic-painting-book-usborne-publishing-p-34333922",
+          "price": 511.62
+        }
+      ]
+    },
+    {
+      "title": "Beste Freunde PLUS: Kursbuch A1.1 plus interaktive Version",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/beste-freunde-plus-kursbuch-a11-plus-interaktive-version-p-34328292",
+          "price": 2066.99
+        }
+      ]
+    },
+    {
+      "title": "Deutsch uben: Wortschatz & Grammatik A1",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/deutsch-uben-wortschatz-grammatik-a1-p-34328300",
+          "price": 1956.99
+        }
+      ]
+    },
+    {
+      "title": "Momente A1 Arbeitsbuch Plus interaktif",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/momente-a1-arbeitsbuch-plus-interaktif-p-34328306",
+          "price": 2902.99
+        }
+      ]
+    },
+    {
+      "title": "Einfach Deutsch Lernen - Duden",
+      "author": null,
+      "publisher": null,
+      "category": "Sözlükler, Atlaslar ve İmla Kılavuzları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/einfach-deutsch-lernen-duden-p-34328259",
+          "price": 1275.99
+        }
+      ]
+    },
+    {
+      "title": "Beste Freunde Plus A2.2 Arbeitsbuch",
+      "author": null,
+      "publisher": null,
+      "category": "Sözlükler, Atlaslar ve İmla Kılavuzları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/beste-freunde-plus-a22-arbeitsbuch-p-34328247",
+          "price": 2106.99
+        }
+      ]
+    },
+    {
+      "title": "Spielerisch Deutsch Lernen Vorschule Erste Wörter",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/spielerisch-deutsch-lernen-vorschule-erste-worter-p-34328206",
+          "price": 2012.99
+        }
+      ]
+    },
+    {
+      "title": "Mit Uns B1 Kursbuch.",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/mit-uns-b1-kursbuch-p-34328203",
+          "price": 2155.99
+        }
+      ]
+    },
+    {
+      "title": "Murmeltiere - Buch",
+      "author": null,
+      "publisher": null,
+      "category": "Sözlükler, Atlaslar ve İmla Kılavuzları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/murmeltiere-buch-p-34328194",
+          "price": 1458.99
+        }
+      ]
+    },
+    {
+      "title": "Schritte neu Grammatik",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/schritte-neu-grammatik-p-34328192",
+          "price": 2845.99
+        }
+      ]
+    },
+    {
+      "title": "Momente A1 Kursbuch Plus interaktif",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/momente-a1-kursbuch-plus-interaktif-p-34328187",
+          "price": 2841.99
+        }
+      ]
+    },
+    {
+      "title": "Akademie Deutsch: Zusatzmaterialien Band 2 A2+",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/akademie-deutsch-zusatzmaterialien-band-2-a2-p-34328160",
+          "price": 1302.99
+        }
+      ]
+    },
+    {
+      "title": "L'italiano con i fumetti: Rigoletto",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/litaliano-con-i-fumetti-rigoletto-p-34328156",
+          "price": 1614.99
+        }
+      ]
+    },
+    {
+      "title": "Motive A2 Arbeitsbuch Lek.9-18 + Audio Online",
+      "author": null,
+      "publisher": null,
+      "category": "Sözlükler, Atlaslar ve İmla Kılavuzları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/motive-a2-arbeitsbuch-lek9-18-audio-online-p-34328157",
+          "price": 1934.99
+        }
+      ]
+    },
+    {
+      "title": "Deutsch uben: Lesen & Schreiben B1",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/deutsch-uben-lesen-schreiben-b1-p-34328138",
+          "price": 1581.99
+        }
+      ]
+    },
+    {
+      "title": "Paul, Lisa & Co.: Kursbuch A1.2",
+      "author": null,
+      "publisher": null,
+      "category": "Sözlükler, Atlaslar ve İmla Kılavuzları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/paul-lisa-co-kursbuch-a12-p-34328128",
+          "price": 1586.99
+        }
+      ]
+    },
+    {
+      "title": "Four Corners Level 3 Student's Book with Digital Pack (2nd) - Cambridge University Press",
+      "author": null,
+      "publisher": null,
+      "category": "Sözlükler, Atlaslar ve İmla Kılavuzları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/four-corners-level-3-students-book-with-digital-pack-2nd-p-34328119",
+          "price": 1595.99
+        }
+      ]
+    },
+    {
+      "title": "Sicher! aktuell: Kursbuch B2",
+      "author": null,
+      "publisher": null,
+      "category": "Dil Öğrenim Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sicher-aktuell-kursbuch-b2-p-34328104",
+          "price": 3173.99
+        }
+      ]
+    },
+    {
+      "title": "Bilinmeyen",
+      "author": "Riley Sager",
+      "publisher": null,
+      "category": "Gizem",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-12",
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/bilinmeyen-2",
+          "price": 294
+        }
+      ]
+    },
+    {
+      "title": "Charlie, Aşk ve Klişeler",
+      "author": "ELLA MAISE",
+      "publisher": null,
+      "category": "Romantik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-12",
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/charlie-ask-ve-kliseler",
+          "price": 343
+        }
+      ]
+    },
+    {
+      "title": "Sessizlik İmparatorluğu - Güneş Yiyen Serisi 1. Kitap",
+      "author": "Christopher Ruocchio",
+      "publisher": null,
+      "category": "Bilimkurgu",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-12",
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/sessizlik-imparatorlugu-gunes-yiyen-serisi-1-kitap",
+          "price": 574
+        }
+      ]
+    },
+    {
+      "title": "Ekoserüven- Kızılcık Köyü’nde Gizemli Böceklerin İzinde",
+      "author": "Gülay Çelikel Çubukçu",
+      "publisher": null,
+      "category": "3. VE 4. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-12",
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/ekoseruven-kizilcik-koyunde-gizemli-boceklerin-izinde",
+          "price": 196
+        }
+      ]
+    },
+    {
+      "title": "Mestra: Bir Öykü",
+      "author": "MADELINE MILLER",
+      "publisher": null,
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-12",
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/mestra-bir-oyku",
+          "price": 168
+        }
+      ]
+    },
+    {
+      "title": "Karışık Sinyaller",
+      "author": "B. K. Borison",
+      "publisher": null,
+      "category": "Romantik",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-28",
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/karisik-sinyaller",
+          "price": 294
+        }
+      ]
+    },
+    {
+      "title": "Eşekarısı Fabrikası",
+      "author": "Iain Banks",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-10-28",
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/esekarisi-fabrikasi",
+          "price": 196
+        }
+      ]
+    },
+    {
+      "title": "Büyük Üstat’ın Tutukluluk Notları Remzi Sanver",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/feb43d6b-2315-4ed7-b846-e4da3f4b0607.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/buyuk-ustat-in-tutukluluk-notlari-p-7548",
+          "price": 225
+        }
+      ]
+    },
+    {
+      "title": "Aşıklar Cemi Haydar Ergülen",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/ba09a478-2545-4f75-ad82-19a947612715.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/asiklar-cemi-p-7551",
+          "price": 375
+        }
+      ]
+    },
+    {
+      "title": "Harput’ta Neyim Kaldı? Miyase İlknur",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/73d81287-281e-44c5-b6dd-71263879c472.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/harput-ta-neyim-kaldi-p-7552",
+          "price": 262.5
+        }
+      ]
+    },
+    {
+      "title": "Sorumluluğun Zarafeti Cem Nikravan",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/12dfb505-f5c8-45f1-ab2f-f93d51d1a7b8.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/sorumlulugun-zarafeti-p-7553",
+          "price": 225
+        }
+      ]
+    },
+    {
+      "title": "Okullarda Liderlik Kültürü Dr. Ali Akdoğan",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/94bd42fe-973a-4011-8516-1cb42da9d3b1.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/okullarda-liderlik-kulturu-p-7536",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Haruki Murakami Manga Öyküleri Cilt 1 -",
+      "author": "Haruki Murakami",
+      "publisher": "DEX",
+      "category": "Manga",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fsc-murakami-cilt1o-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/haruki-murakami-manga-oykuleri-cilt-1",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Ahenk",
+      "author": "Birleşik Krallık Kralı III. CharlesIan SkellyTony Juniper",
+      "publisher": "Doğan Kitap",
+      "category": "Romanlar",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fahenk-o-kapak-somiz.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/ahenk",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Tarih Boyunca Büyük Mazlumlar",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://www.ketebe.com/tarih-boyunca-buyuk-mazlumlarnecip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-4137-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/tarih-boyunca-bu%CC%88yu%CC%88k-mazlumlarnecip-fazil-kisakurek",
+          "price": 428.35
+        }
+      ]
+    },
+    {
+      "title": "Siyah Pelerinli Adam",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Büyük Doğu Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/siyah-pelerinli-adam-necip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-4138-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/siyah-pelerinli-adam-necip-fazil-kisakurek",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Sabır Taşı",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Büyük Doğu Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/sabir-tasi-necip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-4139-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/sabir-tasi-necip-fazil-kisakurek",
+          "price": 187.85
+        }
+      ]
+    },
+    {
+      "title": "Kafa Kâğıdı",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://www.ketebe.com/kafa-kgidi-necip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-4140-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/kafa-k%C3%A2gidi-necip-fazil-kisakurek",
+          "price": 226.85
+        }
+      ]
+    },
+    {
+      "title": "Ahşap Konak",
+      "author": "Necip Fazıl Kısakürek",
+      "publisher": "Ketebe Yayınları",
+      "category": "Büyük Doğu Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/ahsap-konak-necip-fazil-kisakurek-buyuk-dogu-kitapligi-ketebe-necip-fazil-kisakurek-4141-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/ahsap-konak-necip-fazil-kisakurek",
+          "price": 194.35
+        }
+      ]
+    },
+    {
+      "title": "Renklerini Bilmediğim Rüyalar ve Fiiller İçin",
+      "author": "Koçer Avcı",
+      "publisher": "Ketebe Yayınları",
+      "category": "Türk Şiiri",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/renklerini-bilmedigim-ruyalar-ve-fiiller-icin-turk-siiri-ketebe-kocer-avci-4142-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/renklerini-bilmedigim-ruyalar-ve-fiiller-icin",
+          "price": 174.85
+        }
+      ]
+    },
+    {
+      "title": "Koru Kendini",
+      "author": "Daniel M. Davis",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-09",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37578",
           "price": null
         }
       ]
