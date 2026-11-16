@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-09T15:15:16.858Z",
+  "lastScrapedAt": "2026-11-16T14:51:20.889Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -12763,6 +12763,918 @@
         {
           "name": "metis",
           "url": "https://www.metiskitap.com/catalog/book/37578",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Ve Ağaç Devrildi - DeliDolu",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ve-agac-devrildi-p-34924885",
+          "price": 314.55
+        }
+      ]
+    },
+    {
+      "title": "İçinden Yol Geçen Hayatlar - Altın Kitaplar",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/icinden-yol-gecen-hayatlar-p-34924866",
+          "price": 356.95
+        }
+      ]
+    },
+    {
+      "title": "Maça Kızı 8 - 6. Kitap",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/maca-kizi-8-6-kitap-p-34924396",
+          "price": 451.06
+        }
+      ]
+    },
+    {
+      "title": "Maça Kızı 8 - 6. Kitap Seti - Kutulu",
+      "author": null,
+      "publisher": null,
+      "category": "Türk Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/maca-kizi-8-6-kitap-seti-kutulu-p-34924368",
+          "price": 548.4
+        }
+      ]
+    },
+    {
+      "title": "Yargı Yayınları 2027 Pratik İngilizce Seti",
+      "author": null,
+      "publisher": null,
+      "category": "YDS",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yargi-yayinlari-2027-pratik-ingilizce-seti-p-34872849",
+          "price": 1320
+        }
+      ]
+    },
+    {
+      "title": "Yargı Yayınları 2027 Gramer Alıştırma Seti",
+      "author": null,
+      "publisher": null,
+      "category": "YDS",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yargi-yayinlari-2027-gramer-alistirma-seti-p-34872847",
+          "price": 899
+        }
+      ]
+    },
+    {
+      "title": "Yargı Yayınları 2027 İngilizce Kelime Seti",
+      "author": null,
+      "publisher": null,
+      "category": "YDS",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yargi-yayinlari-2027-ingilizce-kelime-seti-p-34872848",
+          "price": 1425
+        }
+      ]
+    },
+    {
+      "title": "Yargı Yayınları 2027 Dinleyerek İngilizce Seti",
+      "author": null,
+      "publisher": null,
+      "category": "YDS",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yargi-yayinlari-2027-dinleyerek-ingilizce-seti-p-34872844",
+          "price": 850
+        }
+      ]
+    },
+    {
+      "title": "Yargı Yayınları 2027 Baştan Sona İngilizce Hikaye Seti",
+      "author": null,
+      "publisher": null,
+      "category": "YDS",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yargi-yayinlari-2027-bastan-sona-ingilizce-hikaye-seti-p-34872845",
+          "price": 699
+        }
+      ]
+    },
+    {
+      "title": "Yargı Yayınları 2027 Tam Gramer Seti",
+      "author": null,
+      "publisher": null,
+      "category": "YDS",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yargi-yayinlari-2027-tam-gramer-seti-p-34872843",
+          "price": 1350
+        }
+      ]
+    },
+    {
+      "title": "Yargı Yayınları 2027 Tam Gramer ve Kelime Seti",
+      "author": null,
+      "publisher": null,
+      "category": "YDS",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yargi-yayinlari-2027-tam-gramer-ve-kelime-seti-p-34872841",
+          "price": 2772
+        }
+      ]
+    },
+    {
+      "title": "Yargı Yayınları 2027 Konuşmak İçin İngilizce Seti - A1-A2 Kelimeler + Gramer + Pratik İngilizce - Video Anlatımlı",
+      "author": null,
+      "publisher": null,
+      "category": "YDS",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yargi-yayinlari-2027-konusmak-icin-ingilizce-seti-a1-a2-kelimeler-gramer-pratik-ingilizce-video-anlatimli-p-34872837",
+          "price": 1460.34
+        }
+      ]
+    },
+    {
+      "title": "Şifacı Günceleri - Maomao'nun Saray Gizemlerini Çözme Defteri 3",
+      "author": null,
+      "publisher": null,
+      "category": "Manga",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sifaci-gunceleri-maomaonun-saray-gizemlerini-cozme-defteri-3-p-34867313",
+          "price": 169.83
+        }
+      ]
+    },
+    {
+      "title": "Şifacı Günceleri - Maomao'nun Saray Gizemlerini Çözme Defteri 1",
+      "author": null,
+      "publisher": null,
+      "category": "Manga",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sifaci-gunceleri-maomaonun-saray-gizemlerini-cozme-defteri-1-p-34867311",
+          "price": 169.83
+        }
+      ]
+    },
+    {
+      "title": "Şifacı Günceleri - Maomao'nun Saray Gizemlerini Çözme Defteri 2",
+      "author": null,
+      "publisher": null,
+      "category": "Manga",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sifaci-gunceleri-maomaonun-saray-gizemlerini-cozme-defteri-2-p-34867308",
+          "price": 169.83
+        }
+      ]
+    },
+    {
+      "title": "Boğaziçi'nde Bir Tur - Bir Boğaziçi Kitabı",
+      "author": null,
+      "publisher": null,
+      "category": "İstanbul Kitapları",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/bogazicinde-bir-tur-bir-bogazici-kitabi-p-34839049",
+          "price": 225
+        }
+      ]
+    },
+    {
+      "title": "Anlaşılabilir Ekonomi",
+      "author": "Howard Yaruss",
+      "publisher": null,
+      "category": "Ekonomi",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-19",
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/anlasilabilir-ekonomi",
+          "price": 315
+        }
+      ]
+    },
+    {
+      "title": "Tilkinin Kulesi",
+      "author": "SAM THOMPSON",
+      "publisher": null,
+      "category": "5.-6-7. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-19",
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/tilkinin-kulesi",
+          "price": 224
+        }
+      ]
+    },
+    {
+      "title": "Dune Mesihi (Film Kapağı)",
+      "author": "FRANK HERBERT",
+      "publisher": null,
+      "category": "Bilimkurgu",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-19",
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/dune-mesihi-film-kapagi",
+          "price": 280
+        }
+      ]
+    },
+    {
+      "title": "Kalbimde Çiçekler Açtı",
+      "author": "EBRU ERTÜRETEN",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-19",
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kalbimde-cicekler-acti",
+          "price": 266
+        }
+      ]
+    },
+    {
+      "title": "Leydi Macbeth",
+      "author": "AVA REID",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-19",
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/leydi-macbeth",
+          "price": 252
+        }
+      ]
+    },
+    {
+      "title": "Taipei Hikâyesi",
+      "author": "R. F. KUANG",
+      "publisher": null,
+      "category": "Dünya Edebiyatı",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-19",
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/taipei-hikayesi",
+          "price": 266
+        }
+      ]
+    },
+    {
+      "title": "Kurtların Elçisi",
+      "author": "SAM THOMPSON",
+      "publisher": null,
+      "category": "5.-6-7. SINIFLAR",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-19",
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/kurtlarin-elcisi-2",
+          "price": 245
+        }
+      ]
+    },
+    {
+      "title": "Dönmeyen",
+      "author": "Uğur Deveci",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-19",
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/donmeyen",
+          "price": 245
+        }
+      ]
+    },
+    {
+      "title": "Xi Jinping’in Yoksullukla Mücadele Hikâyeleri Halkın Günlüğü",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/e51de979-02d1-454c-aece-5c25532e8ac1.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/xi-jinping-in-yoksullukla-mucadele-hik-yeleri-p-7563",
+          "price": 450
+        }
+      ]
+    },
+    {
+      "title": "Kadim Başkentten Yeni Hikâyeler – Yeni Pekin Edebiyatı Sayı: 3 Zhang Wei",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/9721dd11-f4bb-4016-b998-b7858c2a4ded.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/kadim-baskentten-yeni-hik-yeler-yeni-pekin-edebiyati-sayi-3-p-7566",
+          "price": 187.5
+        }
+      ]
+    },
+    {
+      "title": "Çin: Gök ve Yer Arasında 5000 Yıl Giray Fidan",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/0e032b9a-071a-4368-af10-a3948a7d5372.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/cin-gok-ve-yer-arasinda-5000-yil-p-7565",
+          "price": 525
+        }
+      ]
+    },
+    {
+      "title": "Afrika Oyunları Ernst Jünger",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/4aee055b-4413-4435-9c98-4f914b64af46.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/afrika-oyunlari-p-7538",
+          "price": 262.5
+        }
+      ]
+    },
+    {
+      "title": "Tasfiye Kapitalizmi Ceyhun Elgin",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/d6d29e98-8ba2-42b2-a94c-21dcae3adc6c.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/tasfiye-kapitalizmi-p-7537",
+          "price": 225
+        }
+      ]
+    },
+    {
+      "title": "Ölüm Bir Gün Batımı Sevgilim Şükrü Erbaş",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/881464ba-15ad-435e-ab5c-eaf2cbbc5f16.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/olum-bir-gun-batimi-sevgilim-p-7560",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Ölümlü Şeyler",
+      "author": "Marie Lu",
+      "publisher": "DEX",
+      "category": "Fantastik",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Folumlu-seyler-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/olumlu-seyler",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Gül Kanunu",
+      "author": "Elçin Poyrazlar",
+      "publisher": "Doğan Kitap",
+      "category": "Polisiye - Gerilim",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fgul-kanunu-o-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/gul-kanunu",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Fonksiyonel Nefes",
+      "author": "Prof. Dr. Vahide Savcı",
+      "publisher": "Doğan Kitap",
+      "category": "Sağlık",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Ffonksiyonel-nefes-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/fonksiyonel-nefes",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Haruki Murakami Manga Öyküleri Cilt 2 -",
+      "author": "Haruki Murakami",
+      "publisher": "DEX",
+      "category": "Manga",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fsc-murakami-cilt2kapak-o.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/haruki-murakami-manga-oykuleri-cilt-2",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Tuhfe-i Hattâtîn",
+      "author": "Müstakimzâde Süleyman Sa‘deddin Efendi",
+      "publisher": "Ketebe Yayınları",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/tuhfe-i-hattatin-mustakimzade-suleyman-sadeddin-efendi-arastirma-inceleme-ketebe-mustakimzde-suleyman-sadeddin-efendi-4161-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/tuhfe-i-hattatin-mustakimzade-suleyman-sadeddin-efendi",
+          "price": 1754.35
+        }
+      ]
+    },
+    {
+      "title": "Bütün Öyküleri ve Şiirleri",
+      "author": "Edgar Allan Poe",
+      "publisher": "Ketebe Yayınları",
+      "category": "Amerikan Klasikleri",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/butun-oykuleri-ve-siirleri-edgar-allan-poe-amerikan-klasikleri-ketebe-edgar-allan-poe-4168-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/butun-oykuleri-ve-siirleri-edgar-allan-poe",
+          "price": 2014.35
+        }
+      ]
+    },
+    {
+      "title": "Ümit ve Korku",
+      "author": "İmam Gazzâlî",
+      "publisher": "Ketebe Yayınları",
+      "category": "Gazzâli Kitaplığı",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/umit-ve-korku-imam-gazzali-gazzli-kitapligi-ketebe-imam-gazzl-4143-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/umit-ve-korku-imam-gazzali",
+          "price": 148.85
+        }
+      ]
+    },
+    {
+      "title": "Şüphe ve İnşa",
+      "author": "Necmettin Salih Ekiz",
+      "publisher": "Ketebe Yayınları",
+      "category": "Düşünce",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/suphe-ve-insa-necmettin-salih-ekiz-dusunce-ketebe-necmettin-salih-ekiz-4144-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/suphe-ve-insa-necmettin-salih-ekiz",
+          "price": 356.85
+        }
+      ]
+    },
+    {
+      "title": "Hükümdarların Yolu",
+      "author": "Xin Wen",
+      "publisher": "Ketebe Yayınları",
+      "category": "Tarih",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/hukumdarlarin-yolu-xin-wen-tarih-ketebe-xin-wen-4145-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/hukumdarlarin-yolu-xin-wen",
+          "price": 454.35
+        }
+      ]
+    },
+    {
+      "title": "Canavar",
+      "author": "İsmail Kadare",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çeviri Roman",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/canavar-ismail-kadare-ceviri-roman-ketebe-ismail-kadare-4146-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/canavar-ismail-kadare",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Transhümanist Hareket",
+      "author": "Francesco Paolo Adorno",
+      "publisher": "Ketebe Yayınları",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/transhumanist-hareket-francesco-paolo-adorno-arastirma-inceleme-ketebe-francesco-paolo-adorno-4147-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/transhumanist-hareket-francesco-paolo-adorno",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Kritias",
+      "author": "Platon",
+      "publisher": "Ketebe Yayınları",
+      "category": "Bibliotheka",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/kritias-platon-bibliotheka-ketebe-platon-4148-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/kritias-platon",
+          "price": 96.85
+        }
+      ]
+    },
+    {
+      "title": "Kant Makinesi",
+      "author": "Yuk Hui",
+      "publisher": "Ketebe Yayınları",
+      "category": "Araştırma - İnceleme",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/kant-makinesi-yuk-hui-arastirma-inceleme-ketebe-yuk-hui-4149-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/kant-makinesi-yuk-hui",
+          "price": 148.85
+        }
+      ]
+    },
+    {
+      "title": "Aşk ve Pedagoji",
+      "author": "Miguel De Unamuno",
+      "publisher": "Ketebe Yayınları",
+      "category": "Çeviri Roman",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/ask-ve-pedagoji-miguel-de-unamuno-ceviri-roman-ketebe-miguel-de-unamuno-4150-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/ask-ve-pedagoji-miguel-de-unamuno",
+          "price": 226.85
+        }
+      ]
+    },
+    {
+      "title": "Metis Ajanda 2027: Eşyanın Aynasından",
+      "author": "Metis Yayınları’nda Özde Duygu Gürkan editörlüğünde kolektif olarak hazırlanmıştır.",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37600",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Öğretmen İle Mahluk",
+      "author": "Imma Monsó",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37601",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Bize Yalan Söylediler",
+      "author": "Esra Sert",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37586",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Dünyayı Değiştirmek",
+      "author": "Alain Badiou",
+      "publisher": "Metis Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-16",
+      "sources": [
+        {
+          "name": "metis",
+          "url": "https://www.metiskitap.com/catalog/book/37582",
           "price": null
         }
       ]
