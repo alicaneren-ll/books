@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-16T14:51:20.889Z",
+  "lastScrapedAt": "2026-11-23T17:27:35.618Z",
   "books": [
     {
       "title": "Özgürlüğe Koşanlar",
@@ -13676,6 +13676,614 @@
           "name": "metis",
           "url": "https://www.metiskitap.com/catalog/book/37582",
           "price": null
+        }
+      ]
+    },
+    {
+      "title": "Hukukta Yapay Zekâ Kullanımı Alperen İşleyen 1. Baskı, Kasım 2026",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/hukukta-yapay-zeka-kullanimi-alperen-isleyen-1-baski-kasim-2026-p-35254651",
+          "price": 1109.17
+        }
+      ]
+    },
+    {
+      "title": "Karşılaştırmalı Hukukta Akıllı Sözleşmeler Türk Borçlar Hukuku Perspektifinden Kuruluş, Geçerlilik, İfa ve Uygulama Soru",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/karsilastirmali-hukukta-akilli-sozlesmeler-turk-borclar-hukuku-perspektifinden-kurulus-gecerlilik-ifa-ve-uygulama-soru-p-35254649",
+          "price": 1313.86
+        }
+      ]
+    },
+    {
+      "title": "Enerji Kaynakları ve Deniz Yetki Alanları Bakımından Doğu Akdeniz Sorunu Deniz Hukuku - Kıta Sahanlığı - MEB - Enerji Gü",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/enerji-kaynaklari-ve-deniz-yetki-alanlari-bakimindan-dogu-akdeniz-sorunu-deniz-hukuku-kita-sahanligi-meb-enerji-gu-p-35254650",
+          "price": 1482.48
+        }
+      ]
+    },
+    {
+      "title": "Studien zum Deutschen und Türkischen Strafrecht \"Das Recht auf Privatleben und der Schutz personenbezogener Daten im Str",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/studien-zum-deutschen-und-turkischen-strafrecht-das-recht-auf-privatleben-und-der-schutz-personenbezogener-daten-im-str-p-35254648",
+          "price": 1313.86
+        }
+      ]
+    },
+    {
+      "title": "Sorumluluk Hukuku Bağlamında Tıpta Yapay Zeka Kullanımı Doç. Dr. Gamze Turan Başara 1. Baskı, Kasım 2026",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sorumluluk-hukuku-baglaminda-tipta-yapay-zeka-kullanimi-doc-dr-gamze-turan-basara-1-baski-kasim-2026-p-35254646",
+          "price": 1357.22
+        }
+      ]
+    },
+    {
+      "title": "AMOS ile Yapısal Eşitlik Modellemesi Basit, Seri, Paralel ve Durumsal Aracılı Modeller Prof. Dr. Daimi Koçak 2. Baskı, K",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/amos-ile-yapisal-esitlik-modellemesi-basit-seri-paralel-ve-durumsal-aracili-modeller-prof-dr-daimi-kocak-2-baski-k-p-35254639",
+          "price": 690.55
+        }
+      ]
+    },
+    {
+      "title": "5411 Sayılı Bankacılık Kanunu Çerçevesinde Banka Hukuku Kanun - Alt Düzenlemeler - Uygulama Prof. Dr. Adalet Hazar,Prof.",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/5411-sayili-bankacilik-kanunu-cercevesinde-banka-hukuku-kanun-alt-duzenlemeler-uygulama-prof-dr-adalet-hazarprof-p-35254643",
+          "price": 651.5
+        }
+      ]
+    },
+    {
+      "title": "Yönetici Asistanlığı (Yönetici Sekreterliği) Prof. Dr. Hasan Tutar 6. Baskı, Ocak 2021",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/yonetici-asistanligi-yonetici-sekreterligi-prof-dr-hasan-tutar-6-baski-ocak-2021-p-35254645",
+          "price": 716.59
+        }
+      ]
+    },
+    {
+      "title": "Avukatlık Kanunu (Cep Kitabı) Seçkin Yayıncılık 40. Baskı, Ocak 2027",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/avukatlik-kanunu-cep-kitabi-seckin-yayincilik-40-baski-ocak-2027-p-35254636",
+          "price": 393.09
+        }
+      ]
+    },
+    {
+      "title": "Franchise Sözleşmelerinde Rekabet Kurallarına Aykırı Uygulamalar Av. LL.M. Fatih Uğur Yeler 1. Baskı, Kasım 2026",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/franchise-sozlesmelerinde-rekabet-kurallarina-aykiri-uygulamalar-av-llm-fatih-ugur-yeler-1-baski-kasim-2026-p-35254632",
+          "price": 939.09
+        }
+      ]
+    },
+    {
+      "title": "Nemo Tenetur İlkesi Işığında Ceza Muhakemesi Hukukunda Beden Muayenesi Dr. Öğr. Üyesi Ümmügülsüm Kılıç 1. Baskı, Kasım 2",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/nemo-tenetur-ilkesi-isiginda-ceza-muhakemesi-hukukunda-beden-muayenesi-dr-ogr-uyesi-ummugulsum-kilic-1-baski-kasim-2-p-35254630",
+          "price": 1016.66
+        }
+      ]
+    },
+    {
+      "title": "Vatandaşlık Hukuku Dr. Mustafa Ayaz Yavuz 1. Baskı, Kasım 2026",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/vatandaslik-hukuku-dr-mustafa-ayaz-yavuz-1-baski-kasim-2026-p-35254625",
+          "price": 671.06
+        }
+      ]
+    },
+    {
+      "title": "Aile Hukuku Prof. Dr. Hüseyin Hatemi,Dr. Öğr. Üyesi Selvi Nazlı Güvenç 11. Baskı, Ekim 2026",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/aile-hukuku-prof-dr-huseyin-hatemidr-ogr-uyesi-selvi-nazli-guvenc-11-baski-ekim-2026-p-35254610",
+          "price": 684.04
+        }
+      ]
+    },
+    {
+      "title": "Öldürme Suçlarında Kastın Belirlenmesi ve Haksız Tahrik Av. İbrahim Burak Şen 1. Baskı, Kasım 2026",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/oldurme-suclarinda-kastin-belirlenmesi-ve-haksiz-tahrik-av-ibrahim-burak-sen-1-baski-kasim-2026-p-35254574",
+          "price": 939.09
+        }
+      ]
+    },
+    {
+      "title": "Şematik Medeni Usul Hukuku Doç. Dr. Orhan Eroğlu 1. Baskı, Kasım 2026",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/sematik-medeni-usul-hukuku-doc-dr-orhan-eroglu-1-baski-kasim-2026-p-35254563",
+          "price": 1102.9
+        }
+      ]
+    },
+    {
+      "title": "Ortaklıklar Hukuku Uygulama Çalışmaları - I Prof. Dr. Şafak Narbay, (Editör)Dr. Öğr. Üyesi Şengül Al Kılıç,Dr. Öğr. Üyes",
+      "author": null,
+      "publisher": null,
+      "category": "Hukuk",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "idefix",
+          "url": "https://www.idefix.com/ortakliklar-hukuku-uygulama-calismalari-i-prof-dr-safak-narbay-editordr-ogr-uyesi-sengul-al-kilicdr-ogr-uyes-p-35254556",
+          "price": 900.03
+        }
+      ]
+    },
+    {
+      "title": "Karanlıkta Çok Güzelim",
+      "author": "Nilüfer Açıkalın",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Roman",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-26",
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/karanlikta-cok-guzelim",
+          "price": 315
+        }
+      ]
+    },
+    {
+      "title": "Hüzün Süpüren",
+      "author": "Nilüfer Açıkalın",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-26",
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/huzun-supuren",
+          "price": 189
+        }
+      ]
+    },
+    {
+      "title": "İş Seyahati",
+      "author": "Jessie Garcia",
+      "publisher": null,
+      "category": "Gizem",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-26",
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/is-seyahati",
+          "price": 308
+        }
+      ]
+    },
+    {
+      "title": "Köklerin Uyuduğu Gece: Kayıp Rıhtım Öykü Antolojisi 2",
+      "author": "Kolektif",
+      "publisher": null,
+      "category": "Türk Edebiyatı-Öykü",
+      "isbn": null,
+      "cover": null,
+      "description": null,
+      "publishedDate": "2026-11-26",
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ithaki",
+          "url": "https://www.ithakiyayingrubu.com/koklerin-uyudugu-gece-kayip-rihtim-oyku-antolojisi-2",
+          "price": 280
+        }
+      ]
+    },
+    {
+      "title": "Hacim Hesabı Üzerine 2. Cilt",
+      "author": "Solvej Balle",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/11/hacim-hesabi-uzerine-iki-120x198.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/hacim-hesabi-uzerine-2-cilt.aspx",
+          "price": 189
+        }
+      ]
+    },
+    {
+      "title": "Kalbimin Suçu",
+      "author": "Mahmut Yesari",
+      "publisher": "İş Bankası Kültür Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://img.iskultur.com.tr/webp/2026/11/kalbimin-sucu-120x197.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "iskultur",
+          "url": "https://www.iskultur.com.tr/kalbimin-sucu.aspx",
+          "price": 84
+        }
+      ]
+    },
+    {
+      "title": "Umut Işıkları Wolfgang Schivelbusch",
+      "author": null,
+      "publisher": "Kırmızı Kedi Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/38b74292-6b9c-42f8-9c75-9af82fc71f5e.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/umut-isiklari-p-7550",
+          "price": 375
+        }
+      ]
+    },
+    {
+      "title": "Manolya Zeynep Alpaslan",
+      "author": null,
+      "publisher": "Çınar Yayınları",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/69872db1-18d6-40c7-a4f5-0bd4911f7056.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/manolya-p-7564",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Ben Nermin Deniz Mit Alptemoçin",
+      "author": null,
+      "publisher": "Kırk Yayınevi",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/a4d897ca-ea6a-4711-a1ee-2d8c25d5fa80.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/ben-nermin-p-7549",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "title": "Mimar Sinan’ın İzinde Gül Batmanoğlu",
+      "author": null,
+      "publisher": "Kırmızı Kedi Çocuk",
+      "category": null,
+      "isbn": null,
+      "cover": "https://kirmizikediyayinevi.istecdn.com/File/Images/Product/5b60ff2d-5dd8-47c0-84a2-91159f8e63a9.jpg?w=600",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "kirmizikedi",
+          "url": "https://www.kirmizikedi.com/mimar-sinan-in-izinde-p-7561",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "title": "Asla Unutma",
+      "author": "Sevil Atasoy",
+      "publisher": "Doğan Kitap",
+      "category": "Polisiye - Gerilim",
+      "isbn": null,
+      "cover": "/t?src=%2Ffiles%2Fkitaplar%2Fimg%2Fasla-unutma-on-kapak.jpg&w=250&zc=1",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "dogan",
+          "url": "https://www.dogankitap.com.tr/kitap/asla-unutma",
+          "price": null
+        }
+      ]
+    },
+    {
+      "title": "Arısız Dünya",
+      "author": "Hanna Harms",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/arisiz-dunya-hanna-harms-ketebe-x-ketebe-x-hanna-harms-4179-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/arisiz-dunya-hanna-harms",
+          "price": 304.85
+        }
+      ]
+    },
+    {
+      "title": "Bağdat Fatihi",
+      "author": "Yavuz Bahadıroğlu",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/bagdat-fatihi-yavuz-bahadiroglu-ketebe-x-ketebe-x-yavuz-bahadiroglu-4180-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/bagdat-fatihi-yavuz-bahadiroglu",
+          "price": 259.35
+        }
+      ]
+    },
+    {
+      "title": "Kılıç ve Fetih",
+      "author": "Yavuz Bahadıroğlu",
+      "publisher": "Ketebe Yayınları",
+      "category": "Ketebe X",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/kilic-ve-fetih-yavuz-bahadiroglu-ketebe-x-ketebe-x-yavuz-bahadiroglu-4181-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/kilic-ve-fetih-yavuz-bahadiroglu",
+          "price": 272.35
+        }
+      ]
+    },
+    {
+      "title": "Bütün Öyküleri ve Şiirleri - Poe",
+      "author": "Edgar Allan Poe",
+      "publisher": "Ketebe Yayınları",
+      "category": "Amerikan Klasikleri",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/butun-oykuleri-ve-siirleri-edgar-allan-poe-amerikan-klasikleri-ketebe-edgar-allan-poe-4168-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/butun-oykuleri-ve-siirleri-edgar-allan-poe",
+          "price": 2014.35
+        }
+      ]
+    },
+    {
+      "title": "Düşman",
+      "author": "Gopal Balakrishnan",
+      "publisher": "Ketebe Yayınları",
+      "category": "Biyografi",
+      "isbn": null,
+      "cover": "https://www.ketebe.com/dusman-gopal-balakrishnan-biyografi-ketebe-gopal-balakrishnan-4175-22-K.jpg",
+      "description": null,
+      "publishedDate": null,
+      "language": null,
+      "firstSeen": "2026-11-23",
+      "sources": [
+        {
+          "name": "ketebe",
+          "url": "https://www.ketebe.com/dusman-gopal-balakrishnan",
+          "price": 551.85
         }
       ]
     }
